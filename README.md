@@ -24,11 +24,11 @@ $$\begin{align} Ρ = \frac{\mathrm{e}^{a+bX}}{1+\mathrm{e}^{a+bX}}. \end{align}$
 
 -   Suppose we have some series:
 
-\\begin{align} S(a,b) = \\sum\_{n=a}^b \\frac{p_n}{q_n} \\end{align}
+$$\\begin{align} S(a,b) = \\sum\_{n=a}^b \\frac{p_n}{q_n} \\end{align}$$
 
 -   Then the goal is to find integers P(a,b) and Q(a,b) such that:
 
-\\begin{align} S(a,b) = \\sum\_{n=a}^b \\frac{P(a,b)}{Q(a,b)} \\end{align}
+$$\\begin{align} S(a,b) = \\sum\_{n=a}^b \\frac{P(a,b)}{Q(a,b)} \\end{align}$$
 
 ## Random Forest
 
@@ -37,14 +37,14 @@ $$\begin{align} Ρ = \frac{\mathrm{e}^{a+bX}}{1+\mathrm{e}^{a+bX}}. \end{align}$
     -   $y_i$ is the actual value for data point i.
     -   $N$ is the number of data points.
 
-\\begin{align} MSE = \\frac{1}{N}\\sum\_{i=1}^N (f_i - y_i)^2 \\end{align}
+$$\\begin{align} MSE = \\frac{1}{N}\\sum\_{i=1}^N (f_i - y_i)^2 \\end{align}$$
 
 -   This is a classification problem, thus we use a method of measurement known as the gini impurity and entropy.
     -   Where $p_i$ represents the relative frequency of the class you are observing in the data set and $c$ represents the number of classes.
 
-\\begin{align} Gini = 1 - \\sum\_{i=1}^N (p_i)^2 \\end{align}
+$$\\begin{align} Gini = 1 - \\sum\_{i=1}^N (p_i)^2 \\end{align}$$
 
-\\begin{align} Entropy = \\sum\_{i=1}^C -p_i \* log_2(p_i) \\end{align}
+$$\\begin{align} Entropy = \\sum\_{i=1}^C -p_i \* log_2(p_i) \\end{align}$$
 
 # Machine Learning Overview
 
