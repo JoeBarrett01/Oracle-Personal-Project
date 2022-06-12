@@ -1,2 +1,75 @@
-# Personal-Project
-OCI analytics of F1 Data
+# Personal Project Overview
+
+**GOAL:** to explore key features which impact the success of a Formula 1 race.
+
+**METHOD 1**: Decision tree, Random Forest, Logistic Regression, Bagging/Boosting to predict 'WON_RACE' for 1st, 2nd, 3rd place qualifiers
+
+**METHOD 2**: Logistic Regression to predict likelihood of 1st place qualifier winning for top 5 raced tracks
+
+**METHOD 3** Decision tree, Random Forest, Logistic Regression, Bagging/Boosting to predict 'WON_RACE' for 1st, 2nd, 3rd, place qualifiers *with* pit stop and safety car information
+
+------------------------------------------------------------------------
+
+# Algorithm Overview
+
+## Logistic Regression
+
+-   The Formula of logistic regression is given:
+
+$$\begin{align} Ρ = \frac{\mathrm{e}^{a+bX}}{1+\mathrm{e}^{a+bX}}. \end{align}$$
+
+-   Used to obtain odds ratio in the presence of more than one explanatory variable
+
+## Recursive Binary Splitting
+
+-   Suppose we have some series:
+
+\\begin{align} S(a,b) = \\sum\_{n=a}^b \\frac{p_n}{q_n} \\end{align}
+
+-   Then the goal is to find integers P(a,b) and Q(a,b) such that:
+
+\\begin{align} S(a,b) = \\sum\_{n=a}^b \\frac{P(a,b)}{Q(a,b)} \\end{align}
+
+## Random Forest
+
+-   We use the Mean Square Error (MSE) to find how far data branches from each node:
+    -   where $f_i$ is the value returned by the model
+    -   $y_i$ is the actual value for data point i.
+    -   $N$ is the number of data points.
+
+\\begin{align} MSE = \\frac{1}{N}\\sum\_{i=1}^N (f_i - y_i)^2 \\end{align}
+
+-   This is a classification problem, thus we use a method of measurement known as the gini impurity and entropy.
+    -   Where $p_i$ represents the relative frequency of the class you are observing in the data set and $c$ represents the number of classes.
+
+\\begin{align} Gini = 1 - \\sum\_{i=1}^N (p_i)^2 \\end{align}
+
+\\begin{align} Entropy = \\sum\_{i=1}^C -p_i \* log_2(p_i) \\end{align}
+
+# Machine Learning Overview
+
+Machine learning (ML) refers to a system's ability to acquire, and integrate knowledge through large-scale observations, and to improve, and extend itself by learning new knowledge rather than by being programmed with that knowledge.
+
+It is a large step away from "if x, do y."
+
+Key definitions include:
+
+-   **Dataset:** A set of data examples, that contain features important to solving the problem.
+
+-   **Features:** Important pieces of data that help us understand a problem. These are fed in to a Machine Learning algorithm to help it learn.
+
+-   **Model:** The representation of some phenomenon that a Machine Learning algorithm has learnt. In order for many to learn, they must train, meaning data is split. Part of the data is used to teach the algorithm, while the remaining data is used to test the algorithm for predictions.
+
+The general process for developing a machine learning algorithm is:
+
+1.  **Data Collection:** Collect the data that the algorithm will learn from.
+
+2.  **Data Preparation:** Format and engineer the data into the optimal format, extracting important features and performing dimensionality reduction.
+
+3.  **Training**: Also known as the fitting stage, this is where the Machine Learning algorithm actually learns by showing it the data that has been collected and prepared.
+
+4.  **Evaluation**: Test the model to see how well it performs.
+
+5.  **Tuning**: Fine tune the model to maximise it’s performance.
+
+# Machine Learning with Oracle (OML)
