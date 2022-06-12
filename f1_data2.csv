@@ -1,0 +1,1039 @@
+"raceId","driverId","qual_positon","qual_time","resultId","grid","finish_position","positionOrder","statusId","YEAR","NAME","WEATHER_WET","CIRCUITREF","circuitId","circuit","country","lat","lng","alt","code","forename","surname","nationality","qual_gap","won_race","race_21"
+1,20,3,86.83,7566,3,"13",13,4,2009,"Australian Grand Prix","N","albert_park",1,"Albert Park Grand Prix Circuit","Australia",-37.8497,144.968,"10","VET","Sebastian","Vettel","German",-0.0840000000000032,0,0
+1,22,2,86.505,7555,2,"2",2,1,2009,"Australian Grand Prix","N","albert_park",1,"Albert Park Grand Prix Circuit","Australia",-37.8497,144.968,"10","BAR","Rubens","Barrichello","Brazilian",-0.409000000000006,0,0
+1,18,1,86.202,7554,1,"1",1,1,2009,"Australian Grand Prix","N","albert_park",1,"Albert Park Grand Prix Circuit","Australia",-37.8497,144.968,"10","BUT","Jenson","Button","British",-0.712000000000003,1,0
+2,15,2,95.273,7577,2,"4",4,1,2009,"Malaysian Grand Prix","Y","sepang",2,"Sepang International Circuit","Malaysia",2.76083,101.738,"18","TRU","Jarno","Trulli","Italian",-0.378000000000014,0,0
+2,18,1,95.181,7574,1,"1",1,1,2009,"Malaysian Grand Prix","Y","sepang",2,"Sepang International Circuit","Malaysia",2.76083,101.738,"18","BUT","Jenson","Button","British",-0.469999999999999,1,0
+3,17,3,96.466,7595,3,"2",2,1,2009,"Chinese Grand Prix","Y","shanghai",17,"Shanghai International Circuit","China",31.3389,121.22,"5","WEB","Mark","Webber","Australian",-0.0269999999999868,0,0
+3,4,2,96.381,7602,2,"9",9,1,2009,"Chinese Grand Prix","Y","shanghai",17,"Shanghai International Circuit","China",31.3389,121.22,"5","ALO","Fernando","Alonso","Spanish",-0.111999999999995,0,0
+3,20,1,96.184,7594,1,"1",1,1,2009,"Chinese Grand Prix","Y","shanghai",17,"Shanghai International Circuit","China",31.3389,121.22,"5","VET","Sebastian","Vettel","German",-0.308999999999997,1,0
+4,20,3,94.015,7615,3,"2",2,1,2009,"Bahrain Grand Prix","N","bahrain",3,"Bahrain International Circuit","Bahrain",26.0325,50.5106,"7","VET","Sebastian","Vettel","German",-0.0290000000000248,0,0
+4,10,2,93.712,7620,2,"7",7,1,2009,"Bahrain Grand Prix","N","bahrain",3,"Bahrain International Circuit","Bahrain",26.0325,50.5106,"7","GLO","Timo","Glock","German",-0.332000000000022,0,0
+4,15,1,93.431,7616,1,"3",3,1,2009,"Bahrain Grand Prix","N","bahrain",3,"Bahrain International Circuit","Bahrain",26.0325,50.5106,"7","TRU","Jarno","Trulli","Italian",-0.613,0,0
+5,22,3,80.762,7635,3,"2",2,1,2009,"Spanish Grand Prix","N","catalunya",4,"Circuit de Barcelona-Catalunya","Spain",41.57,2.26111,"109","BAR","Rubens","Barrichello","Brazilian",-0.171999999999997,0,0
+5,20,2,80.66,7637,2,"4",4,1,2009,"Spanish Grand Prix","N","catalunya",4,"Circuit de Barcelona-Catalunya","Spain",41.57,2.26111,"109","VET","Sebastian","Vettel","German",-0.274000000000001,0,0
+5,18,1,80.527,7634,1,"1",1,1,2009,"Spanish Grand Prix","N","catalunya",4,"Circuit de Barcelona-Catalunya","Spain",41.57,2.26111,"109","BUT","Jenson","Button","British",-0.406999999999996,1,0
+6,22,3,75.077,7655,3,"2",2,1,2009,"Monaco Grand Prix","N","monaco",6,"Circuit de Monaco","Monaco",43.7347,7.42056,"7","BAR","Rubens","Barrichello","Brazilian",-0.194000000000003,0,0
+6,8,2,74.927,7656,2,"3",3,1,2009,"Monaco Grand Prix","N","monaco",6,"Circuit de Monaco","Monaco",43.7347,7.42056,"7","RAI","Kimi","Räikkönen","Finnish",-0.343999999999994,0,0
+6,18,1,74.902,7654,1,"1",1,1,2009,"Monaco Grand Prix","N","monaco",6,"Circuit de Monaco","Monaco",43.7347,7.42056,"7","BUT","Jenson","Button","British",-0.369,1,0
+7,18,2,88.421,7674,2,"1",1,1,2009,"Turkish Grand Prix","N","istanbul",5,"Istanbul Park","Turkey",40.9517,29.405,"130","BUT","Jenson","Button","British",-0.192000000000007,1,0
+7,20,1,88.316,7676,1,"3",3,1,2009,"Turkish Grand Prix","N","istanbul",5,"Istanbul Park","Turkey",40.9517,29.405,"130","VET","Sebastian","Vettel","German",-0.296999999999997,0,0
+8,17,3,79.868,7695,3,"2",2,1,2009,"British Grand Prix","N","silverstone",9,"Silverstone Circuit","UK",52.0786,-1.01694,"153","WEB","Mark","Webber","Australian",-0.222999999999999,0,0
+8,22,2,79.856,7696,2,"3",3,1,2009,"British Grand Prix","N","silverstone",9,"Silverstone Circuit","UK",52.0786,-1.01694,"153","BAR","Rubens","Barrichello","Brazilian",-0.234999999999999,0,0
+8,20,1,79.509,7694,1,"1",1,1,2009,"British Grand Prix","N","silverstone",9,"Silverstone Circuit","UK",52.0786,-1.01694,"153","VET","Sebastian","Vettel","German",-0.581999999999994,1,0
+9,18,3,92.473,7718,3,"5",5,1,2009,"German Grand Prix","N","nurburgring",20,"Nürburgring","Germany",50.3356,6.9475,"578","BUT","Jenson","Button","British",-0.00699999999997658,0,0
+9,22,2,92.357,7719,2,"6",6,1,2009,"German Grand Prix","N","nurburgring",20,"Nürburgring","Germany",50.3356,6.9475,"578","BAR","Rubens","Barrichello","Brazilian",-0.12299999999999,0,0
+9,17,1,92.23,7714,1,"1",1,1,2009,"German Grand Prix","N","nurburgring",20,"Nürburgring","Germany",50.3356,6.9475,"578","WEB","Mark","Webber","Australian",-0.25,1,0
+10,17,3,81.741,7736,3,"3",3,1,2009,"Hungarian Grand Prix","N","hungaroring",11,"Hungaroring","Hungary",47.5789,19.2486,"264","WEB","Mark","Webber","Australian",-0.097999999999999,0,0
+11,22,3,99.563,7754,3,"1",1,1,2009,"European Grand Prix","N","valencia",12,"Valencia Street Circuit","Spain",39.4589,-0.331667,"4","BAR","Rubens","Barrichello","Brazilian",-0.225999999999999,1,0
+11,5,2,99.532,7757,2,"4",4,1,2009,"European Grand Prix","N","valencia",12,"Valencia Street Circuit","Spain",39.4589,-0.331667,"4","KOV","Heikki","Kovalainen","Finnish",-0.256999999999977,0,0
+11,1,1,99.489,7755,1,"2",2,1,2009,"European Grand Prix","N","valencia",12,"Valencia Street Circuit","Spain",39.4589,-0.331667,"4","HAM","Lewis","Hamilton","British",-0.299999999999983,0,0
+12,2,3,106.5,7778,3,"5",5,1,2009,"Belgian Grand Prix","N","spa",13,"Circuit de Spa-Francorchamps","Belgium",50.4372,5.97139,"401","HEI","Nick","Heidfeld","German",-0.0130000000000052,0,0
+12,21,1,106.308,7775,1,"2",2,1,2009,"Belgian Grand Prix","N","spa",13,"Circuit de Spa-Francorchamps","Belgium",50.4372,5.97139,"401","FIS","Giancarlo","Fisichella","Italian",-0.205000000000013,0,0
+13,8,3,84.523,7796,3,"3",3,1,2009,"Italian Grand Prix","N","monza",14,"Autodromo Nazionale di Monza","Italy",45.6156,9.28111,"162","RAI","Kimi","Räikkönen","Finnish",-0.322000000000003,0,0
+13,16,2,84.261,7797,2,"4",4,1,2009,"Italian Grand Prix","N","monza",14,"Autodromo Nazionale di Monza","Italy",45.6156,9.28111,"162","SUT","Adrian","Sutil","German",-0.584000000000003,0,0
+13,1,1,84.066,7805,1,"12",12,3,2009,"Italian Grand Prix","N","monza",14,"Autodromo Nazionale di Monza","Italy",45.6156,9.28111,"162","HAM","Lewis","Hamilton","British",-0.778999999999996,0,0
+14,3,3,108.348,7824,3,"11",11,1,2009,"Singapore Grand Prix","N","marina_bay",15,"Marina Bay Street Circuit","Singapore",1.2914,103.864,"18","ROS","Nico","Rosberg","German",-0.373999999999995,0,0
+14,20,2,108.204,7817,2,"4",4,1,2009,"Singapore Grand Prix","N","marina_bay",15,"Marina Bay Street Circuit","Singapore",1.2914,103.864,"18","VET","Sebastian","Vettel","German",-0.518000000000001,0,0
+14,1,1,107.891,7814,1,"1",1,1,2009,"Singapore Grand Prix","N","marina_bay",15,"Marina Bay Street Circuit","Singapore",1.2914,103.864,"18","HAM","Lewis","Hamilton","British",-0.831000000000017,1,0
+15,1,3,92.395,7836,3,"3",3,1,2009,"Japanese Grand Prix","N","suzuka",22,"Suzuka Circuit","Japan",34.8431,136.541,"45","HAM","Lewis","Hamilton","British",-0.070999999999998,0,0
+15,15,2,92.22,7835,2,"2",2,1,2009,"Japanese Grand Prix","N","suzuka",22,"Suzuka Circuit","Japan",34.8431,136.541,"45","TRU","Jarno","Trulli","Italian",-0.246000000000009,0,0
+15,20,1,92.16,7834,1,"1",1,1,2009,"Japanese Grand Prix","N","suzuka",22,"Suzuka Circuit","Japan",34.8431,136.541,"45","VET","Sebastian","Vettel","German",-0.306000000000012,1,0
+16,17,2,79.668,7854,2,"1",1,1,2009,"Brazilian Grand Prix","N","interlagos",18,"Autódromo José Carlos Pace","Brazil",-23.7036,-46.6997,"785","WEB","Mark","Webber","Australian",-0.428999999999988,1,0
+16,22,1,79.576,7861,1,"8",8,1,2009,"Brazilian Grand Prix","N","interlagos",18,"Autódromo José Carlos Pace","Brazil",-23.7036,-46.6997,"785","BAR","Rubens","Barrichello","Brazilian",-0.521000000000001,0,0
+17,17,3,101.726,16068,3,"2",2,1,2009,"Abu Dhabi Grand Prix","N","yas_marina",24,"Yas Marina Circuit","UAE",24.4672,54.6031,"3","WEB","Mark","Webber","Australian",-0.0600000000000023,0,0
+17,20,2,101.615,16067,2,"1",1,1,2009,"Abu Dhabi Grand Prix","N","yas_marina",24,"Yas Marina Circuit","UAE",24.4672,54.6031,"3","VET","Sebastian","Vettel","German",-0.170999999999992,1,0
+18,5,3,87.079,5,3,"5",5,1,2008,"Australian Grand Prix","N","albert_park",1,"Albert Park Grand Prix Circuit","Australia",-37.8497,144.968,"10","KOV","Heikki","Kovalainen","Finnish",-0.0990000000000038,0,0
+18,1,1,86.714,1,1,"1",1,1,2008,"Australian Grand Prix","N","albert_park",1,"Albert Park Grand Prix Circuit","Australia",-37.8497,144.968,"10","HAM","Lewis","Hamilton","British",-0.463999999999999,1,0
+19,8,2,96.23,23,2,"1",1,1,2008,"Malaysian Grand Prix","N","sepang",2,"Sepang International Circuit","Malaysia",2.76083,101.738,"18","RAI","Kimi","Räikkönen","Finnish",-0.479000000000013,1,0
+20,1,3,93.292,57,3,"13",13,11,2008,"Bahrain Grand Prix","N","bahrain",3,"Bahrain International Circuit","Bahrain",26.0325,50.5106,"7","HAM","Lewis","Hamilton","British",-0.126000000000005,0,0
+20,13,2,93.123,45,2,"1",1,1,2008,"Bahrain Grand Prix","N","bahrain",3,"Bahrain International Circuit","Bahrain",26.0325,50.5106,"7","MAS","Felipe","Massa","Brazilian",-0.295000000000016,1,0
+20,9,1,93.096,47,1,"3",3,1,2008,"Bahrain Grand Prix","N","bahrain",3,"Bahrain International Circuit","Bahrain",26.0325,50.5106,"7","KUB","Robert","Kubica","Polish",-0.322000000000003,0,0
+21,13,3,82.058,68,3,"2",2,1,2008,"Spanish Grand Prix","N","catalunya",4,"Circuit de Barcelona-Catalunya","Spain",41.57,2.26111,"109","MAS","Felipe","Massa","Brazilian",-0.00699999999999079,0,0
+21,8,1,81.813,67,1,"1",1,1,2008,"Spanish Grand Prix","N","catalunya",4,"Circuit de Barcelona-Catalunya","Spain",41.57,2.26111,"109","RAI","Kimi","Räikkönen","Finnish",-0.251999999999995,1,0
+22,1,3,87.923,90,3,"2",2,1,2008,"Turkish Grand Prix","N","istanbul",5,"Istanbul Park","Turkey",40.9517,29.405,"130","HAM","Lewis","Hamilton","British",-0.0130000000000052,0,0
+22,5,2,87.808,100,2,"12",12,11,2008,"Turkish Grand Prix","N","istanbul",5,"Istanbul Park","Turkey",40.9517,29.405,"130","KOV","Heikki","Kovalainen","Finnish",-0.128,0,0
+22,13,1,87.617,89,1,"1",1,1,2008,"Turkish Grand Prix","N","istanbul",5,"Istanbul Park","Turkey",40.9517,29.405,"130","MAS","Felipe","Massa","Brazilian",-0.319000000000003,1,0
+23,1,3,75.839,109,3,"1",1,1,2008,"Monaco Grand Prix","Y","monaco",6,"Circuit de Monaco","Monaco",43.7347,7.42056,"7","HAM","Lewis","Hamilton","British",-0.326000000000008,1,0
+23,8,2,75.815,117,2,"9",9,1,2008,"Monaco Grand Prix","Y","monaco",6,"Circuit de Monaco","Monaco",43.7347,7.42056,"7","RAI","Kimi","Räikkönen","Finnish",-0.350000000000009,0,0
+23,13,1,75.787,111,1,"3",3,1,2008,"Monaco Grand Prix","Y","monaco",6,"Circuit de Monaco","Monaco",43.7347,7.42056,"7","MAS","Felipe","Massa","Brazilian",-0.378,0,0
+24,9,2,78.498,129,2,"1",1,1,2008,"Canadian Grand Prix","N","villeneuve",7,"Circuit Gilles Villeneuve","Canada",45.5,-73.5228,"13","KUB","Robert","Kubica","Polish",-0.24799999999999,1,0
+25,4,4,76.84,156,3,"8",8,1,2008,"French Grand Prix","Y","magny_cours",8,"Circuit de Nevers Magny-Cours","France",46.8642,3.16361,"228","ALO","Fernando","Alonso","Spanish",0,0,0
+25,13,2,76.49,149,2,"1",1,1,2008,"French Grand Prix","Y","magny_cours",8,"Circuit de Nevers Magny-Cours","France",46.8642,3.16361,"228","MAS","Felipe","Massa","Brazilian",-0.350000000000009,1,0
+25,8,1,76.449,150,1,"2",2,1,2008,"French Grand Prix","Y","magny_cours",8,"Circuit de Nevers Magny-Cours","France",46.8642,3.16361,"228","RAI","Kimi","Räikkönen","Finnish",-0.391000000000005,0,0
+26,8,3,81.706,172,3,"4",4,11,2008,"British Grand Prix","Y","silverstone",9,"Silverstone Circuit","UK",52.0786,-1.01694,"153","RAI","Kimi","Räikkönen","Finnish",-0.128999999999991,0,0
+26,17,2,81.554,178,2,"10",10,11,2008,"British Grand Prix","Y","silverstone",9,"Silverstone Circuit","UK",52.0786,-1.01694,"153","WEB","Mark","Webber","Australian",-0.280999999999992,0,0
+26,5,1,81.049,173,1,"5",5,11,2008,"British Grand Prix","Y","silverstone",9,"Silverstone Circuit","UK",52.0786,-1.01694,"153","KOV","Heikki","Kovalainen","Finnish",-0.785999999999987,0,0
+27,5,3,76.143,193,3,"5",5,1,2008,"German Grand Prix","N","hockenheimring",10,"Hockenheimring","Germany",49.3278,8.56583,"103","KOV","Heikki","Kovalainen","Finnish",-0.0480000000000018,0,0
+27,13,2,75.859,191,2,"3",3,1,2008,"German Grand Prix","N","hockenheimring",10,"Hockenheimring","Germany",49.3278,8.56583,"103","MAS","Felipe","Massa","Brazilian",-0.332000000000008,0,0
+27,1,1,75.666,189,1,"1",1,1,2008,"German Grand Prix","N","hockenheimring",10,"Hockenheimring","Germany",49.3278,8.56583,"103","HAM","Lewis","Hamilton","British",-0.525000000000006,1,0
+28,13,3,81.191,225,3,"17",17,5,2008,"Hungarian Grand Prix","N","hungaroring",11,"Hungaroring","Hungary",47.5789,19.2486,"264","MAS","Felipe","Massa","Brazilian",-0.0900000000000034,0,0
+28,5,2,81.14,209,2,"1",1,1,2008,"Hungarian Grand Prix","N","hungaroring",11,"Hungaroring","Hungary",47.5789,19.2486,"264","KOV","Heikki","Kovalainen","Finnish",-0.141000000000005,1,0
+28,1,1,80.899,213,1,"5",5,1,2008,"Hungarian Grand Prix","N","hungaroring",11,"Hungaroring","Hungary",47.5789,19.2486,"264","HAM","Lewis","Hamilton","British",-0.382000000000005,0,0
+29,9,3,99.392,231,3,"3",3,1,2008,"European Grand Prix","N","valencia",12,"Valencia Street Circuit","Spain",39.4589,-0.331667,"4","KUB","Robert","Kubica","Polish",-0.0960000000000036,0,0
+29,1,2,99.199,230,2,"2",2,1,2008,"European Grand Prix","N","valencia",12,"Valencia Street Circuit","Spain",39.4589,-0.331667,"4","HAM","Lewis","Hamilton","British",-0.288999999999987,0,0
+29,13,1,98.989,229,1,"1",1,1,2008,"European Grand Prix","N","valencia",12,"Valencia Street Circuit","Spain",39.4589,-0.331667,"4","MAS","Felipe","Massa","Brazilian",-0.498999999999995,1,0
+30,5,3,107.815,258,3,"10",10,6,2008,"Belgian Grand Prix","Y","spa",13,"Circuit de Spa-Francorchamps","Belgium",50.4372,5.97139,"401","KOV","Heikki","Kovalainen","Finnish",-0.176999999999992,0,0
+30,13,2,107.678,249,2,"1",1,1,2008,"Belgian Grand Prix","Y","spa",13,"Circuit de Spa-Francorchamps","Belgium",50.4372,5.97139,"401","MAS","Felipe","Massa","Brazilian",-0.313999999999993,1,0
+30,1,1,107.338,251,1,"3",3,1,2008,"Belgian Grand Prix","Y","spa",13,"Circuit de Spa-Francorchamps","Belgium",50.4372,5.97139,"401","HAM","Lewis","Hamilton","British",-0.653999999999996,0,0
+31,17,3,98.117,276,3,"8",8,1,2008,"Italian Grand Prix","Y","monza",14,"Autodromo Nazionale di Monza","Italy",45.6156,9.28111,"162","WEB","Mark","Webber","Australian",-0.328000000000003,0,0
+31,5,2,97.631,270,2,"2",2,1,2008,"Italian Grand Prix","Y","monza",14,"Autodromo Nazionale di Monza","Italy",45.6156,9.28111,"162","KOV","Heikki","Kovalainen","Finnish",-0.813999999999993,0,0
+31,20,1,97.555,269,1,"1",1,1,2008,"Italian Grand Prix","Y","monza",14,"Autodromo Nazionale di Monza","Italy",45.6156,9.28111,"162","VET","Sebastian","Vettel","German",-0.889999999999986,1,0
+32,8,3,105.617,303,3,"15",15,3,2008,"Singapore Grand Prix","N","marina_bay",15,"Marina Bay Street Circuit","Singapore",1.2914,103.864,"18","RAI","Kimi","Räikkönen","Finnish",-0.162000000000006,0,0
+32,1,2,105.465,291,2,"3",3,1,2008,"Singapore Grand Prix","N","marina_bay",15,"Marina Bay Street Circuit","Singapore",1.2914,103.864,"18","HAM","Lewis","Hamilton","British",-0.313999999999993,0,0
+32,13,1,104.801,301,1,"13",13,1,2008,"Singapore Grand Prix","N","marina_bay",15,"Marina Bay Street Circuit","Singapore",1.2914,103.864,"18","MAS","Felipe","Massa","Brazilian",-0.978000000000009,0,0
+33,8,2,78.644,311,2,"3",3,1,2008,"Japanese Grand Prix","N","fuji",16,"Fuji Speedway","Japan",35.3717,138.927,"583","RAI","Kimi","Räikkönen","Finnish",-0.207999999999998,0,0
+33,1,1,78.404,320,1,"12",12,1,2008,"Japanese Grand Prix","N","fuji",16,"Fuji Speedway","Japan",35.3717,138.927,"583","HAM","Lewis","Hamilton","British",-0.448000000000008,0,0
+34,13,3,96.889,330,3,"2",2,1,2008,"Chinese Grand Prix","N","shanghai",17,"Shanghai International Circuit","China",31.3389,121.22,"5","MAS","Felipe","Massa","Brazilian",-0.0379999999999825,0,0
+34,8,2,96.645,331,2,"3",3,1,2008,"Chinese Grand Prix","N","shanghai",17,"Shanghai International Circuit","China",31.3389,121.22,"5","RAI","Kimi","Räikkönen","Finnish",-0.281999999999982,0,0
+34,1,1,96.303,329,1,"1",1,1,2008,"Chinese Grand Prix","N","shanghai",17,"Shanghai International Circuit","China",31.3389,121.22,"5","HAM","Lewis","Hamilton","British",-0.623999999999995,1,0
+35,8,3,72.825,351,3,"3",3,1,2008,"Brazilian Grand Prix","Y","interlagos",18,"Autódromo José Carlos Pace","Brazil",-23.7036,-46.6997,"785","RAI","Kimi","Räikkönen","Finnish",-0.00499999999999545,0,0
+35,15,2,72.737,356,2,"8",8,1,2008,"Brazilian Grand Prix","Y","interlagos",18,"Autódromo José Carlos Pace","Brazil",-23.7036,-46.6997,"785","TRU","Jarno","Trulli","Italian",-0.0930000000000035,0,0
+35,13,1,72.368,349,1,"1",1,1,2008,"Brazilian Grand Prix","Y","interlagos",18,"Autódromo José Carlos Pace","Brazil",-23.7036,-46.6997,"785","MAS","Felipe","Massa","Brazilian",-0.462000000000003,1,0
+36,2,3,86.556,372,3,"4",4,1,2007,"Australian Grand Prix","N","albert_park",1,"Albert Park Grand Prix Circuit","Australia",-37.8497,144.968,"10","HEI","Nick","Heidfeld","German",-0.198999999999998,0,0
+36,4,2,86.493,370,2,"2",2,1,2007,"Australian Grand Prix","N","albert_park",1,"Albert Park Grand Prix Circuit","Australia",-37.8497,144.968,"10","ALO","Fernando","Alonso","Spanish",-0.262,0,0
+36,8,1,86.072,369,1,"1",1,1,2007,"Australian Grand Prix","N","albert_park",1,"Albert Park Grand Prix Circuit","Australia",-37.8497,144.968,"10","RAI","Kimi","Räikkönen","Finnish",-0.682999999999993,1,0
+37,8,3,95.479,393,3,"3",3,1,2007,"Malaysian Grand Prix","N","sepang",2,"Sepang International Circuit","Malaysia",2.76083,101.738,"18","RAI","Kimi","Räikkönen","Finnish",-0.565999999999974,0,0
+37,4,2,95.31,391,2,"1",1,1,2007,"Malaysian Grand Prix","N","sepang",2,"Sepang International Circuit","Malaysia",2.76083,101.738,"18","ALO","Fernando","Alonso","Spanish",-0.734999999999985,1,0
+37,13,1,95.043,395,1,"5",5,1,2007,"Malaysian Grand Prix","N","sepang",2,"Sepang International Circuit","Malaysia",2.76083,101.738,"18","MAS","Felipe","Massa","Brazilian",-1.00199999999998,0,0
+38,8,3,93.131,415,3,"3",3,1,2007,"Bahrain Grand Prix","N","bahrain",3,"Bahrain International Circuit","Bahrain",26.0325,50.5106,"7","RAI","Kimi","Räikkönen","Finnish",-0.061000000000007,0,0
+38,1,2,92.935,414,2,"2",2,1,2007,"Bahrain Grand Prix","N","bahrain",3,"Bahrain International Circuit","Bahrain",26.0325,50.5106,"7","HAM","Lewis","Hamilton","British",-0.257000000000005,0,0
+38,13,1,92.652,413,1,"1",1,1,2007,"Bahrain Grand Prix","N","bahrain",3,"Bahrain International Circuit","Bahrain",26.0325,50.5106,"7","MAS","Felipe","Massa","Brazilian",-0.54000000000002,1,0
+39,4,2,81.451,437,2,"3",3,1,2007,"Spanish Grand Prix","N","catalunya",4,"Circuit de Barcelona-Catalunya","Spain",41.57,2.26111,"109","ALO","Fernando","Alonso","Spanish",-0.334000000000003,0,0
+39,13,1,81.421,435,1,"1",1,1,2007,"Spanish Grand Prix","N","catalunya",4,"Circuit de Barcelona-Catalunya","Spain",41.57,2.26111,"109","MAS","Felipe","Massa","Brazilian",-0.36399999999999,1,0
+40,13,3,75.967,459,3,"3",3,1,2007,"Monaco Grand Prix","N","monaco",6,"Circuit de Monaco","Monaco",43.7347,7.42056,"7","MAS","Felipe","Massa","Brazilian",-0.317999999999998,0,0
+40,1,2,75.905,458,2,"2",2,1,2007,"Monaco Grand Prix","N","monaco",6,"Circuit de Monaco","Monaco",43.7347,7.42056,"7","HAM","Lewis","Hamilton","British",-0.379999999999995,0,0
+40,4,1,75.726,457,1,"1",1,1,2007,"Monaco Grand Prix","N","monaco",6,"Circuit de Monaco","Monaco",43.7347,7.42056,"7","ALO","Fernando","Alonso","Spanish",-0.558999999999997,1,0
+41,2,3,76.266,480,3,"2",2,1,2007,"Canadian Grand Prix","N","villeneuve",7,"Circuit Gilles Villeneuve","Canada",45.5,-73.5228,"13","HEI","Nick","Heidfeld","German",-0.144999999999996,0,0
+41,4,2,76.163,485,2,"7",7,1,2007,"Canadian Grand Prix","N","villeneuve",7,"Circuit Gilles Villeneuve","Canada",45.5,-73.5228,"13","ALO","Fernando","Alonso","Spanish",-0.248000000000005,0,0
+41,1,1,75.707,479,1,"1",1,1,2007,"Canadian Grand Prix","N","villeneuve",7,"Circuit Gilles Villeneuve","Canada",45.5,-73.5228,"13","HAM","Lewis","Hamilton","British",-0.704000000000008,1,0
+42,13,3,72.703,503,3,"3",3,1,2007,"United States Grand Prix","N","indianapolis",19,"Indianapolis Motor Speedway","USA",39.795,-86.2347,"223","MAS","Felipe","Massa","Brazilian",-0.135999999999996,0,0
+42,4,2,72.5,502,2,"2",2,1,2007,"United States Grand Prix","N","indianapolis",19,"Indianapolis Motor Speedway","USA",39.795,-86.2347,"223","ALO","Fernando","Alonso","Spanish",-0.338999999999999,0,0
+42,1,1,72.331,501,1,"1",1,1,2007,"United States Grand Prix","N","indianapolis",19,"Indianapolis Motor Speedway","USA",39.795,-86.2347,"223","HAM","Lewis","Hamilton","British",-0.507999999999996,1,0
+43,8,3,75.257,523,3,"1",1,1,2007,"French Grand Prix","N","magny_cours",8,"Circuit de Nevers Magny-Cours","France",46.8642,3.16361,"228","RAI","Kimi","Räikkönen","Finnish",-0.23599999999999,1,0
+43,1,2,75.104,525,2,"3",3,1,2007,"French Grand Prix","N","magny_cours",8,"Circuit de Nevers Magny-Cours","France",46.8642,3.16361,"228","HAM","Lewis","Hamilton","British",-0.388999999999996,0,0
+43,13,1,75.034,524,1,"2",2,1,2007,"French Grand Prix","N","magny_cours",8,"Circuit de Nevers Magny-Cours","France",46.8642,3.16361,"228","MAS","Felipe","Massa","Brazilian",-0.458999999999989,0,0
+44,4,3,80.147,546,3,"2",2,1,2007,"British Grand Prix","N","silverstone",9,"Silverstone Circuit","UK",52.0786,-1.01694,"153","ALO","Fernando","Alonso","Spanish",-0.117999999999995,0,0
+44,8,2,80.099,545,2,"1",1,1,2007,"British Grand Prix","N","silverstone",9,"Silverstone Circuit","UK",52.0786,-1.01694,"153","RAI","Kimi","Räikkönen","Finnish",-0.165999999999997,1,0
+44,1,1,79.997,547,1,"3",3,1,2007,"British Grand Prix","N","silverstone",9,"Silverstone Circuit","UK",52.0786,-1.01694,"153","HAM","Lewis","Hamilton","British",-0.268000000000001,0,0
+45,13,3,91.778,568,3,"2",2,1,2007,"European Grand Prix","Y","nurburgring",20,"Nürburgring","Germany",50.3356,6.9475,"578","MAS","Felipe","Massa","Brazilian",-0.0620000000000118,0,0
+45,4,2,91.741,567,2,"1",1,1,2007,"European Grand Prix","Y","nurburgring",20,"Nürburgring","Germany",50.3356,6.9475,"578","ALO","Fernando","Alonso","Spanish",-0.0989999999999895,1,0
+46,8,4,80.41,590,3,"2",2,1,2007,"Hungarian Grand Prix","N","hungaroring",11,"Hungaroring","Hungary",47.5789,19.2486,"264","RAI","Kimi","Räikkönen","Finnish",0,0,0
+46,2,3,80.259,591,2,"3",3,1,2007,"Hungarian Grand Prix","N","hungaroring",11,"Hungaroring","Hungary",47.5789,19.2486,"264","HEI","Nick","Heidfeld","German",-0.150999999999996,0,0
+46,1,2,79.781,589,1,"1",1,1,2007,"Hungarian Grand Prix","N","hungaroring",11,"Hungaroring","Hungary",47.5789,19.2486,"264","HAM","Lewis","Hamilton","British",-0.628999999999991,1,0
+47,8,3,87.546,612,3,"2",2,1,2007,"Turkish Grand Prix","N","istanbul",5,"Istanbul Park","Turkey",40.9517,29.405,"130","RAI","Kimi","Räikkönen","Finnish",-0.0279999999999916,0,0
+47,1,2,87.373,615,2,"5",5,1,2007,"Turkish Grand Prix","N","istanbul",5,"Istanbul Park","Turkey",40.9517,29.405,"130","HAM","Lewis","Hamilton","British",-0.200999999999993,0,0
+47,13,1,87.329,611,1,"1",1,1,2007,"Turkish Grand Prix","N","istanbul",5,"Istanbul Park","Turkey",40.9517,29.405,"130","MAS","Felipe","Massa","Brazilian",-0.245000000000005,1,0
+48,1,2,82.034,634,2,"2",2,1,2007,"Italian Grand Prix","N","monza",14,"Autodromo Nazionale di Monza","Italy",45.6156,9.28111,"162","HAM","Lewis","Hamilton","British",-1.14,0,0
+48,4,1,81.997,633,1,"1",1,1,2007,"Italian Grand Prix","N","monza",14,"Autodromo Nazionale di Monza","Italy",45.6156,9.28111,"162","ALO","Fernando","Alonso","Spanish",-1.17700000000001,1,0
+49,4,3,106.091,657,3,"3",3,1,2007,"Belgian Grand Prix","N","spa",13,"Circuit de Spa-Francorchamps","Belgium",50.4372,5.97139,"401","ALO","Fernando","Alonso","Spanish",-0.314999999999998,0,0
+49,13,2,106.011,656,2,"2",2,1,2007,"Belgian Grand Prix","N","spa",13,"Circuit de Spa-Francorchamps","Belgium",50.4372,5.97139,"401","MAS","Felipe","Massa","Brazilian",-0.39500000000001,0,0
+49,8,1,105.994,655,1,"1",1,1,2007,"Belgian Grand Prix","N","spa",13,"Circuit de Spa-Francorchamps","Belgium",50.4372,5.97139,"401","RAI","Kimi","Räikkönen","Finnish",-0.412000000000006,1,0
+50,8,3,85.516,679,3,"3",3,1,2007,"Japanese Grand Prix","N","fuji",16,"Fuji Speedway","Japan",35.3717,138.927,"583","RAI","Kimi","Räikkönen","Finnish",-0.248999999999995,0,0
+50,1,1,85.368,677,1,"1",1,1,2007,"Japanese Grand Prix","N","fuji",16,"Fuji Speedway","Japan",35.3717,138.927,"583","HAM","Lewis","Hamilton","British",-0.397000000000006,1,0
+51,13,3,96.221,701,3,"3",3,1,2007,"Chinese Grand Prix","Y","shanghai",17,"Shanghai International Circuit","China",31.3389,121.22,"5","MAS","Felipe","Massa","Brazilian",-0.35499999999999,0,0
+51,8,2,96.044,699,2,"1",1,1,2007,"Chinese Grand Prix","Y","shanghai",17,"Shanghai International Circuit","China",31.3389,121.22,"5","RAI","Kimi","Räikkönen","Finnish",-0.531999999999982,1,0
+52,8,3,72.322,721,3,"1",1,1,2007,"Brazilian Grand Prix","N","interlagos",18,"Autódromo José Carlos Pace","Brazil",-23.7036,-46.6997,"785","RAI","Kimi","Räikkönen","Finnish",-0.0339999999999918,1,0
+52,1,2,72.082,727,2,"7",7,11,2007,"Brazilian Grand Prix","N","interlagos",18,"Autódromo José Carlos Pace","Brazil",-23.7036,-46.6997,"785","HAM","Lewis","Hamilton","British",-0.274000000000001,0,0
+52,13,1,71.931,722,1,"2",2,1,2007,"Brazilian Grand Prix","N","interlagos",18,"Autódromo José Carlos Pace","Brazil",-23.7036,-46.6997,"785","MAS","Felipe","Massa","Brazilian",-0.424999999999997,0,0
+53,18,3,91.549,746,3,"4",4,1,2006,"Bahrain Grand Prix","N","bahrain",3,"Bahrain International Circuit","Bahrain",26.0325,50.5106,"7","BUT","Jenson","Button","British",-0.152999999999992,0,0
+53,13,2,91.478,751,2,"9",9,1,2006,"Bahrain Grand Prix","N","bahrain",3,"Bahrain International Circuit","Bahrain",26.0325,50.5106,"7","MAS","Felipe","Massa","Brazilian",-0.22399999999999,0,0
+53,30,1,91.431,744,1,"2",2,1,2006,"Bahrain Grand Prix","N","bahrain",3,"Bahrain International Circuit","Bahrain",26.0325,50.5106,"7","MSC","Michael","Schumacher","German",-0.270999999999987,0,0
+54,18,2,93.986,767,2,"3",3,1,2006,"Malaysian Grand Prix","N","sepang",2,"Sepang International Circuit","Malaysia",2.76083,101.738,"18","BUT","Jenson","Button","British",-0.682000000000016,0,0
+54,21,1,93.84,765,1,"1",1,1,2006,"Malaysian Grand Prix","N","sepang",2,"Sepang International Circuit","Malaysia",2.76083,101.738,"18","FIS","Giancarlo","Fisichella","Italian",-0.828000000000003,1,0
+55,4,3,85.778,787,3,"1",1,1,2006,"Australian Grand Prix","N","albert_park",1,"Albert Park Grand Prix Circuit","Australia",-37.8497,144.968,"10","ALO","Fernando","Alonso","Spanish",-0.0439999999999969,1,0
+55,21,2,85.635,791,2,"5",5,1,2006,"Australian Grand Prix","N","albert_park",1,"Albert Park Grand Prix Circuit","Australia",-37.8497,144.968,"10","FIS","Giancarlo","Fisichella","Italian",-0.186999999999998,0,0
+55,18,1,85.229,796,1,"10",10,11,2006,"Australian Grand Prix","N","albert_park",1,"Albert Park Grand Prix Circuit","Australia",-37.8497,144.968,"10","BUT","Jenson","Button","British",-0.593000000000004,0,0
+56,22,3,83.242,818,3,"10",10,1,2006,"San Marino Grand Prix","N","imola",21,"Autodromo Enzo e Dino Ferrari","Italy",44.3439,11.7167,"37","BAR","Rubens","Barrichello","Brazilian",-0.459999999999994,0,0
+56,18,2,82.988,815,2,"7",7,1,2006,"San Marino Grand Prix","N","imola",21,"Autodromo Enzo e Dino Ferrari","Italy",44.3439,11.7167,"37","BUT","Jenson","Button","British",-0.713999999999999,0,0
+56,30,1,82.795,809,1,"1",1,1,2006,"San Marino Grand Prix","N","imola",21,"Autodromo Enzo e Dino Ferrari","Italy",44.3439,11.7167,"37","MSC","Michael","Schumacher","German",-0.906999999999996,1,0
+57,13,3,90.407,833,3,"3",3,1,2006,"European Grand Prix","N","nurburgring",20,"Nürburgring","Germany",50.3356,6.9475,"578","MAS","Felipe","Massa","Brazilian",-0.34699999999998,0,0
+57,30,2,90.028,831,2,"1",1,1,2006,"European Grand Prix","N","nurburgring",20,"Nürburgring","Germany",50.3356,6.9475,"578","MSC","Michael","Schumacher","German",-0.725999999999999,1,0
+57,4,1,89.816,832,1,"2",2,1,2006,"European Grand Prix","N","nurburgring",20,"Nürburgring","Germany",50.3356,6.9475,"578","ALO","Fernando","Alonso","Spanish",-0.937999999999988,0,0
+58,30,3,74.97,854,3,"2",2,1,2006,"Spanish Grand Prix","N","catalunya",4,"Circuit de Barcelona-Catalunya","Spain",41.57,2.26111,"109","MSC","Michael","Schumacher","German",-0.471999999999994,0,0
+58,21,2,74.709,855,2,"3",3,1,2006,"Spanish Grand Prix","N","catalunya",4,"Circuit de Barcelona-Catalunya","Spain",41.57,2.26111,"109","FIS","Giancarlo","Fisichella","Italian",-0.73299999999999,0,0
+58,4,1,74.648,853,1,"1",1,1,2006,"Spanish Grand Prix","N","catalunya",4,"Circuit de Barcelona-Catalunya","Spain",41.57,2.26111,"109","ALO","Fernando","Alonso","Spanish",-0.793999999999997,1,0
+59,4,1,73.962,875,1,"1",1,1,2006,"Monaco Grand Prix","N","monaco",6,"Circuit de Monaco","Monaco",43.7347,7.42056,"7","ALO","Fernando","Alonso","Spanish",-0.701999999999998,1,0
+60,30,3,80.574,898,3,"2",2,1,2006,"British Grand Prix","N","silverstone",9,"Silverstone Circuit","UK",52.0786,-1.01694,"153","MSC","Michael","Schumacher","German",-0.189999999999998,0,0
+60,8,2,80.397,899,2,"3",3,1,2006,"British Grand Prix","N","silverstone",9,"Silverstone Circuit","UK",52.0786,-1.01694,"153","RAI","Kimi","Räikkönen","Finnish",-0.36699999999999,0,0
+60,4,1,80.253,897,1,"1",1,1,2006,"British Grand Prix","N","silverstone",9,"Silverstone Circuit","UK",52.0786,-1.01694,"153","ALO","Fernando","Alonso","Spanish",-0.510999999999996,1,0
+61,8,3,75.386,921,3,"3",3,1,2006,"Canadian Grand Prix","N","villeneuve",7,"Circuit Gilles Villeneuve","Canada",45.5,-73.5228,"13","RAI","Kimi","Räikkönen","Finnish",-0.582000000000008,0,0
+61,21,2,75.178,922,2,"4",4,1,2006,"Canadian Grand Prix","N","villeneuve",7,"Circuit Gilles Villeneuve","Canada",45.5,-73.5228,"13","FIS","Giancarlo","Fisichella","Italian",-0.790000000000006,0,0
+61,4,1,74.942,919,1,"1",1,1,2006,"Canadian Grand Prix","N","villeneuve",7,"Circuit Gilles Villeneuve","Canada",45.5,-73.5228,"13","ALO","Fernando","Alonso","Spanish",-1.02600000000001,1,0
+62,21,3,71.92,943,3,"3",3,1,2006,"United States Grand Prix","N","indianapolis",19,"Indianapolis Motor Speedway","USA",39.795,-86.2347,"223","FIS","Giancarlo","Fisichella","Italian",-0.188999999999993,0,0
+62,13,2,71.435,942,2,"2",2,1,2006,"United States Grand Prix","N","indianapolis",19,"Indianapolis Motor Speedway","USA",39.795,-86.2347,"223","MAS","Felipe","Massa","Brazilian",-0.673999999999992,0,0
+62,30,1,70.832,941,1,"1",1,1,2006,"United States Grand Prix","N","indianapolis",19,"Indianapolis Motor Speedway","USA",39.795,-86.2347,"223","MSC","Michael","Schumacher","German",-1.277,1,0
+63,4,3,75.785,964,3,"2",2,1,2006,"French Grand Prix","N","magny_cours",8,"Circuit de Nevers Magny-Cours","France",46.8642,3.16361,"228","ALO","Fernando","Alonso","Spanish",-0.251000000000005,0,0
+63,13,2,75.51,965,2,"3",3,1,2006,"French Grand Prix","N","magny_cours",8,"Circuit de Nevers Magny-Cours","France",46.8642,3.16361,"228","MAS","Felipe","Massa","Brazilian",-0.525999999999996,0,0
+63,30,1,75.493,963,1,"1",1,1,2006,"French Grand Prix","N","magny_cours",8,"Circuit de Nevers Magny-Cours","France",46.8642,3.16361,"228","MSC","Michael","Schumacher","German",-0.543000000000006,1,0
+64,13,3,74.569,986,3,"2",2,1,2006,"German Grand Prix","N","hockenheimring",10,"Hockenheimring","Germany",49.3278,8.56583,"103","MAS","Felipe","Massa","Brazilian",-0.292999999999992,0,0
+64,30,2,74.205,985,2,"1",1,1,2006,"German Grand Prix","N","hockenheimring",10,"Hockenheimring","Germany",49.3278,8.56583,"103","MSC","Michael","Schumacher","German",-0.656999999999996,1,0
+64,8,1,74.07,987,1,"3",3,1,2006,"German Grand Prix","N","hockenheimring",10,"Hockenheimring","Germany",49.3278,8.56583,"103","RAI","Kimi","Räikkönen","Finnish",-0.792000000000002,0,0
+65,22,3,80.085,1010,3,"4",4,1,2006,"Hungarian Grand Prix","Y","hungaroring",11,"Hungaroring","Hungary",47.5789,19.2486,"264","BAR","Rubens","Barrichello","Brazilian",-0.007000000000005,0,0
+65,13,2,79.886,1013,2,"7",7,11,2006,"Hungarian Grand Prix","Y","hungaroring",11,"Hungaroring","Hungary",47.5789,19.2486,"264","MAS","Felipe","Massa","Brazilian",-0.206000000000003,0,0
+66,4,3,87.321,1030,3,"2",2,1,2006,"Turkish Grand Prix","N","istanbul",5,"Istanbul Park","Turkey",40.9517,29.405,"130","ALO","Fernando","Alonso","Spanish",-0.242999999999995,0,0
+66,30,2,87.284,1031,2,"3",3,1,2006,"Turkish Grand Prix","N","istanbul",5,"Istanbul Park","Turkey",40.9517,29.405,"130","MSC","Michael","Schumacher","German",-0.279999999999987,0,0
+66,13,1,86.907,1029,1,"1",1,1,2006,"Turkish Grand Prix","N","istanbul",5,"Istanbul Park","Turkey",40.9517,29.405,"130","MAS","Felipe","Massa","Brazilian",-0.656999999999996,1,0
+67,2,3,81.653,1058,3,"8",8,1,2006,"Italian Grand Prix","N","monza",14,"Autodromo Nazionale di Monza","Italy",45.6156,9.28111,"162","HEI","Nick","Heidfeld","German",-0.0509999999999877,0,0
+67,30,2,81.486,1051,2,"1",1,1,2006,"Italian Grand Prix","N","monza",14,"Autodromo Nazionale di Monza","Italy",45.6156,9.28111,"162","MSC","Michael","Schumacher","German",-0.217999999999989,1,0
+67,8,1,81.484,1052,1,"2",2,1,2006,"Italian Grand Prix","N","monza",14,"Autodromo Nazionale di Monza","Italy",45.6156,9.28111,"162","RAI","Kimi","Räikkönen","Finnish",-0.219999999999999,0,0
+68,22,3,105.503,1078,3,"6",6,1,2006,"Chinese Grand Prix","Y","shanghai",17,"Shanghai International Circuit","China",31.3389,121.22,"5","BAR","Rubens","Barrichello","Brazilian",0,0,0
+68,21,2,104.992,1075,2,"3",3,1,2006,"Chinese Grand Prix","Y","shanghai",17,"Shanghai International Circuit","China",31.3389,121.22,"5","FIS","Giancarlo","Fisichella","Italian",-0.510999999999996,0,0
+68,4,1,104.36,1074,1,"2",2,1,2006,"Chinese Grand Prix","Y","shanghai",17,"Shanghai International Circuit","China",31.3389,121.22,"5","ALO","Fernando","Alonso","Spanish",-1.14299999999997,0,0
+69,23,3,89.989,1101,3,"7",7,1,2006,"Japanese Grand Prix","N","suzuka",22,"Suzuka Circuit","Japan",34.8431,136.541,"45","SCH","Ralf","Schumacher","German",-0.0499999999999829,0,0
+69,13,1,89.599,1096,1,"2",2,1,2006,"Japanese Grand Prix","N","suzuka",22,"Suzuka Circuit","Japan",34.8431,136.541,"45","MAS","Felipe","Massa","Brazilian",-0.439999999999998,0,0
+70,8,2,71.299,1121,2,"5",5,1,2006,"Brazilian Grand Prix","N","interlagos",18,"Autódromo José Carlos Pace","Brazil",-23.7036,-46.6997,"785","RAI","Kimi","Räikkönen","Finnish",-0.267999999999986,0,0
+70,13,1,70.68,1117,1,"1",1,1,2006,"Brazilian Grand Prix","N","interlagos",18,"Autódromo José Carlos Pace","Brazil",-23.7036,-46.6997,"785","MAS","Felipe","Massa","Brazilian",-0.886999999999986,1,0
+71,17,3,96.717,1143,3,"5",5,1,2005,"Australian Grand Prix","N","albert_park",1,"Albert Park Grand Prix Circuit","Australia",-37.8497,144.968,"10","WEB","Mark","Webber","Australian",-0.266999999999996,0,0
+71,15,2,95.27,1147,2,"9",9,1,2005,"Australian Grand Prix","N","albert_park",1,"Albert Park Grand Prix Circuit","Australia",-37.8497,144.968,"10","TRU","Jarno","Trulli","Italian",-1.714,0,0
+71,21,1,93.171,1139,1,"1",1,1,2005,"Australian Grand Prix","N","albert_park",1,"Albert Park Grand Prix Circuit","Australia",-37.8497,144.968,"10","FIS","Giancarlo","Fisichella","Italian",-3.81300000000002,1,0
+72,15,2,92.672,1160,2,"2",2,1,2005,"Malaysian Grand Prix","N","sepang",2,"Sepang International Circuit","Malaysia",2.76083,101.738,"18","TRU","Jarno","Trulli","Italian",-0.532000000000011,0,0
+72,4,1,92.582,1159,1,"1",1,1,2005,"Malaysian Grand Prix","N","sepang",2,"Sepang International Circuit","Malaysia",2.76083,101.738,"18","ALO","Fernando","Alonso","Spanish",-0.622000000000014,1,0
+73,15,3,89.993,1180,3,"2",2,1,2005,"Bahrain Grand Prix","N","bahrain",3,"Bahrain International Circuit","Bahrain",26.0325,50.5106,"7","TRU","Jarno","Trulli","Italian",-0.396999999999991,0,0
+73,4,1,89.848,1179,1,"1",1,1,2005,"Bahrain Grand Prix","N","bahrain",3,"Bahrain International Circuit","Bahrain",26.0325,50.5106,"7","ALO","Fernando","Alonso","Spanish",-0.541999999999973,1,0
+74,4,2,79.889,1199,2,"1",1,1,2005,"San Marino Grand Prix","N","imola",21,"Autodromo Enzo e Dino Ferrari","Italy",44.3439,11.7167,"37","ALO","Fernando","Alonso","Spanish",-0.552999999999997,1,0
+75,4,3,74.811,1220,3,"2",2,1,2005,"Spanish Grand Prix","N","catalunya",4,"Circuit de Barcelona-Catalunya","Spain",41.57,2.26111,"109","ALO","Fernando","Alonso","Spanish",-0.0589999999999975,0,0
+75,8,1,74.819,1219,1,"1",1,1,2005,"Spanish Grand Prix","N","catalunya",4,"Circuit de Barcelona-Catalunya","Spain",41.57,2.26111,"109","RAI","Kimi","Räikkönen","Finnish",-0.0510000000000019,1,0
+76,17,3,74.584,1239,3,"3",3,1,2005,"Monaco Grand Prix","N","monaco",6,"Circuit de Monaco","Monaco",43.7347,7.42056,"7","WEB","Mark","Webber","Australian",-0.198999999999998,0,0
+76,4,2,74.125,1240,2,"4",4,1,2005,"Monaco Grand Prix","N","monaco",6,"Circuit de Monaco","Monaco",43.7347,7.42056,"7","ALO","Fernando","Alonso","Spanish",-0.658000000000001,0,0
+76,8,1,73.644,1237,1,"1",1,1,2005,"Monaco Grand Prix","N","monaco",6,"Circuit de Monaco","Monaco",43.7347,7.42056,"7","RAI","Kimi","Räikkönen","Finnish",-1.139,1,0
+77,8,2,90.197,1265,2,"11",11,3,2005,"European Grand Prix","N","nurburgring",20,"Nürburgring","Germany",50.3356,6.9475,"578","RAI","Kimi","Räikkönen","Finnish",-0.502999999999986,0,0
+77,2,1,90.081,1256,1,"2",2,1,2005,"European Grand Prix","N","nurburgring",20,"Nürburgring","Germany",50.3356,6.9475,"578","HEI","Nick","Heidfeld","German",-0.619,0,0
+78,30,2,75.475,1276,2,"2",2,1,2005,"Canadian Grand Prix","N","villeneuve",7,"Circuit Gilles Villeneuve","Canada",45.5,-73.5228,"13","MSC","Michael","Schumacher","German",-0.102000000000004,0,0
+80,30,4,74.572,1317,3,"3",3,1,2005,"French Grand Prix","N","magny_cours",8,"Circuit de Nevers Magny-Cours","France",46.8642,3.16361,"228","MSC","Michael","Schumacher","German",0,0,0
+80,15,2,74.521,1319,2,"5",5,11,2005,"French Grand Prix","N","magny_cours",8,"Circuit de Nevers Magny-Cours","France",46.8642,3.16361,"228","TRU","Jarno","Trulli","Italian",-0.0510000000000019,0,0
+80,4,1,74.412,1315,1,"1",1,1,2005,"French Grand Prix","N","magny_cours",8,"Circuit de Nevers Magny-Cours","France",46.8642,3.16361,"228","ALO","Fernando","Alonso","Spanish",-0.159999999999997,1,0
+81,31,4,80.382,1335,3,"1",1,1,2005,"British Grand Prix","N","silverstone",9,"Silverstone Circuit","UK",52.0786,-1.01694,"153","MON","Juan","Pablo Montoya","Colombian",0,1,0
+81,18,3,80.207,1339,2,"5",5,1,2005,"British Grand Prix","N","silverstone",9,"Silverstone Circuit","UK",52.0786,-1.01694,"153","BUT","Jenson","Button","British",-0.175000000000011,0,0
+81,4,1,79.905,1336,1,"2",2,1,2005,"British Grand Prix","N","silverstone",9,"Silverstone Circuit","UK",52.0786,-1.01694,"153","ALO","Fernando","Alonso","Spanish",-0.477000000000004,0,0
+82,4,3,74.904,1355,3,"1",1,1,2005,"German Grand Prix","N","hockenheimring",10,"Hockenheimring","Germany",49.3278,8.56583,"103","ALO","Fernando","Alonso","Spanish",-0.0230000000000103,1,0
+82,18,2,74.759,1357,2,"3",3,1,2005,"German Grand Prix","N","hockenheimring",10,"Hockenheimring","Germany",49.3278,8.56583,"103","BUT","Jenson","Button","British",-0.168000000000006,0,0
+83,15,3,80.839,1378,3,"4",4,1,2005,"Hungarian Grand Prix","N","hungaroring",11,"Hungaroring","Hungary",47.5789,19.2486,"264","TRU","Jarno","Trulli","Italian",-0.0520000000000067,0,0
+83,30,1,79.882,1376,1,"2",2,1,2005,"Hungarian Grand Prix","N","hungaroring",11,"Hungaroring","Hungary",47.5789,19.2486,"264","MSC","Michael","Schumacher","German",-1.009,0,0
+84,4,3,87.05,1396,3,"2",2,1,2005,"Turkish Grand Prix","N","istanbul",5,"Istanbul Park","Turkey",40.9517,29.405,"130","ALO","Fernando","Alonso","Spanish",-0.302000000000007,0,0
+84,21,2,87.039,1398,2,"4",4,1,2005,"Turkish Grand Prix","N","istanbul",5,"Istanbul Park","Turkey",40.9517,29.405,"130","FIS","Giancarlo","Fisichella","Italian",-0.313000000000002,0,0
+84,8,1,86.797,1395,1,"1",1,1,2005,"Turkish Grand Prix","N","istanbul",5,"Istanbul Park","Turkey",40.9517,29.405,"130","RAI","Kimi","Räikkönen","Finnish",-0.555000000000007,1,0
+85,18,4,81.369,1422,3,"8",8,1,2005,"Italian Grand Prix","N","monza",14,"Autodromo Nazionale di Monza","Italy",45.6156,9.28111,"162","BUT","Jenson","Button","British",0,0,0
+85,4,3,81.319,1416,2,"2",2,1,2005,"Italian Grand Prix","N","monza",14,"Autodromo Nazionale di Monza","Italy",45.6156,9.28111,"162","ALO","Fernando","Alonso","Spanish",-0.0499999999999972,0,0
+85,31,2,81.054,1415,1,"1",1,1,2005,"Italian Grand Prix","N","monza",14,"Autodromo Nazionale di Monza","Italy",45.6156,9.28111,"162","MON","Juan","Pablo Montoya","Colombian",-0.314999999999998,1,0
+86,8,2,106.44,1435,2,"1",1,1,2005,"Belgian Grand Prix","Y","spa",13,"Circuit de Spa-Francorchamps","Belgium",50.4372,5.97139,"401","RAI","Kimi","Räikkönen","Finnish",-0.156000000000006,1,0
+86,31,1,106.391,1448,1,"14",14,4,2005,"Belgian Grand Prix","Y","spa",13,"Circuit de Spa-Francorchamps","Belgium",50.4372,5.97139,"401","MON","Juan","Pablo Montoya","Colombian",-0.205000000000013,0,0
+87,21,3,72.558,1459,3,"5",5,1,2005,"Brazilian Grand Prix","N","interlagos",18,"Autódromo José Carlos Pace","Brazil",-23.7036,-46.6997,"785","FIS","Giancarlo","Fisichella","Italian",-0.137999999999991,0,0
+87,31,2,72.145,1455,2,"1",1,1,2005,"Brazilian Grand Prix","N","interlagos",18,"Autódromo José Carlos Pace","Brazil",-23.7036,-46.6997,"785","MON","Juan","Pablo Montoya","Colombian",-0.551000000000002,1,0
+87,4,1,71.988,1457,1,"3",3,1,2005,"Brazilian Grand Prix","N","interlagos",18,"Autódromo José Carlos Pace","Brazil",-23.7036,-46.6997,"785","ALO","Fernando","Alonso","Spanish",-0.707999999999998,0,0
+88,21,3,106.276,1476,3,"2",2,1,2005,"Japanese Grand Prix","N","suzuka",22,"Suzuka Circuit","Japan",34.8431,136.541,"45","FIS","Giancarlo","Fisichella","Italian",-0.187999999999988,0,0
+88,18,2,106.141,1479,2,"5",5,1,2005,"Japanese Grand Prix","N","suzuka",22,"Suzuka Circuit","Japan",34.8431,136.541,"45","BUT","Jenson","Button","British",-0.323000000000008,0,0
+88,23,1,106.106,1482,1,"8",8,1,2005,"Japanese Grand Prix","N","suzuka",22,"Suzuka Circuit","Japan",34.8431,136.541,"45","SCH","Ralf","Schumacher","German",-0.358000000000004,0,0
+89,8,3,94.488,1496,3,"2",2,1,2005,"Chinese Grand Prix","N","shanghai",17,"Shanghai International Circuit","China",31.3389,121.22,"5","RAI","Kimi","Räikkönen","Finnish",-0.312999999999988,0,0
+89,21,2,94.401,1498,2,"4",4,1,2005,"Chinese Grand Prix","N","shanghai",17,"Shanghai International Circuit","China",31.3389,121.22,"5","FIS","Giancarlo","Fisichella","Italian",-0.399999999999977,0,0
+89,4,1,94.08,1495,1,"1",1,1,2005,"Chinese Grand Prix","N","shanghai",17,"Shanghai International Circuit","China",31.3389,121.22,"5","ALO","Fernando","Alonso","Spanish",-0.720999999999975,1,0
+90,31,3,84.998,1519,3,"5",5,1,2004,"Australian Grand Prix","N","albert_park",1,"Albert Park Grand Prix Circuit","Australia",-37.8497,144.968,"10","MON","Juan","Pablo Montoya","Colombian",0,0,0
+90,22,2,84.482,1516,2,"2",2,1,2004,"Australian Grand Prix","N","albert_park",1,"Albert Park Grand Prix Circuit","Australia",-37.8497,144.968,"10","BAR","Rubens","Barrichello","Brazilian",-0.516000000000005,0,0
+90,30,1,84.408,1515,1,"1",1,1,2004,"Australian Grand Prix","N","albert_park",1,"Albert Park Grand Prix Circuit","Australia",-37.8497,144.968,"10","MSC","Michael","Schumacher","German",-0.590000000000003,1,0
+91,22,3,93.756,1538,3,"4",4,1,2004,"Malaysian Grand Prix","Y","sepang",2,"Sepang International Circuit","Malaysia",2.76083,101.738,"18","BAR","Rubens","Barrichello","Brazilian",-0.298000000000002,0,0
+91,30,1,93.074,1535,1,"1",1,1,2004,"Malaysian Grand Prix","Y","sepang",2,"Sepang International Circuit","Malaysia",2.76083,101.738,"18","MSC","Michael","Schumacher","German",-0.97999999999999,1,0
+92,31,3,90.581,1567,3,"13",13,11,2004,"Bahrain Grand Prix","N","bahrain",3,"Bahrain International Circuit","Bahrain",26.0325,50.5106,"7","MON","Juan","Pablo Montoya","Colombian",-0.0520000000000209,0,0
+92,22,2,90.53,1556,2,"2",2,1,2004,"Bahrain Grand Prix","N","bahrain",3,"Bahrain International Circuit","Bahrain",26.0325,50.5106,"7","BAR","Rubens","Barrichello","Brazilian",-0.103000000000009,0,0
+92,30,1,90.139,1555,1,"1",1,1,2004,"Bahrain Grand Prix","N","bahrain",3,"Bahrain International Circuit","Bahrain",26.0325,50.5106,"7","MSC","Michael","Schumacher","German",-0.494,1,0
+93,31,3,80.212,1577,3,"3",3,1,2004,"San Marino Grand Prix","N","imola",21,"Autodromo Enzo e Dino Ferrari","Italy",44.3439,11.7167,"37","MON","Juan","Pablo Montoya","Colombian",-0.23899999999999,0,0
+93,30,2,80.011,1575,2,"1",1,1,2004,"San Marino Grand Prix","N","imola",21,"Autodromo Enzo e Dino Ferrari","Italy",44.3439,11.7167,"37","MSC","Michael","Schumacher","German",-0.439999999999998,1,0
+93,18,1,79.753,1576,1,"2",2,1,2004,"San Marino Grand Prix","N","imola",21,"Autodromo Enzo e Dino Ferrari","Italy",44.3439,11.7167,"37","BUT","Jenson","Button","British",-0.697999999999993,0,0
+94,11,3,75.809,1599,3,"5",5,1,2004,"Spanish Grand Prix","N","catalunya",4,"Circuit de Barcelona-Catalunya","Spain",41.57,2.26111,"109","SAT","Takuma","Sato","Japanese",-0.335000000000008,0,0
+94,30,1,75.022,1595,1,"1",1,1,2004,"Spanish Grand Prix","N","catalunya",4,"Circuit de Barcelona-Catalunya","Spain",41.57,2.26111,"109","MSC","Michael","Schumacher","German",-1.122,1,0
+95,18,3,74.396,1616,2,"2",2,1,2004,"Monaco Grand Prix","N","monaco",6,"Circuit de Monaco","Monaco",43.7347,7.42056,"7","BUT","Jenson","Button","British",-0.0120000000000005,0,0
+95,15,1,73.985,1615,1,"1",1,1,2004,"Monaco Grand Prix","N","monaco",6,"Circuit de Monaco","Monaco",43.7347,7.42056,"7","TRU","Jarno","Trulli","Italian",-0.423000000000002,1,0
+96,15,3,89.135,1638,3,"4",4,1,2004,"European Grand Prix","N","nurburgring",20,"Nürburgring","Germany",50.3356,6.9475,"578","TRU","Jarno","Trulli","Italian",-0.00200000000000955,0,0
+96,30,1,88.351,1635,1,"1",1,1,2004,"European Grand Prix","N","nurburgring",20,"Nürburgring","Germany",50.3356,6.9475,"578","MSC","Michael","Schumacher","German",-0.786000000000001,1,0
+97,18,2,72.341,1657,2,"3",3,1,2004,"Canadian Grand Prix","N","villeneuve",7,"Circuit Gilles Villeneuve","Canada",45.5,-73.5228,"13","BUT","Jenson","Button","British",-0.731000000000009,0,0
+98,11,3,70.601,1677,3,"3",3,1,2004,"United States Grand Prix","N","indianapolis",19,"Indianapolis Motor Speedway","USA",39.795,-86.2347,"223","SAT","Takuma","Sato","Japanese",-0.218999999999994,0,0
+98,30,2,70.4,1675,2,"1",1,1,2004,"United States Grand Prix","N","indianapolis",19,"Indianapolis Motor Speedway","USA",39.795,-86.2347,"223","MSC","Michael","Schumacher","German",-0.419999999999987,1,0
+98,22,1,70.223,1676,1,"2",2,1,2004,"United States Grand Prix","N","indianapolis",19,"Indianapolis Motor Speedway","USA",39.795,-86.2347,"223","BAR","Rubens","Barrichello","Brazilian",-0.596999999999994,0,0
+99,14,3,73.987,1700,3,"6",6,1,2004,"French Grand Prix","N","magny_cours",8,"Circuit de Nevers Magny-Cours","France",46.8642,3.16361,"228","COU","David","Coulthard","British",-0.00800000000000978,0,0
+99,30,2,73.971,1695,2,"1",1,1,2004,"French Grand Prix","N","magny_cours",8,"Circuit de Nevers Magny-Cours","France",46.8642,3.16361,"228","MSC","Michael","Schumacher","German",-0.0240000000000009,1,0
+99,4,1,73.698,1696,1,"2",2,1,2004,"French Grand Prix","N","magny_cours",8,"Circuit de Nevers Magny-Cours","France",46.8642,3.16361,"228","ALO","Fernando","Alonso","Spanish",-0.297000000000011,0,0
+100,18,3,78.58,1718,3,"4",4,1,2004,"British Grand Prix","N","silverstone",9,"Silverstone Circuit","UK",52.0786,-1.01694,"153","BUT","Jenson","Button","British",-0.129999999999995,0,0
+100,22,2,78.305,1717,2,"3",3,1,2004,"British Grand Prix","N","silverstone",9,"Silverstone Circuit","UK",52.0786,-1.01694,"153","BAR","Rubens","Barrichello","Brazilian",-0.404999999999987,0,0
+100,8,1,78.233,1716,1,"2",2,1,2004,"British Grand Prix","N","silverstone",9,"Silverstone Circuit","UK",52.0786,-1.01694,"153","RAI","Kimi","Räikkönen","Finnish",-0.47699999999999,0,0
+101,31,2,73.668,1739,2,"5",5,1,2004,"German Grand Prix","N","hockenheimring",10,"Hockenheimring","Germany",49.3278,8.56583,"103","MON","Juan","Pablo Montoya","Colombian",-0.0219999999999914,0,0
+101,30,1,73.306,1735,1,"1",1,1,2004,"German Grand Prix","N","hockenheimring",10,"Hockenheimring","Germany",49.3278,8.56583,"103","MSC","Michael","Schumacher","German",-0.384,1,0
+102,11,3,79.693,1760,3,"6",6,11,2004,"Hungarian Grand Prix","N","hungaroring",11,"Hungaroring","Hungary",47.5789,19.2486,"264","SAT","Takuma","Sato","Japanese",-0.007000000000005,0,0
+102,22,2,79.323,1756,2,"2",2,1,2004,"Hungarian Grand Prix","N","hungaroring",11,"Hungaroring","Hungary",47.5789,19.2486,"264","BAR","Rubens","Barrichello","Brazilian",-0.37700000000001,0,0
+102,30,1,79.146,1755,1,"1",1,1,2004,"Hungarian Grand Prix","N","hungaroring",11,"Hungaroring","Hungary",47.5789,19.2486,"264","MSC","Michael","Schumacher","German",-0.554000000000002,1,0
+103,30,2,116.304,1776,2,"2",2,1,2004,"Belgian Grand Prix","N","spa",13,"Circuit de Spa-Francorchamps","Belgium",50.4372,5.97139,"401","MSC","Michael","Schumacher","German",-1.68600000000001,0,0
+103,15,1,116.232,1783,1,"9",9,1,2004,"Belgian Grand Prix","N","spa",13,"Circuit de Spa-Francorchamps","Belgium",50.4372,5.97139,"401","TRU","Jarno","Trulli","Italian",-1.75800000000001,0,0
+104,30,3,80.637,1796,3,"2",2,1,2004,"Italian Grand Prix","N","monza",14,"Autodromo Nazionale di Monza","Italy",45.6156,9.28111,"162","MSC","Michael","Schumacher","German",-0.00799999999999557,0,0
+104,31,2,80.62,1799,2,"5",5,1,2004,"Italian Grand Prix","N","monza",14,"Autodromo Nazionale di Monza","Italy",45.6156,9.28111,"162","MON","Juan","Pablo Montoya","Colombian",-0.0249999999999915,0,0
+104,22,1,80.089,1795,1,"1",1,1,2004,"Italian Grand Prix","N","monza",14,"Autodromo Nazionale di Monza","Italy",45.6156,9.28111,"162","BAR","Rubens","Barrichello","Brazilian",-0.555999999999997,1,0
+105,18,3,94.295,1816,3,"2",2,1,2004,"Chinese Grand Prix","N","shanghai",17,"Shanghai International Circuit","China",31.3389,121.22,"5","BUT","Jenson","Button","British",-0.463999999999999,0,0
+105,8,2,94.178,1817,2,"3",3,1,2004,"Chinese Grand Prix","N","shanghai",17,"Shanghai International Circuit","China",31.3389,121.22,"5","RAI","Kimi","Räikkönen","Finnish",-0.580999999999989,0,0
+105,22,1,94.012,1815,1,"1",1,1,2004,"Chinese Grand Prix","N","shanghai",17,"Shanghai International Circuit","China",31.3389,121.22,"5","BAR","Rubens","Barrichello","Brazilian",-0.746999999999986,1,0
+106,23,2,94.032,1836,2,"2",2,1,2004,"Japanese Grand Prix","N","suzuka",22,"Suzuka Circuit","Japan",34.8431,136.541,"45","SCH","Ralf","Schumacher","German",-0.864999999999981,0,0
+106,30,1,93.542,1835,1,"1",1,1,2004,"Japanese Grand Prix","N","suzuka",22,"Suzuka Circuit","Japan",34.8431,136.541,"45","MSC","Michael","Schumacher","German",-1.35499999999999,1,0
+107,8,3,70.892,1856,3,"2",2,1,2004,"Brazilian Grand Prix","Y","interlagos",18,"Autódromo José Carlos Pace","Brazil",-23.7036,-46.6997,"785","RAI","Kimi","Räikkönen","Finnish",-0.0300000000000011,0,0
+107,31,2,70.85,1855,2,"1",1,1,2004,"Brazilian Grand Prix","Y","interlagos",18,"Autódromo José Carlos Pace","Brazil",-23.7036,-46.6997,"785","MON","Juan","Pablo Montoya","Colombian",-0.0720000000000027,1,0
+107,22,1,70.646,1857,1,"3",3,1,2004,"Brazilian Grand Prix","Y","interlagos",18,"Autódromo José Carlos Pace","Brazil",-23.7036,-46.6997,"785","BAR","Rubens","Barrichello","Brazilian",-0.275999999999996,0,0
+108,31,3,88.101,1876,3,"2",2,1,2003,"Australian Grand Prix","N","albert_park",1,"Albert Park Grand Prix Circuit","Australia",-37.8497,144.968,"10","MON","Juan","Pablo Montoya","Colombian",-0.173000000000002,0,0
+108,30,1,87.173,1878,1,"4",4,1,2003,"Australian Grand Prix","N","albert_park",1,"Albert Park Grand Prix Circuit","Australia",-37.8497,144.968,"10","MSC","Michael","Schumacher","German",-1.101,0,0
+109,30,3,97.393,1900,3,"6",6,11,2003,"Malaysian Grand Prix","N","sepang",2,"Sepang International Circuit","Malaysia",2.76083,101.738,"18","MSC","Michael","Schumacher","German",-0.061000000000007,0,0
+109,15,2,97.217,1899,2,"5",5,11,2003,"Malaysian Grand Prix","N","sepang",2,"Sepang International Circuit","Malaysia",2.76083,101.738,"18","TRU","Jarno","Trulli","Italian",-0.236999999999995,0,0
+109,4,1,97.044,1897,1,"3",3,1,2003,"Malaysian Grand Prix","N","sepang",2,"Sepang International Circuit","Malaysia",2.76083,101.738,"18","ALO","Fernando","Alonso","Spanish",-0.409999999999997,0,0
+110,17,3,73.851,1923,3,"9",9,3,2003,"Brazilian Grand Prix","Y","interlagos",18,"Autódromo José Carlos Pace","Brazil",-23.7036,-46.6997,"785","WEB","Mark","Webber","Australian",-0.0150000000000006,0,0
+110,14,2,73.818,1918,2,"4",4,1,2003,"Brazilian Grand Prix","Y","interlagos",18,"Autódromo José Carlos Pace","Brazil",-23.7036,-46.6997,"785","COU","David","Coulthard","British",-0.0480000000000018,0,0
+111,22,3,82.557,1937,3,"3",3,1,2003,"San Marino Grand Prix","N","imola",21,"Autodromo Enzo e Dino Ferrari","Italy",44.3439,11.7167,"37","BAR","Rubens","Barrichello","Brazilian",-0.231999999999999,0,0
+111,23,2,82.341,1938,2,"4",4,1,2003,"San Marino Grand Prix","N","imola",21,"Autodromo Enzo e Dino Ferrari","Italy",44.3439,11.7167,"37","SCH","Ralf","Schumacher","German",-0.448000000000008,0,0
+111,30,1,82.327,1935,1,"1",1,1,2003,"San Marino Grand Prix","N","imola",21,"Autodromo Enzo e Dino Ferrari","Italy",44.3439,11.7167,"37","MSC","Michael","Schumacher","German",-0.462000000000003,1,0
+112,4,3,78.233,1956,3,"2",2,1,2003,"Spanish Grand Prix","N","catalunya",4,"Circuit de Barcelona-Catalunya","Spain",41.57,2.26111,"109","ALO","Fernando","Alonso","Spanish",-0.381999999999991,0,0
+112,22,2,78.02,1957,2,"3",3,1,2003,"Spanish Grand Prix","N","catalunya",4,"Circuit de Barcelona-Catalunya","Spain",41.57,2.26111,"109","BAR","Rubens","Barrichello","Brazilian",-0.594999999999999,0,0
+112,30,1,77.762,1955,1,"1",1,1,2003,"Spanish Grand Prix","N","catalunya",4,"Circuit de Barcelona-Catalunya","Spain",41.57,2.26111,"109","MSC","Michael","Schumacher","German",-0.852999999999994,1,0
+113,8,2,69.189,1976,2,"2",2,1,2003,"Austrian Grand Prix","Y","osterreichring",23,"A1-Ring","Austria",47.2197,14.7647,"678","RAI","Kimi","Räikkönen","Finnish",-0.536000000000001,0,0
+113,30,1,69.15,1975,1,"1",1,1,2003,"Austrian Grand Prix","Y","osterreichring",23,"A1-Ring","Austria",47.2197,14.7647,"678","MSC","Michael","Schumacher","German",-0.574999999999989,1,0
+114,31,3,75.415,1995,3,"1",1,1,2003,"Monaco Grand Prix","N","monaco",6,"Circuit de Monaco","Monaco",43.7347,7.42056,"7","MON","Juan","Pablo Montoya","Colombian",-0.0849999999999937,1,0
+114,8,2,75.295,1996,2,"2",2,1,2003,"Monaco Grand Prix","N","monaco",6,"Circuit de Monaco","Monaco",43.7347,7.42056,"7","RAI","Kimi","Räikkönen","Finnish",-0.204999999999998,0,0
+114,23,1,75.259,1998,1,"4",4,1,2003,"Monaco Grand Prix","N","monaco",6,"Circuit de Monaco","Monaco",43.7347,7.42056,"7","SCH","Ralf","Schumacher","German",-0.241,0,0
+115,30,3,76.047,2015,3,"1",1,1,2003,"Canadian Grand Prix","N","villeneuve",7,"Circuit Gilles Villeneuve","Canada",45.5,-73.5228,"13","MSC","Michael","Schumacher","German",-0.00100000000000477,1,0
+115,31,2,75.923,2017,2,"3",3,1,2003,"Canadian Grand Prix","N","villeneuve",7,"Circuit Gilles Villeneuve","Canada",45.5,-73.5228,"13","MON","Juan","Pablo Montoya","Colombian",-0.125,0,0
+115,23,1,75.529,2016,1,"2",2,1,2003,"Canadian Grand Prix","N","villeneuve",7,"Circuit Gilles Villeneuve","Canada",45.5,-73.5228,"13","SCH","Ralf","Schumacher","German",-0.519000000000005,0,0
+116,23,3,91.619,2035,3,"1",1,1,2003,"European Grand Prix","N","nurburgring",20,"Nürburgring","Germany",50.3356,6.9475,"578","SCH","Ralf","Schumacher","German",-0.145999999999987,1,0
+116,30,2,91.555,2039,2,"5",5,1,2003,"European Grand Prix","N","nurburgring",20,"Nürburgring","Germany",50.3356,6.9475,"578","MSC","Michael","Schumacher","German",-0.20999999999998,0,0
+117,30,3,75.48,2057,3,"3",3,1,2003,"French Grand Prix","N","magny_cours",8,"Circuit de Nevers Magny-Cours","France",46.8642,3.16361,"228","MSC","Michael","Schumacher","German",-0.0529999999999973,0,0
+117,31,2,75.136,2056,2,"2",2,1,2003,"French Grand Prix","N","magny_cours",8,"Circuit de Nevers Magny-Cours","France",46.8642,3.16361,"228","MON","Juan","Pablo Montoya","Colombian",-0.397000000000006,0,0
+117,23,1,75.019,2055,1,"1",1,1,2003,"French Grand Prix","N","magny_cours",8,"Circuit de Nevers Magny-Cours","France",46.8642,3.16361,"228","SCH","Ralf","Schumacher","German",-0.513999999999996,1,0
+118,8,3,81.695,2077,3,"3",3,1,2003,"British Grand Prix","N","silverstone",9,"Silverstone Circuit","UK",52.0786,-1.01694,"153","RAI","Kimi","Räikkönen","Finnish",-0.0320000000000107,0,0
+118,15,2,81.381,2080,2,"6",6,1,2003,"British Grand Prix","N","silverstone",9,"Silverstone Circuit","UK",52.0786,-1.01694,"153","TRU","Jarno","Trulli","Italian",-0.346000000000004,0,0
+118,22,1,81.209,2075,1,"1",1,1,2003,"British Grand Prix","N","silverstone",9,"Silverstone Circuit","UK",52.0786,-1.01694,"153","BAR","Rubens","Barrichello","Brazilian",-0.518000000000001,1,0
+119,31,1,75.167,2095,1,"1",1,1,2003,"German Grand Prix","N","hockenheimring",10,"Hockenheimring","Germany",49.3278,8.56583,"103","MON","Juan","Pablo Montoya","Colombian",-0.512,1,0
+120,17,3,82.027,2120,3,"6",6,1,2003,"Hungarian Grand Prix","N","hungaroring",11,"Hungaroring","Hungary",47.5789,19.2486,"264","WEB","Mark","Webber","Australian",-0.153000000000006,0,0
+120,23,2,81.944,2118,2,"4",4,1,2003,"Hungarian Grand Prix","N","hungaroring",11,"Hungaroring","Hungary",47.5789,19.2486,"264","SCH","Ralf","Schumacher","German",-0.236000000000004,0,0
+120,4,1,81.688,2115,1,"1",1,1,2003,"Hungarian Grand Prix","N","hungaroring",11,"Hungaroring","Hungary",47.5789,19.2486,"264","ALO","Fernando","Alonso","Spanish",-0.492000000000004,1,0
+121,22,3,81.242,2137,3,"3",3,1,2003,"Italian Grand Prix","N","monza",14,"Autodromo Nazionale di Monza","Italy",45.6156,9.28111,"162","BAR","Rubens","Barrichello","Brazilian",-0.22399999999999,0,0
+121,31,2,81.014,2136,2,"2",2,1,2003,"Italian Grand Prix","N","monza",14,"Autodromo Nazionale di Monza","Italy",45.6156,9.28111,"162","MON","Juan","Pablo Montoya","Colombian",-0.451999999999998,0,0
+121,30,1,80.963,2135,1,"1",1,1,2003,"Italian Grand Prix","N","monza",14,"Autodromo Nazionale di Monza","Italy",45.6156,9.28111,"162","MSC","Michael","Schumacher","German",-0.503,1,0
+122,8,1,71.67,2156,1,"2",2,1,2003,"United States Grand Prix","Y","indianapolis",19,"Indianapolis Motor Speedway","USA",39.795,-86.2347,"223","RAI","Kimi","Räikkönen","Finnish",-0.277999999999992,0,0
+123,43,3,92.419,2181,3,"7",7,1,2003,"Japanese Grand Prix","N","suzuka",22,"Suzuka Circuit","Japan",34.8431,136.541,"45","\N","Cristiano","da Matta","Brazilian",-0.442999999999984,0,0
+123,22,1,91.713,2175,1,"1",1,1,2003,"Japanese Grand Prix","N","suzuka",22,"Suzuka Circuit","Japan",34.8431,136.541,"45","BAR","Rubens","Barrichello","Brazilian",-1.149,1,0
+125,31,2,95.497,2218,2,"2",2,1,2002,"Malaysian Grand Prix","N","sepang",2,"Sepang International Circuit","Malaysia",2.76083,101.738,"18","MON","Juan","Pablo Montoya","Colombian",-0.530999999999977,0,0
+125,30,1,95.266,2219,1,"3",3,1,2002,"Malaysian Grand Prix","N","sepang",2,"Sepang International Circuit","Malaysia",2.76083,101.738,"18","MSC","Michael","Schumacher","German",-0.762,0,0
+140,22,2,91.749,2538,2,"2",2,1,2002,"Japanese Grand Prix","N","suzuka",22,"Suzuka Circuit","Japan",34.8431,136.541,"45","BAR","Rubens","Barrichello","Brazilian",-0.448000000000008,0,0
+140,30,1,91.317,2537,1,"1",1,1,2002,"Japanese Grand Prix","N","suzuka",22,"Suzuka Circuit","Japan",34.8431,136.541,"45","MSC","Michael","Schumacher","German",-0.879999999999995,1,0
+156,30,1,71.708,2888,1,"2",2,1,2001,"United States Grand Prix","N","indianapolis",19,"Indianapolis Motor Speedway","USA",39.795,-86.2347,"223","MSC","Michael","Schumacher","German",-0.600999999999999,0,0
+158,30,3,91.075,2931,3,"1",1,1,2000,"Australian Grand Prix","N","albert_park",1,"Albert Park Grand Prix Circuit","Australia",-37.8497,144.968,"10","MSC","Michael","Schumacher","German",-0.0270000000000152,1,0
+160,14,3,85.014,2977,3,"3",3,1,2000,"San Marino Grand Prix","N","imola",21,"Autodromo Enzo e Dino Ferrari","Italy",44.3439,11.7167,"37","COU","David","Coulthard","British",-0.856999999999999,0,0
+160,30,2,84.805,2975,2,"1",1,1,2000,"San Marino Grand Prix","N","imola",21,"Autodromo Enzo e Dino Ferrari","Italy",44.3439,11.7167,"37","MSC","Michael","Schumacher","German",-1.06599999999999,1,0
+160,57,1,84.714,2976,1,"2",2,1,2000,"San Marino Grand Prix","N","imola",21,"Autodromo Enzo e Dino Ferrari","Italy",44.3439,11.7167,"37","\N","Mika","Häkkinen","Finnish",-1.157,0,0
+161,57,3,85.741,2998,3,"2",2,1,2000,"British Grand Prix","N","silverstone",9,"Silverstone Circuit","UK",52.0786,-1.01694,"153","\N","Mika","Häkkinen","Finnish",-0.346999999999994,0,0
+161,49,2,85.706,3013,2,"17",17,16,2000,"British Grand Prix","N","silverstone",9,"Silverstone Circuit","UK",52.0786,-1.01694,"153","\N","Heinz-Harald","Frentzen","German",-0.381999999999991,0,0
+173,14,3,96.236,3262,3,"3",3,1,2000,"Japanese Grand Prix","Y","suzuka",22,"Suzuka Circuit","Japan",34.8431,136.541,"45","COU","David","Coulthard","British",-0.0940000000000225,0,0
+173,57,2,95.834,3261,2,"2",2,1,2000,"Japanese Grand Prix","Y","suzuka",22,"Suzuka Circuit","Japan",34.8431,136.541,"45","\N","Mika","Häkkinen","Finnish",-0.496000000000009,0,0
+173,30,1,95.825,3260,1,"1",1,1,2000,"Japanese Grand Prix","Y","suzuka",22,"Suzuka Circuit","Japan",34.8431,136.541,"45","MSC","Michael","Schumacher","German",-0.505000000000024,1,0
+175,30,3,91.781,3311,3,"8",8,11,1999,"Australian Grand Prix","N","albert_park",1,"Albert Park Grand Prix Circuit","Australia",-37.8497,144.968,"10","MSC","Michael","Schumacher","German",-0.36699999999999,0,0
+176,57,1,76.568,3326,1,"1",1,1,1999,"Brazilian Grand Prix","N","interlagos",18,"Autódromo José Carlos Pace","Brazil",-23.7036,-46.6997,"785","\N","Mika","Häkkinen","Finnish",-1.01000000000001,1,0
+177,30,3,86.538,3348,3,"1",1,1,1999,"San Marino Grand Prix","N","imola",21,"Autodromo Enzo e Dino Ferrari","Italy",44.3439,11.7167,"37","MSC","Michael","Schumacher","German",-0.454999999999998,1,0
+177,14,2,86.384,3349,2,"2",2,1,1999,"San Marino Grand Prix","N","imola",21,"Autodromo Enzo e Dino Ferrari","Italy",44.3439,11.7167,"37","COU","David","Coulthard","British",-0.608999999999995,0,0
+191,14,2,90.053,3657,2,"2",2,1,1998,"Australian Grand Prix","N","albert_park",1,"Albert Park Grand Prix Circuit","Australia",-37.8497,144.968,"10","COU","David","Coulthard","British",-0.866000000000014,0,0
+191,57,1,90.01,3656,1,"1",1,1,1998,"Australian Grand Prix","N","albert_park",1,"Albert Park Grand Prix Circuit","Australia",-37.8497,144.968,"10","\N","Mika","Häkkinen","Finnish",-0.90900000000002,1,0
+192,49,3,78.109,3682,3,"5",5,11,1998,"Brazilian Grand Prix","N","interlagos",18,"Autódromo José Carlos Pace","Brazil",-23.7036,-46.6997,"785","\N","Heinz-Harald","Frentzen","German",-0.141000000000005,0,0
+192,14,2,77.757,3679,2,"2",2,1,1998,"Brazilian Grand Prix","N","interlagos",18,"Autódromo José Carlos Pace","Brazil",-23.7036,-46.6997,"785","COU","David","Coulthard","British",-0.492999999999995,0,0
+192,57,1,77.092,3678,1,"1",1,1,1998,"Brazilian Grand Prix","N","interlagos",18,"Autódromo José Carlos Pace","Brazil",-23.7036,-46.6997,"785","\N","Mika","Häkkinen","Finnish",-1.158,1,0
+193,57,3,86.632,3701,3,"2",2,1,1998,"Argentine Grand Prix","N","galvez",25,"Autódromo Juan y Oscar Gálvez","Argentina",-34.6943,-58.4593,"8","\N","Mika","Häkkinen","Finnish",-0.147999999999996,0,0
+193,30,2,86.251,3700,2,"1",1,1,1998,"Argentine Grand Prix","N","galvez",25,"Autódromo Juan y Oscar Gálvez","Argentina",-34.6943,-58.4593,"8","MSC","Michael","Schumacher","German",-0.528999999999996,1,0
+193,14,1,85.852,3705,1,"6",6,1,1998,"Argentine Grand Prix","N","galvez",25,"Autódromo Juan y Oscar Gálvez","Argentina",-34.6943,-58.4593,"8","COU","David","Coulthard","British",-0.927999999999997,0,0
+199,35,3,84.102,3837,3,"7",7,11,1998,"British Grand Prix","Y","silverstone",9,"Silverstone Circuit","UK",52.0786,-1.01694,"153","VIL","Jacques","Villeneuve","Canadian",-0.207999999999998,0,0
+199,30,2,83.72,3831,2,"1",1,1,1998,"British Grand Prix","Y","silverstone",9,"Silverstone Circuit","UK",52.0786,-1.01694,"153","MSC","Michael","Schumacher","German",-0.590000000000003,1,0
+199,57,1,83.271,3832,1,"2",2,1,1998,"British Grand Prix","Y","silverstone",9,"Silverstone Circuit","UK",52.0786,-1.01694,"153","\N","Mika","Häkkinen","Finnish",-1.039,0,0
+200,57,3,90.517,3853,3,"1",1,1,1998,"Austrian Grand Prix","N","osterreichring",23,"A1-Ring","Austria",47.2197,14.7647,"678","\N","Mika","Häkkinen","Finnish",-0.0339999999999918,1,0
+201,35,3,102.365,3877,3,"3",3,1,1998,"German Grand Prix","N","hockenheimring",10,"Hockenheimring","Germany",49.3278,8.56583,"103","VIL","Jacques","Villeneuve","Canadian",-0.628999999999991,0,0
+201,14,2,102.347,3876,2,"2",2,1,1998,"German Grand Prix","N","hockenheimring",10,"Hockenheimring","Germany",49.3278,8.56583,"103","COU","David","Coulthard","British",-0.646999999999991,0,0
+201,57,1,101.838,3875,1,"1",1,1,1998,"German Grand Prix","N","hockenheimring",10,"Hockenheimring","Germany",49.3278,8.56583,"103","\N","Mika","Häkkinen","Finnish",-1.15600000000001,1,0
+203,71,3,109.728,3917,3,"1",1,1,1998,"Belgian Grand Prix","Y","spa",13,"Circuit de Spa-Francorchamps","Belgium",50.4372,5.97139,"401","\N","Damon","Hill","British",-0.298999999999978,1,0
+203,14,2,108.845,3923,2,"7",7,15,1998,"Belgian Grand Prix","Y","spa",13,"Circuit de Spa-Francorchamps","Belgium",50.4372,5.97139,"401","COU","David","Coulthard","British",-1.18199999999999,0,0
+207,30,3,91.472,4006,3,"2",2,1,1997,"Australian Grand Prix","N","albert_park",1,"Albert Park Grand Prix Circuit","Australia",-37.8497,144.968,"10","MSC","Michael","Schumacher","German",-0.0589999999999975,0,0
+207,49,2,91.123,4012,2,"8",8,23,1997,"Australian Grand Prix","N","albert_park",1,"Albert Park Grand Prix Circuit","Australia",-37.8497,144.968,"10","\N","Heinz-Harald","Frentzen","German",-0.408000000000015,0,0
+208,77,3,76.644,4030,3,"2",2,1,1997,"Brazilian Grand Prix","N","interlagos",18,"Autódromo José Carlos Pace","Brazil",-23.7036,-46.6997,"785","\N","Gerhard","Berger","Austrian",-0.0479999999999876,0,0
+208,30,2,76.594,4033,2,"5",5,1,1997,"Brazilian Grand Prix","N","interlagos",18,"Autódromo José Carlos Pace","Brazil",-23.7036,-46.6997,"785","MSC","Michael","Schumacher","German",-0.097999999999999,0,0
+208,35,1,76.004,4029,1,"1",1,1,1997,"Brazilian Grand Prix","N","interlagos",18,"Autódromo José Carlos Pace","Brazil",-23.7036,-46.6997,"785","VIL","Jacques","Villeneuve","Canadian",-0.687999999999988,1,0
+209,35,1,84.473,4051,1,"1",1,1,1997,"Argentine Grand Prix","N","galvez",25,"Autódromo Juan y Oscar Gálvez","Argentina",-34.6943,-58.4593,"8","VIL","Jacques","Villeneuve","Canadian",-1.3,1,0
+210,30,3,83.955,4074,3,"2",2,1,1997,"San Marino Grand Prix","N","imola",21,"Autodromo Enzo e Dino Ferrari","Italy",44.3439,11.7167,"37","MSC","Michael","Schumacher","German",-0.120000000000005,0,0
+210,49,2,83.646,4073,2,"1",1,1,1997,"San Marino Grand Prix","N","imola",21,"Autodromo Enzo e Dino Ferrari","Italy",44.3439,11.7167,"37","\N","Heinz-Harald","Frentzen","German",-0.429000000000002,1,0
+211,30,2,78.235,4095,2,"1",1,1,1997,"Monaco Grand Prix","Y","monaco",6,"Circuit de Monaco","Monaco",43.7347,7.42056,"7","MSC","Michael","Schumacher","German",-0.430000000000007,1,0
+212,14,3,77.521,4122,3,"6",6,1,1997,"Spanish Grand Prix","N","catalunya",4,"Circuit de Barcelona-Catalunya","Spain",41.57,2.26111,"109","COU","David","Coulthard","British",-0.195999999999998,0,0
+212,49,2,76.791,4124,2,"8",8,1,1997,"Spanish Grand Prix","N","catalunya",4,"Circuit de Barcelona-Catalunya","Spain",41.57,2.26111,"109","\N","Heinz-Harald","Frentzen","German",-0.926000000000002,0,0
+212,35,1,76.525,4117,1,"1",1,1,1997,"Spanish Grand Prix","N","catalunya",4,"Circuit de Barcelona-Catalunya","Spain",41.57,2.26111,"109","VIL","Jacques","Villeneuve","Canadian",-1.19199999999999,1,0
+213,30,1,78.095,4139,1,"1",1,1,1997,"Canadian Grand Prix","N","villeneuve",7,"Circuit Gilles Villeneuve","Canada",45.5,-73.5228,"13","MSC","Michael","Schumacher","German",-0.369,1,0
+214,23,3,74.755,4166,3,"6",6,1,1997,"French Grand Prix","Y","magny_cours",8,"Circuit de Nevers Magny-Cours","France",46.8642,3.16361,"228","SCH","Ralf","Schumacher","German",-0.0450000000000017,0,0
+214,49,2,74.749,4162,2,"2",2,1,1997,"French Grand Prix","Y","magny_cours",8,"Circuit de Nevers Magny-Cours","France",46.8642,3.16361,"228","\N","Heinz-Harald","Frentzen","German",-0.0510000000000019,0,0
+214,30,1,74.548,4161,1,"1",1,1,1997,"French Grand Prix","Y","magny_cours",8,"Circuit de Nevers Magny-Cours","France",46.8642,3.16361,"228","MSC","Michael","Schumacher","German",-0.251999999999995,1,0
+215,35,1,81.598,4183,1,"1",1,1,1997,"British Grand Prix","N","silverstone",9,"Silverstone Circuit","UK",52.0786,-1.01694,"153","VIL","Jacques","Villeneuve","Canadian",-0.379000000000005,1,0
+216,57,3,102.034,4207,3,"3",3,1,1997,"German Grand Prix","N","hockenheimring",10,"Hockenheimring","Germany",49.3278,8.56583,"103","\N","Mika","Häkkinen","Finnish",-0.14700000000002,0,0
+216,21,2,101.896,4215,2,"11",11,15,1997,"German Grand Prix","N","hockenheimring",10,"Hockenheimring","Germany",49.3278,8.56583,"103","FIS","Giancarlo","Fisichella","Italian",-0.285000000000025,0,0
+216,77,1,101.873,4205,1,"1",1,1,1997,"German Grand Prix","N","hockenheimring",10,"Hockenheimring","Germany",49.3278,8.56583,"103","\N","Gerhard","Berger","Austrian",-0.308000000000021,1,0
+224,56,3,92.889,4383,3,"3",3,1,1996,"Australian Grand Prix","N","albert_park",1,"Albert Park Grand Prix Circuit","Australia",-37.8497,144.968,"10","\N","Eddie","Irvine","British",-0.23599999999999,0,0
+224,71,2,92.509,4381,2,"1",1,1,1996,"Australian Grand Prix","N","albert_park",1,"Albert Park Grand Prix Circuit","Australia",-37.8497,144.968,"10","\N","Damon","Hill","British",-0.616000000000014,1,0
+224,35,1,92.371,4382,1,"2",2,1,1996,"Australian Grand Prix","N","albert_park",1,"Albert Park Grand Prix Circuit","Australia",-37.8497,144.968,"10","VIL","Jacques","Villeneuve","Canadian",-0.753999999999991,0,0
+225,71,1,78.111,4403,1,"1",1,1,1996,"Brazilian Grand Prix","Y","interlagos",18,"Autódromo José Carlos Pace","Brazil",-23.7036,-46.6997,"785","\N","Damon","Hill","British",-1.363,1,0
+226,35,3,90.907,4426,3,"2",2,1,1996,"Argentine Grand Prix","N","galvez",25,"Autódromo Juan y Oscar Gálvez","Argentina",-34.6943,-58.4593,"8","VIL","Jacques","Villeneuve","Canadian",-0.131,0,0
+226,71,1,90.346,4425,1,"1",1,1,1996,"Argentine Grand Prix","N","galvez",25,"Autódromo Juan y Oscar Gálvez","Argentina",-34.6943,-58.4593,"8","\N","Damon","Hill","British",-0.692000000000007,1,0
+227,30,3,80.149,4448,3,"2",2,1,1996,"European Grand Prix","N","nurburgring",20,"Nürburgring","Germany",50.3356,6.9475,"578","MSC","Michael","Schumacher","German",-0.561999999999998,0,0
+227,35,2,79.721,4447,2,"1",1,1,1996,"European Grand Prix","N","nurburgring",20,"Nürburgring","Germany",50.3356,6.9475,"578","VIL","Jacques","Villeneuve","Canadian",-0.989999999999995,1,0
+227,71,1,78.941,4450,1,"4",4,1,1996,"European Grand Prix","N","nurburgring",20,"Nürburgring","Germany",50.3356,6.9475,"578","\N","Damon","Hill","British",-1.77,0,0
+228,35,3,87.22,4479,3,"11",11,22,1996,"San Marino Grand Prix","N","imola",21,"Autodromo Enzo e Dino Ferrari","Italy",44.3439,11.7167,"37","VIL","Jacques","Villeneuve","Canadian",-0.468000000000004,0,0
+228,71,2,87.105,4469,2,"1",1,1,1996,"San Marino Grand Prix","N","imola",21,"Autodromo Enzo e Dino Ferrari","Italy",44.3439,11.7167,"37","\N","Damon","Hill","British",-0.582999999999998,1,0
+228,30,1,86.89,4470,1,"2",2,1,1996,"San Marino Grand Prix","N","imola",21,"Autodromo Enzo e Dino Ferrari","Italy",44.3439,11.7167,"37","MSC","Michael","Schumacher","German",-0.798000000000002,0,0
+230,30,3,81.587,4513,3,"1",1,1,1996,"Spanish Grand Prix","Y","catalunya",4,"Circuit de Barcelona-Catalunya","Spain",41.57,2.26111,"109","MSC","Michael","Schumacher","German",-0.474000000000004,1,0
+230,35,2,81.084,4515,2,"3",3,1,1996,"Spanish Grand Prix","Y","catalunya",4,"Circuit de Barcelona-Catalunya","Spain",41.57,2.26111,"109","VIL","Jacques","Villeneuve","Canadian",-0.977000000000004,0,0
+240,14,3,80.422,4722,3,"2",2,1,1995,"Brazilian Grand Prix","N","interlagos",18,"Autódromo José Carlos Pace","Brazil",-23.7036,-46.6997,"785","COU","David","Coulthard","British",-0.466000000000008,0,0
+240,30,2,80.382,4721,2,"1",1,1,1995,"Brazilian Grand Prix","N","interlagos",18,"Autódromo José Carlos Pace","Brazil",-23.7036,-46.6997,"785","MSC","Michael","Schumacher","German",-0.506,1,0
+241,30,3,114.272,4749,3,"3",3,1,1995,"Argentine Grand Prix","N","galvez",25,"Autódromo Juan y Oscar Gálvez","Argentina",-34.6943,-58.4593,"8","MSC","Michael","Schumacher","German",-0.109000000000009,0,0
+241,71,2,114.057,4747,2,"1",1,1,1995,"Argentine Grand Prix","N","galvez",25,"Autódromo Juan y Oscar Gálvez","Argentina",-34.6943,-58.4593,"8","\N","Damon","Hill","British",-0.324000000000012,1,0
+242,14,3,87.459,4776,3,"4",4,1,1995,"San Marino Grand Prix","Y","imola",21,"Autodromo Enzo e Dino Ferrari","Italy",44.3439,11.7167,"37","COU","David","Coulthard","British",-0.0529999999999973,0,0
+242,77,2,87.282,4775,2,"3",3,1,1995,"San Marino Grand Prix","Y","imola",21,"Autodromo Enzo e Dino Ferrari","Italy",44.3439,11.7167,"37","\N","Gerhard","Berger","Austrian",-0.230000000000004,0,0
+243,77,3,82.071,4801,3,"3",3,1,1995,"Spanish Grand Prix","N","catalunya",4,"Circuit de Barcelona-Catalunya","Spain",41.57,2.26111,"109","\N","Gerhard","Berger","Austrian",-0.260999999999996,0,0
+243,30,1,81.452,4799,1,"1",1,1,1995,"Spanish Grand Prix","N","catalunya",4,"Circuit de Barcelona-Catalunya","Spain",41.57,2.26111,"109","MSC","Michael","Schumacher","German",-0.879999999999995,1,0
+244,30,2,82.742,4825,2,"1",1,1,1995,"Monaco Grand Prix","N","monaco",6,"Circuit de Monaco","Monaco",43.7347,7.42056,"7","MSC","Michael","Schumacher","German",-0.477999999999994,1,0
+244,71,1,81.952,4826,1,"2",2,1,1995,"Monaco Grand Prix","N","monaco",6,"Circuit de Monaco","Monaco",43.7347,7.42056,"7","\N","Damon","Hill","British",-1.268,0,0
+245,30,1,87.661,4855,1,"5",5,1,1995,"Canadian Grand Prix","N","villeneuve",7,"Circuit Gilles Villeneuve","Canada",45.5,-73.5228,"13","MSC","Michael","Schumacher","German",-0.527999999999992,0,0
+246,14,3,77.925,4877,3,"3",3,1,1995,"French Grand Prix","N","magny_cours",8,"Circuit de Nevers Magny-Cours","France",46.8642,3.16361,"228","COU","David","Coulthard","British",-0.835999999999999,0,0
+246,30,2,77.512,4875,2,"1",1,1,1995,"French Grand Prix","N","magny_cours",8,"Circuit de Nevers Magny-Cours","France",46.8642,3.16361,"228","MSC","Michael","Schumacher","German",-1.249,1,0
+246,71,1,77.225,4876,1,"2",2,1,1995,"French Grand Prix","N","magny_cours",8,"Circuit de Nevers Magny-Cours","France",46.8642,3.16361,"228","\N","Damon","Hill","British",-1.536,0,0
+247,14,3,88.947,4901,3,"3",3,1,1995,"British Grand Prix","N","silverstone",9,"Silverstone Circuit","UK",52.0786,-1.01694,"153","COU","David","Coulthard","British",-0.710000000000008,0,0
+248,14,3,104.54,4924,3,"2",2,1,1995,"German Grand Prix","N","hockenheimring",10,"Hockenheimring","Germany",49.3278,8.56583,"103","COU","David","Coulthard","British",-1.01300000000001,0,0
+248,30,2,104.465,4923,2,"1",1,1,1995,"German Grand Prix","N","hockenheimring",10,"Hockenheimring","Germany",49.3278,8.56583,"103","MSC","Michael","Schumacher","German",-1.08799999999999,1,0
+249,30,3,77.558,4957,3,"11",11,5,1995,"Hungarian Grand Prix","N","hungaroring",11,"Hungaroring","Hungary",47.5789,19.2486,"264","MSC","Michael","Schumacher","German",-0.500999999999991,0,0
+249,14,2,77.366,4948,2,"2",2,1,1995,"Hungarian Grand Prix","N","hungaroring",11,"Hungaroring","Hungary",47.5789,19.2486,"264","COU","David","Coulthard","British",-0.692999999999998,0,0
+249,71,1,76.982,4947,1,"1",1,1,1995,"Hungarian Grand Prix","N","hungaroring",11,"Hungaroring","Hungary",47.5789,19.2486,"264","\N","Damon","Hill","British",-1.077,1,0
+252,30,3,81.301,5020,3,"2",2,1,1995,"Portuguese Grand Prix","N","estoril",27,"Autódromo do Estoril","Portugal",38.7506,-9.39417,"130","MSC","Michael","Schumacher","German",-0.668999999999997,0,0
+252,71,2,80.905,5021,2,"3",3,1,1995,"Portuguese Grand Prix","N","estoril",27,"Autódromo do Estoril","Portugal",38.7506,-9.39417,"130","\N","Damon","Hill","British",-1.065,0,0
+252,14,1,80.537,5019,1,"1",1,1,1995,"Portuguese Grand Prix","N","estoril",27,"Autódromo do Estoril","Portugal",38.7506,-9.39417,"130","COU","David","Coulthard","British",-1.43299999999999,1,0
+253,30,3,79.15,5043,3,"1",1,1,1995,"European Grand Prix","Y","nurburgring",20,"Nürburgring","Germany",50.3356,6.9475,"578","MSC","Michael","Schumacher","German",-0.670999999999992,1,0
+253,14,1,78.738,5045,1,"3",3,1,1995,"European Grand Prix","Y","nurburgring",20,"Nürburgring","Germany",50.3356,6.9475,"578","COU","David","Coulthard","British",-1.083,0,0
+254,30,3,74.284,5067,3,"1",1,1,1995,"Pacific Grand Prix","N","okayama",28,"Okayama International Circuit","Japan",34.915,134.221,"266","MSC","Michael","Schumacher","German",-0.634999999999991,1,0
+254,71,2,74.213,5069,2,"3",3,1,1995,"Pacific Grand Prix","N","okayama",28,"Okayama International Circuit","Japan",34.915,134.221,"266","\N","Damon","Hill","British",-0.706000000000003,0,0
+254,14,1,74.013,5068,1,"2",2,1,1995,"Pacific Grand Prix","N","okayama",28,"Okayama International Circuit","Japan",34.915,134.221,"266","COU","David","Coulthard","British",-0.905999999999992,0,0
+255,57,3,98.954,5092,3,"2",2,1,1995,"Japanese Grand Prix","Y","suzuka",22,"Suzuka Circuit","Japan",34.8431,136.541,"45","\N","Mika","Häkkinen","Finnish",-0.078000000000003,0,0
+255,30,1,98.023,5091,1,"1",1,1,1995,"Japanese Grand Prix","Y","suzuka",22,"Suzuka Circuit","Japan",34.8431,136.541,"45","MSC","Michael","Schumacher","German",-1.00900000000001,1,0
+257,55,3,77.385,5141,3,"3",3,11,1994,"Brazilian Grand Prix","N","interlagos",18,"Autódromo José Carlos Pace","Brazil",-23.7036,-46.6997,"785","\N","Jean","Alesi","French",-0.168999999999997,0,0
+257,30,2,76.29,5139,2,"1",1,1,1994,"Brazilian Grand Prix","N","interlagos",18,"Autódromo José Carlos Pace","Brazil",-23.7036,-46.6997,"785","MSC","Michael","Schumacher","German",-1.264,1,0
+258,30,2,70.44,5167,2,"1",1,1,1994,"Pacific Grand Prix","N","okayama",28,"Okayama International Circuit","Japan",34.915,134.221,"266","MSC","Michael","Schumacher","German",-1.24300000000001,1,0
+259,30,2,81.885,5195,2,"1",1,1,1994,"San Marino Grand Prix","N","imola",21,"Autodromo Enzo e Dino Ferrari","Italy",44.3439,11.7167,"37","MSC","Michael","Schumacher","German",-0.283000000000001,1,0
+261,71,2,82.559,5249,2,"1",1,1,1994,"Spanish Grand Prix","N","catalunya",4,"Circuit de Barcelona-Catalunya","Spain",41.57,2.26111,"109","\N","Damon","Hill","British",-0.424000000000007,1,0
+261,30,1,81.908,5250,1,"2",2,1,1994,"Spanish Grand Prix","N","catalunya",4,"Circuit de Barcelona-Catalunya","Spain",41.57,2.26111,"109","MSC","Michael","Schumacher","German",-1.075,0,0
+262,77,3,87.059,5279,3,"4",4,1,1994,"Canadian Grand Prix","N","villeneuve",7,"Circuit Gilles Villeneuve","Canada",45.5,-73.5228,"13","\N","Gerhard","Berger","Austrian",-0.0349999999999966,0,0
+262,55,2,86.277,5278,2,"3",3,1,1994,"Canadian Grand Prix","N","villeneuve",7,"Circuit Gilles Villeneuve","Canada",45.5,-73.5228,"13","\N","Jean","Alesi","French",-0.816999999999993,0,0
+262,30,1,86.178,5276,1,"1",1,1,1994,"Canadian Grand Prix","N","villeneuve",7,"Circuit Gilles Villeneuve","Canada",45.5,-73.5228,"13","MSC","Michael","Schumacher","German",-0.915999999999997,1,0
+263,30,3,76.707,5303,3,"1",1,1,1994,"French Grand Prix","N","magny_cours",8,"Circuit de Nevers Magny-Cours","France",46.8642,3.16361,"228","MSC","Michael","Schumacher","German",-0.247,1,0
+263,71,1,76.282,5304,1,"2",2,1,1994,"French Grand Prix","N","magny_cours",8,"Circuit de Nevers Magny-Cours","France",46.8642,3.16361,"228","\N","Damon","Hill","British",-0.671999999999997,0,0
+264,71,1,84.96,5331,1,"1",1,1,1994,"British Grand Prix","N","silverstone",9,"Silverstone Circuit","UK",52.0786,-1.01694,"153","\N","Damon","Hill","British",-0.581000000000003,1,0
+265,71,3,104.026,5366,3,"8",8,11,1994,"German Grand Prix","N","hockenheimring",10,"Hockenheimring","Germany",49.3278,8.56583,"103","\N","Damon","Hill","British",-0.24199999999999,0,0
+265,77,1,103.582,5359,1,"1",1,1,1994,"German Grand Prix","N","hockenheimring",10,"Hockenheimring","Germany",49.3278,8.56583,"103","\N","Gerhard","Berger","Austrian",-0.686000000000007,1,0
+266,71,2,78.824,5388,2,"2",2,1,1994,"Hungarian Grand Prix","N","hungaroring",11,"Hungaroring","Hungary",47.5789,19.2486,"264","\N","Damon","Hill","British",-1.395,0,0
+266,30,1,78.258,5387,1,"1",1,1,1994,"Hungarian Grand Prix","N","hungaroring",11,"Hungaroring","Hungary",47.5789,19.2486,"264","MSC","Michael","Schumacher","German",-1.961,1,0
+267,71,3,141.681,5415,3,"1",1,1,1994,"Belgian Grand Prix","N","spa",13,"Circuit de Spa-Francorchamps","Belgium",50.4372,5.97139,"401","\N","Damon","Hill","British",-0.393000000000001,1,0
+268,71,3,84.158,5443,3,"1",1,1,1994,"Italian Grand Prix","N","monza",14,"Autodromo Nazionale di Monza","Italy",45.6156,9.28111,"162","\N","Damon","Hill","British",-0.215999999999994,1,0
+268,77,2,83.978,5444,2,"2",2,1,1994,"Italian Grand Prix","N","monza",14,"Autodromo Nazionale di Monza","Italy",45.6156,9.28111,"162","\N","Gerhard","Berger","Austrian",-0.396000000000001,0,0
+269,14,3,81.033,5472,3,"2",2,1,1994,"Portuguese Grand Prix","N","estoril",27,"Autódromo do Estoril","Portugal",38.7506,-9.39417,"130","COU","David","Coulthard","British",-0.218000000000004,0,0
+269,71,2,80.766,5471,2,"1",1,1,1994,"Portuguese Grand Prix","N","estoril",27,"Autódromo do Estoril","Portugal",38.7506,-9.39417,"130","\N","Damon","Hill","British",-0.484999999999999,1,0
+270,71,2,82.892,5500,2,"2",2,1,1994,"European Grand Prix","N","jerez",26,"Circuito de Jerez","Spain",36.7083,-6.03417,"37","\N","Damon","Hill","British",-0.539000000000001,0,0
+270,30,1,82.762,5499,1,"1",1,1,1994,"European Grand Prix","N","jerez",26,"Circuito de Jerez","Spain",36.7083,-6.03417,"37","MSC","Michael","Schumacher","German",-0.668999999999997,1,0
+271,49,3,97.742,5532,3,"6",6,1,1994,"Japanese Grand Prix","Y","suzuka",22,"Suzuka Circuit","Japan",34.8431,136.541,"45","\N","Heinz-Harald","Frentzen","German",-0.0260000000000105,0,0
+271,71,2,97.696,5527,2,"1",1,1,1994,"Japanese Grand Prix","Y","suzuka",22,"Suzuka Circuit","Japan",34.8431,136.541,"45","\N","Damon","Hill","British",-0.0720000000000027,1,0
+271,30,1,97.209,5528,1,"2",2,1,1994,"Japanese Grand Prix","Y","suzuka",22,"Suzuka Circuit","Japan",34.8431,136.541,"45","MSC","Michael","Schumacher","German",-0.558999999999997,0,0
+272,95,1,76.179,5555,1,"1",1,1,1994,"Australian Grand Prix","N","adelaide",29,"Adelaide Street Circuit","Australia",-34.9272,138.617,"58","\N","Nigel","Mansell","British",-0.813000000000002,1,0
+337,4,3,114.608,20323,3,"1",1,1,2010,"Bahrain Grand Prix","N","bahrain",3,"Bahrain International Circuit","Bahrain",26.0325,50.5106,"7","ALO","Fernando","Alonso","Spanish",-0.609000000000009,1,0
+337,13,2,114.242,20324,2,"2",2,1,2010,"Bahrain Grand Prix","N","bahrain",3,"Bahrain International Circuit","Bahrain",26.0325,50.5106,"7","MAS","Felipe","Massa","Brazilian",-0.975000000000023,0,0
+337,20,1,114.101,20326,1,"4",4,1,2010,"Bahrain Grand Prix","N","bahrain",3,"Bahrain International Circuit","Bahrain",26.0325,50.5106,"7","VET","Sebastian","Vettel","German",-1.11600000000001,0,0
+338,4,3,84.111,20350,3,"4",4,1,2010,"Australian Grand Prix","Y","albert_park",1,"Albert Park Grand Prix Circuit","Australia",-37.8497,144.968,"10","ALO","Fernando","Alonso","Spanish",-0.563999999999993,0,0
+338,17,2,84.035,20355,2,"9",9,1,2010,"Australian Grand Prix","Y","albert_park",1,"Albert Park Grand Prix Circuit","Australia",-37.8497,144.968,"10","WEB","Mark","Webber","Australian",-0.640000000000001,0,0
+339,20,3,110.789,20371,3,"1",1,1,2010,"Malaysian Grand Prix","N","sepang",2,"Sepang International Circuit","Malaysia",2.76083,101.738,"18","VET","Sebastian","Vettel","German",-0.125,1,0
+339,3,2,110.673,20373,2,"3",3,1,2010,"Malaysian Grand Prix","N","sepang",2,"Sepang International Circuit","Malaysia",2.76083,101.738,"18","ROS","Nico","Rosberg","German",-0.240999999999985,0,0
+339,17,1,109.327,20372,1,"2",2,1,2010,"Malaysian Grand Prix","N","sepang",2,"Sepang International Circuit","Malaysia",2.76083,101.738,"18","WEB","Mark","Webber","Australian",-1.58699999999999,0,0
+340,4,3,94.913,20398,3,"4",4,1,2010,"Chinese Grand Prix","Y","shanghai",17,"Shanghai International Circuit","China",31.3389,121.22,"5","ALO","Fernando","Alonso","Spanish",-0.00999999999999091,0,0
+340,17,2,94.808,20402,2,"8",8,1,2010,"Chinese Grand Prix","Y","shanghai",17,"Shanghai International Circuit","China",31.3389,121.22,"5","WEB","Mark","Webber","Australian",-0.115000000000009,0,0
+340,20,1,94.558,20400,1,"6",6,1,2010,"Chinese Grand Prix","Y","shanghai",17,"Shanghai International Circuit","China",31.3389,121.22,"5","VET","Sebastian","Vettel","German",-0.365000000000009,0,0
+341,1,3,80.829,20432,3,"14",14,29,2010,"Spanish Grand Prix","N","catalunya",4,"Circuit de Barcelona-Catalunya","Spain",41.57,2.26111,"109","HAM","Lewis","Hamilton","British",-0.108000000000004,0,0
+341,20,2,80.101,20421,2,"3",3,1,2010,"Spanish Grand Prix","N","catalunya",4,"Circuit de Barcelona-Catalunya","Spain",41.57,2.26111,"109","VET","Sebastian","Vettel","German",-0.835999999999999,0,0
+341,17,1,79.995,20419,1,"1",1,1,2010,"Spanish Grand Prix","N","catalunya",4,"Circuit de Barcelona-Catalunya","Spain",41.57,2.26111,"109","WEB","Mark","Webber","Australian",-0.941999999999993,1,0
+342,20,3,74.227,20444,3,"2",2,1,2010,"Monaco Grand Prix","N","monaco",6,"Circuit de Monaco","Monaco",43.7347,7.42056,"7","VET","Sebastian","Vettel","German",-0.0559999999999974,0,0
+342,9,2,74.12,20445,2,"3",3,1,2010,"Monaco Grand Prix","N","monaco",6,"Circuit de Monaco","Monaco",43.7347,7.42056,"7","KUB","Robert","Kubica","Polish",-0.162999999999997,0,0
+342,17,1,73.826,20443,1,"1",1,1,2010,"Monaco Grand Prix","N","monaco",6,"Circuit de Monaco","Monaco",43.7347,7.42056,"7","WEB","Mark","Webber","Australian",-0.457000000000008,1,0
+343,1,2,86.433,20467,2,"1",1,1,2010,"Turkish Grand Prix","N","istanbul",5,"Istanbul Park","Turkey",40.9517,29.405,"130","HAM","Lewis","Hamilton","British",-0.347999999999999,1,0
+343,17,1,86.295,20469,1,"3",3,1,2010,"Turkish Grand Prix","N","istanbul",5,"Istanbul Park","Turkey",40.9517,29.405,"130","WEB","Mark","Webber","Australian",-0.486000000000004,0,0
+344,4,4,75.435,20493,3,"3",3,1,2010,"Canadian Grand Prix","N","villeneuve",7,"Circuit Gilles Villeneuve","Canada",45.5,-73.5228,"13","ALO","Fernando","Alonso","Spanish",0,0,0
+344,20,3,75.42,20494,2,"4",4,1,2010,"Canadian Grand Prix","N","villeneuve",7,"Circuit Gilles Villeneuve","Canada",45.5,-73.5228,"13","VET","Sebastian","Vettel","German",-0.0150000000000006,0,0
+344,1,1,75.105,20491,1,"1",1,1,2010,"Canadian Grand Prix","N","villeneuve",7,"Circuit Gilles Villeneuve","Canada",45.5,-73.5228,"13","HAM","Lewis","Hamilton","British",-0.329999999999998,1,0
+345,1,3,97.969,20516,3,"2",2,1,2010,"European Grand Prix","N","valencia",12,"Valencia Street Circuit","Spain",39.4589,-0.331667,"4","HAM","Lewis","Hamilton","British",-0.105999999999995,0,0
+345,20,1,97.587,20515,1,"1",1,1,2010,"European Grand Prix","N","valencia",12,"Valencia Street Circuit","Spain",39.4589,-0.331667,"4","VET","Sebastian","Vettel","German",-0.488,1,0
+346,4,3,90.426,20552,3,"14",14,1,2010,"British Grand Prix","N","silverstone",9,"Silverstone Circuit","UK",52.0786,-1.01694,"153","ALO","Fernando","Alonso","Spanish",-0.130000000000024,0,0
+346,17,2,89.758,20539,2,"1",1,1,2010,"British Grand Prix","N","silverstone",9,"Silverstone Circuit","UK",52.0786,-1.01694,"153","WEB","Mark","Webber","Australian",-0.798000000000002,1,0
+346,20,1,89.615,20545,1,"7",7,1,2010,"British Grand Prix","N","silverstone",9,"Silverstone Circuit","UK",52.0786,-1.01694,"153","VET","Sebastian","Vettel","German",-0.941000000000003,0,0
+347,13,3,74.29,20564,3,"2",2,1,2010,"German Grand Prix","N","hockenheimring",10,"Hockenheimring","Germany",49.3278,8.56583,"103","MAS","Felipe","Massa","Brazilian",-0.0569999999999879,0,0
+347,4,2,73.793,20563,2,"1",1,1,2010,"German Grand Prix","N","hockenheimring",10,"Hockenheimring","Germany",49.3278,8.56583,"103","ALO","Fernando","Alonso","Spanish",-0.553999999999988,1,0
+347,20,1,73.791,20565,1,"3",3,1,2010,"German Grand Prix","N","hockenheimring",10,"Hockenheimring","Germany",49.3278,8.56583,"103","VET","Sebastian","Vettel","German",-0.555999999999997,0,0
+348,4,3,79.987,20588,3,"2",2,1,2010,"Hungarian Grand Prix","N","hungaroring",11,"Hungaroring","Hungary",47.5789,19.2486,"264","ALO","Fernando","Alonso","Spanish",-0.344000000000008,0,0
+348,17,2,79.184,20587,2,"1",1,1,2010,"Hungarian Grand Prix","N","hungaroring",11,"Hungaroring","Hungary",47.5789,19.2486,"264","WEB","Mark","Webber","Australian",-1.14700000000001,1,0
+348,20,1,78.773,20589,1,"3",3,1,2010,"Hungarian Grand Prix","N","hungaroring",11,"Hungaroring","Hungary",47.5789,19.2486,"264","VET","Sebastian","Vettel","German",-1.55800000000001,0,0
+349,9,3,106.1,20613,3,"3",3,1,2010,"Belgian Grand Prix","Y","spa",13,"Circuit de Spa-Francorchamps","Belgium",50.4372,5.97139,"401","KUB","Robert","Kubica","Polish",-0.0270000000000152,0,0
+349,1,2,105.863,20611,2,"1",1,1,2010,"Belgian Grand Prix","Y","spa",13,"Circuit de Spa-Francorchamps","Belgium",50.4372,5.97139,"401","HAM","Lewis","Hamilton","British",-0.26400000000001,1,0
+349,17,1,105.778,20612,1,"2",2,1,2010,"Belgian Grand Prix","Y","spa",13,"Circuit de Spa-Francorchamps","Belgium",50.4372,5.97139,"401","WEB","Mark","Webber","Australian",-0.349000000000018,0,0
+350,13,3,82.293,20637,3,"3",3,1,2010,"Italian Grand Prix","N","monza",14,"Autodromo Nazionale di Monza","Italy",45.6156,9.28111,"162","MAS","Felipe","Massa","Brazilian",-0.140000000000001,0,0
+350,18,2,82.084,20636,2,"2",2,1,2010,"Italian Grand Prix","N","monza",14,"Autodromo Nazionale di Monza","Italy",45.6156,9.28111,"162","BUT","Jenson","Button","British",-0.349000000000004,0,0
+350,4,1,81.962,20635,1,"1",1,1,2010,"Italian Grand Prix","N","monza",14,"Autodromo Nazionale di Monza","Italy",45.6156,9.28111,"162","ALO","Fernando","Alonso","Spanish",-0.471000000000004,1,0
+351,20,2,105.457,20660,2,"2",2,1,2010,"Singapore Grand Prix","N","marina_bay",15,"Marina Bay Street Circuit","Singapore",1.2914,103.864,"18","VET","Sebastian","Vettel","German",-0.486999999999995,0,0
+351,4,1,105.39,20659,1,"1",1,1,2010,"Singapore Grand Prix","N","marina_bay",15,"Marina Bay Street Circuit","Singapore",1.2914,103.864,"18","ALO","Fernando","Alonso","Spanish",-0.554000000000002,1,0
+352,17,2,90.853,20684,2,"2",2,1,2010,"Japanese Grand Prix","N","suzuka",22,"Suzuka Circuit","Japan",34.8431,136.541,"45","WEB","Mark","Webber","Australian",-0.377999999999986,0,0
+352,20,1,90.785,20683,1,"1",1,1,2010,"Japanese Grand Prix","N","suzuka",22,"Suzuka Circuit","Japan",34.8431,136.541,"45","VET","Sebastian","Vettel","German",-0.445999999999998,1,0
+353,4,3,95.766,20707,3,"1",1,1,2010,"Korean Grand Prix","Y","yeongam",35,"Korean International Circuit","Korea",34.7333,126.417,"0","ALO","Fernando","Alonso","Spanish",-0.296000000000021,1,0
+354,17,3,75.637,20732,3,"2",2,1,2010,"Brazilian Grand Prix","N","interlagos",18,"Autódromo José Carlos Pace","Brazil",-23.7036,-46.6997,"785","WEB","Mark","Webber","Australian",-0.109999999999999,0,0
+354,20,2,75.519,20731,2,"1",1,1,2010,"Brazilian Grand Prix","N","interlagos",18,"Autódromo José Carlos Pace","Brazil",-23.7036,-46.6997,"785","VET","Sebastian","Vettel","German",-0.227999999999994,1,0
+354,807,1,74.47,20738,1,"8",8,11,2010,"Brazilian Grand Prix","N","interlagos",18,"Autódromo José Carlos Pace","Brazil",-23.7036,-46.6997,"785","HUL","Nico","Hülkenberg","German",-1.277,0,0
+355,4,3,99.792,20761,3,"7",7,1,2010,"Abu Dhabi Grand Prix","N","yas_marina",24,"Yas Marina Circuit","UAE",24.4672,54.6031,"3","ALO","Fernando","Alonso","Spanish",-0.0310000000000059,0,0
+355,1,2,99.425,20756,2,"2",2,1,2010,"Abu Dhabi Grand Prix","N","yas_marina",24,"Yas Marina Circuit","UAE",24.4672,54.6031,"3","HAM","Lewis","Hamilton","British",-0.397999999999996,0,0
+355,20,1,99.394,20755,1,"1",1,1,2010,"Abu Dhabi Grand Prix","N","yas_marina",24,"Yas Marina Circuit","UAE",24.4672,54.6031,"3","VET","Sebastian","Vettel","German",-0.429000000000002,1,0
+841,17,3,84.395,20783,3,"5",5,1,2011,"Australian Grand Prix","N","albert_park",1,"Albert Park Grand Prix Circuit","Australia",-37.8497,144.968,"10","WEB","Mark","Webber","Australian",-0.384,0,0
+841,1,2,84.307,20780,2,"2",2,1,2011,"Australian Grand Prix","N","albert_park",1,"Albert Park Grand Prix Circuit","Australia",-37.8497,144.968,"10","HAM","Lewis","Hamilton","British",-0.471999999999994,0,0
+841,20,1,83.529,20779,1,"1",1,1,2011,"Australian Grand Prix","N","albert_park",1,"Albert Park Grand Prix Circuit","Australia",-37.8497,144.968,"10","VET","Sebastian","Vettel","German",-1.25,1,0
+842,17,3,95.179,20804,3,"4",4,1,2011,"Malaysian Grand Prix","N","sepang",2,"Sepang International Circuit","Malaysia",2.76083,101.738,"18","WEB","Mark","Webber","Australian",-0.0209999999999866,0,0
+842,1,2,94.974,20808,2,"8",8,1,2011,"Malaysian Grand Prix","N","sepang",2,"Sepang International Circuit","Malaysia",2.76083,101.738,"18","HAM","Lewis","Hamilton","British",-0.225999999999999,0,0
+842,20,1,94.87,20801,1,"1",1,1,2011,"Malaysian Grand Prix","N","sepang",2,"Sepang International Circuit","Malaysia",2.76083,101.738,"18","VET","Sebastian","Vettel","German",-0.329999999999984,1,0
+843,1,3,94.463,20825,3,"1",1,1,2011,"Chinese Grand Prix","N","shanghai",17,"Shanghai International Circuit","China",31.3389,121.22,"5","HAM","Lewis","Hamilton","British",-0.206999999999994,1,0
+843,18,2,94.421,20828,2,"4",4,1,2011,"Chinese Grand Prix","N","shanghai",17,"Shanghai International Circuit","China",31.3389,121.22,"5","BUT","Jenson","Button","British",-0.248999999999995,0,0
+843,20,1,93.706,20826,1,"2",2,1,2011,"Chinese Grand Prix","N","shanghai",17,"Shanghai International Circuit","China",31.3389,121.22,"5","VET","Sebastian","Vettel","German",-0.963999999999999,0,0
+844,3,3,85.574,20853,3,"5",5,1,2011,"Turkish Grand Prix","N","istanbul",5,"Istanbul Park","Turkey",40.9517,29.405,"130","ROS","Nico","Rosberg","German",-0.0210000000000008,0,0
+844,17,2,85.454,20850,2,"2",2,1,2011,"Turkish Grand Prix","N","istanbul",5,"Istanbul Park","Turkey",40.9517,29.405,"130","WEB","Mark","Webber","Australian",-0.141000000000005,0,0
+844,20,1,85.049,20849,1,"1",1,1,2011,"Turkish Grand Prix","N","istanbul",5,"Istanbul Park","Turkey",40.9517,29.405,"130","VET","Sebastian","Vettel","German",-0.545999999999992,1,0
+845,1,3,81.961,20874,3,"2",2,1,2011,"Spanish Grand Prix","N","catalunya",4,"Circuit de Barcelona-Catalunya","Spain",41.57,2.26111,"109","HAM","Lewis","Hamilton","British",-0.00300000000000011,0,0
+845,20,2,81.181,20873,2,"1",1,1,2011,"Spanish Grand Prix","N","catalunya",4,"Circuit de Barcelona-Catalunya","Spain",41.57,2.26111,"109","VET","Sebastian","Vettel","German",-0.783000000000001,1,0
+845,17,1,80.981,20876,1,"4",4,1,2011,"Spanish Grand Prix","N","catalunya",4,"Circuit de Barcelona-Catalunya","Spain",41.57,2.26111,"109","WEB","Mark","Webber","Australian",-0.983000000000004,0,0
+846,17,3,74.019,20900,3,"4",4,1,2011,"Monaco Grand Prix","N","monaco",6,"Circuit de Monaco","Monaco",43.7347,7.42056,"7","WEB","Mark","Webber","Australian",-0.463999999999999,0,0
+846,18,2,73.997,20899,2,"3",3,1,2011,"Monaco Grand Prix","N","monaco",6,"Circuit de Monaco","Monaco",43.7347,7.42056,"7","BUT","Jenson","Button","British",-0.486000000000004,0,0
+846,20,1,73.556,20897,1,"1",1,1,2011,"Monaco Grand Prix","N","monaco",6,"Circuit de Monaco","Monaco",43.7347,7.42056,"7","VET","Sebastian","Vettel","German",-0.927000000000007,1,0
+847,13,3,73.217,20925,3,"6",6,1,2011,"Canadian Grand Prix","Y","villeneuve",7,"Circuit Gilles Villeneuve","Canada",45.5,-73.5228,"13","MAS","Felipe","Massa","Brazilian",-0.212000000000003,0,0
+847,20,1,73.014,20921,1,"2",2,1,2011,"Canadian Grand Prix","Y","villeneuve",7,"Circuit Gilles Villeneuve","Canada",45.5,-73.5228,"13","VET","Sebastian","Vettel","German",-0.415000000000006,0,0
+849,4,3,90.516,20968,3,"1",1,1,2011,"British Grand Prix","Y","silverstone",9,"Silverstone Circuit","UK",52.0786,-1.01694,"153","ALO","Fernando","Alonso","Spanish",-0.608000000000004,1,0
+849,20,2,90.431,20969,2,"2",2,1,2011,"British Grand Prix","Y","silverstone",9,"Silverstone Circuit","UK",52.0786,-1.01694,"153","VET","Sebastian","Vettel","German",-0.692999999999984,0,0
+849,17,1,90.399,20970,1,"3",3,1,2011,"British Grand Prix","Y","silverstone",9,"Silverstone Circuit","UK",52.0786,-1.01694,"153","WEB","Mark","Webber","Australian",-0.724999999999994,0,0
+850,20,3,90.216,20995,3,"4",4,1,2011,"German Grand Prix","Y","nurburgring",20,"Nürburgring","Germany",50.3356,6.9475,"578","VET","Sebastian","Vettel","German",-0.225999999999999,0,0
+850,1,2,90.134,20992,2,"1",1,1,2011,"German Grand Prix","Y","nurburgring",20,"Nürburgring","Germany",50.3356,6.9475,"578","HAM","Lewis","Hamilton","British",-0.308000000000021,1,0
+850,17,1,90.079,20994,1,"3",3,1,2011,"German Grand Prix","Y","nurburgring",20,"Nürburgring","Germany",50.3356,6.9475,"578","WEB","Mark","Webber","Australian",-0.363,0,0
+851,18,3,80.024,21016,3,"1",1,1,2011,"Hungarian Grand Prix","Y","hungaroring",11,"Hungaroring","Hungary",47.5789,19.2486,"264","BUT","Jenson","Button","British",-0.325999999999993,1,0
+851,1,2,79.978,21019,2,"4",4,1,2011,"Hungarian Grand Prix","Y","hungaroring",11,"Hungaroring","Hungary",47.5789,19.2486,"264","HAM","Lewis","Hamilton","British",-0.372,0,0
+851,20,1,79.815,21017,1,"2",2,1,2011,"Hungarian Grand Prix","Y","hungaroring",11,"Hungaroring","Hungary",47.5789,19.2486,"264","VET","Sebastian","Vettel","German",-0.534999999999997,0,0
+852,17,3,109.376,21041,3,"2",2,1,2011,"Belgian Grand Prix","N","spa",13,"Circuit de Spa-Francorchamps","Belgium",50.4372,5.97139,"401","WEB","Mark","Webber","Australian",-0.879999999999995,0,0
+852,20,1,108.298,21040,1,"1",1,1,2011,"Belgian Grand Prix","N","spa",13,"Circuit de Spa-Francorchamps","Belgium",50.4372,5.97139,"401","VET","Sebastian","Vettel","German",-1.958,1,0
+853,18,3,82.777,21065,3,"2",2,1,2011,"Italian Grand Prix","N","monza",14,"Autodromo Nazionale di Monza","Italy",45.6156,9.28111,"162","BUT","Jenson","Button","British",-0.063999999999993,0,0
+853,1,2,82.725,21067,2,"4",4,1,2011,"Italian Grand Prix","N","monza",14,"Autodromo Nazionale di Monza","Italy",45.6156,9.28111,"162","HAM","Lewis","Hamilton","British",-0.116,0,0
+853,20,1,82.275,21064,1,"1",1,1,2011,"Italian Grand Prix","N","monza",14,"Autodromo Nazionale di Monza","Italy",45.6156,9.28111,"162","VET","Sebastian","Vettel","German",-0.565999999999988,1,0
+854,18,3,104.804,21089,3,"2",2,1,2011,"Singapore Grand Prix","N","marina_bay",15,"Marina Bay Street Circuit","Singapore",1.2914,103.864,"18","BUT","Jenson","Button","British",-0.00499999999999545,0,0
+854,17,2,104.732,21090,2,"3",3,1,2011,"Singapore Grand Prix","N","marina_bay",15,"Marina Bay Street Circuit","Singapore",1.2914,103.864,"18","WEB","Mark","Webber","Australian",-0.0769999999999982,0,0
+854,20,1,104.381,21088,1,"1",1,1,2011,"Singapore Grand Prix","N","marina_bay",15,"Marina Bay Street Circuit","Singapore",1.2914,103.864,"18","VET","Sebastian","Vettel","German",-0.427999999999997,1,0
+855,1,3,90.617,21116,3,"5",5,1,2011,"Japanese Grand Prix","N","suzuka",22,"Suzuka Circuit","Japan",34.8431,136.541,"45","HAM","Lewis","Hamilton","British",-0.187000000000012,0,0
+855,18,2,90.475,21112,2,"1",1,1,2011,"Japanese Grand Prix","N","suzuka",22,"Suzuka Circuit","Japan",34.8431,136.541,"45","BUT","Jenson","Button","British",-0.329000000000008,1,0
+855,20,1,90.466,21114,1,"3",3,1,2011,"Japanese Grand Prix","N","suzuka",22,"Suzuka Circuit","Japan",34.8431,136.541,"45","VET","Sebastian","Vettel","German",-0.337999999999994,0,0
+856,18,3,96.126,21139,3,"4",4,1,2011,"Korean Grand Prix","Y","yeongam",35,"Korean International Circuit","Korea",34.7333,126.417,"0","BUT","Jenson","Button","British",-0.341999999999985,0,0
+856,20,2,96.042,21136,2,"1",1,1,2011,"Korean Grand Prix","Y","yeongam",35,"Korean International Circuit","Korea",34.7333,126.417,"0","VET","Sebastian","Vettel","German",-0.425999999999988,1,0
+856,1,1,95.82,21137,1,"2",2,1,2011,"Korean Grand Prix","Y","yeongam",35,"Korean International Circuit","Korea",34.7333,126.417,"0","HAM","Lewis","Hamilton","British",-0.647999999999996,0,0
+857,4,4,84.519,21162,3,"3",3,1,2011,"Indian Grand Prix","N","buddh",68,"Buddh International Circuit","India",28.3487,77.5331,"194","ALO","Fernando","Alonso","Spanish",0,0,0
+857,17,3,84.508,21163,2,"4",4,1,2011,"Indian Grand Prix","N","buddh",68,"Buddh International Circuit","India",28.3487,77.5331,"194","WEB","Mark","Webber","Australian",-0.0110000000000099,0,0
+857,20,1,84.178,21160,1,"1",1,1,2011,"Indian Grand Prix","N","buddh",68,"Buddh International Circuit","India",28.3487,77.5331,"194","VET","Sebastian","Vettel","German",-0.341000000000008,1,0
+858,18,3,98.631,21186,3,"3",3,1,2011,"Abu Dhabi Grand Prix","N","yas_marina",24,"Yas Marina Circuit","UAE",24.4672,54.6031,"3","BUT","Jenson","Button","British",-0.227000000000004,0,0
+858,1,2,98.622,21184,2,"1",1,1,2011,"Abu Dhabi Grand Prix","N","yas_marina",24,"Yas Marina Circuit","UAE",24.4672,54.6031,"3","HAM","Lewis","Hamilton","British",-0.23599999999999,1,0
+859,18,3,72.283,21210,3,"3",3,1,2011,"Brazilian Grand Prix","N","interlagos",18,"Autódromo José Carlos Pace","Brazil",-23.7036,-46.6997,"785","BUT","Jenson","Button","British",-0.197000000000003,0,0
+859,17,2,72.099,21208,2,"1",1,1,2011,"Brazilian Grand Prix","N","interlagos",18,"Autódromo José Carlos Pace","Brazil",-23.7036,-46.6997,"785","WEB","Mark","Webber","Australian",-0.381,1,0
+859,20,1,71.918,21209,1,"2",2,1,2011,"Brazilian Grand Prix","N","interlagos",18,"Autódromo José Carlos Pace","Brazil",-23.7036,-46.6997,"785","VET","Sebastian","Vettel","German",-0.561999999999998,0,0
+860,18,2,85.074,21232,2,"1",1,1,2012,"Australian Grand Prix","N","albert_park",1,"Albert Park Grand Prix Circuit","Australia",-37.8497,144.968,"10","BUT","Jenson","Button","British",-0.262,1,0
+860,1,1,84.922,21234,1,"3",3,1,2012,"Australian Grand Prix","N","albert_park",1,"Albert Park Grand Prix Circuit","Australia",-37.8497,144.968,"10","HAM","Lewis","Hamilton","British",-0.414000000000001,0,0
+861,30,3,96.391,21265,3,"10",10,1,2012,"Malaysian Grand Prix","Y","sepang",2,"Sepang International Circuit","Malaysia",2.76083,101.738,"18","MSC","Michael","Schumacher","German",-0.0700000000000216,0,0
+861,18,2,96.368,21269,2,"14",14,1,2012,"Malaysian Grand Prix","Y","sepang",2,"Sepang International Circuit","Malaysia",2.76083,101.738,"18","BUT","Jenson","Button","British",-0.0930000000000177,0,0
+861,1,1,96.219,21258,1,"3",3,1,2012,"Malaysian Grand Prix","Y","sepang",2,"Sepang International Circuit","Malaysia",2.76083,101.738,"18","HAM","Lewis","Hamilton","British",-0.242000000000019,0,0
+862,155,4,95.784,21289,3,"10",10,1,2012,"Chinese Grand Prix","N","shanghai",17,"Shanghai International Circuit","China",31.3389,121.22,"5","KOB","Kamui","Kobayashi","Japanese",0,0,0
+862,3,1,95.121,21280,1,"1",1,1,2012,"Chinese Grand Prix","N","shanghai",17,"Shanghai International Circuit","China",31.3389,121.22,"5","ROS","Nico","Rosberg","German",-0.662999999999982,1,0
+863,17,3,92.637,21307,3,"4",4,1,2012,"Bahrain Grand Prix","N","bahrain",3,"Bahrain International Circuit","Bahrain",26.0325,50.5106,"7","WEB","Mark","Webber","Australian",-0.0740000000000123,0,0
+863,1,2,92.52,21311,2,"8",8,1,2012,"Bahrain Grand Prix","N","bahrain",3,"Bahrain International Circuit","Bahrain",26.0325,50.5106,"7","HAM","Lewis","Hamilton","British",-0.191000000000003,0,0
+863,20,1,92.422,21304,1,"1",1,1,2012,"Bahrain Grand Prix","N","bahrain",3,"Bahrain International Circuit","Bahrain",26.0325,50.5106,"7","VET","Sebastian","Vettel","German",-0.289000000000016,1,0
+864,154,4,82.424,21331,3,"4",4,1,2012,"Spanish Grand Prix","N","catalunya",4,"Circuit de Barcelona-Catalunya","Spain",41.57,2.26111,"109","GRO","Romain","Grosjean","French",0,0,0
+864,4,3,82.302,21329,2,"2",2,1,2012,"Spanish Grand Prix","N","catalunya",4,"Circuit de Barcelona-Catalunya","Spain",41.57,2.26111,"109","ALO","Fernando","Alonso","Spanish",-0.122,0,0
+864,813,2,82.285,21328,1,"1",1,1,2012,"Spanish Grand Prix","N","catalunya",4,"Circuit de Barcelona-Catalunya","Spain",41.57,2.26111,"109","MAL","Pastor","Maldonado","Venezuelan",-0.13900000000001,1,0
+866,4,3,74.151,21380,3,"5",5,1,2012,"Canadian Grand Prix","N","villeneuve",7,"Circuit Gilles Villeneuve","Canada",45.5,-73.5228,"13","ALO","Fernando","Alonso","Spanish",-0.195000000000007,0,0
+866,1,2,74.087,21376,2,"1",1,1,2012,"Canadian Grand Prix","N","villeneuve",7,"Circuit Gilles Villeneuve","Canada",45.5,-73.5228,"13","HAM","Lewis","Hamilton","British",-0.259,1,0
+866,20,1,73.784,21379,1,"4",4,1,2012,"Canadian Grand Prix","N","villeneuve",7,"Circuit Gilles Villeneuve","Canada",45.5,-73.5228,"13","VET","Sebastian","Vettel","German",-0.561999999999998,0,0
+867,813,3,98.475,21411,3,"12",12,1,2012,"European Grand Prix","N","valencia",12,"Valencia Street Circuit","Spain",39.4589,-0.331667,"4","MAL","Pastor","Maldonado","Venezuelan",-0.0300000000000011,0,0
+867,1,2,98.41,21418,2,"19",19,4,2012,"European Grand Prix","N","valencia",12,"Valencia Street Circuit","Spain",39.4589,-0.331667,"4","HAM","Lewis","Hamilton","British",-0.0949999999999989,0,0
+868,30,3,112.02,21430,3,"7",7,1,2012,"British Grand Prix","N","silverstone",9,"Silverstone Circuit","UK",52.0786,-1.01694,"153","MSC","Michael","Schumacher","German",-0.179000000000002,0,0
+868,17,2,111.793,21424,2,"1",1,1,2012,"British Grand Prix","N","silverstone",9,"Silverstone Circuit","UK",52.0786,-1.01694,"153","WEB","Mark","Webber","Australian",-0.406000000000006,1,0
+868,4,1,111.746,21425,1,"2",2,1,2012,"British Grand Prix","N","silverstone",9,"Silverstone Circuit","UK",52.0786,-1.01694,"153","ALO","Fernando","Alonso","Spanish",-0.453000000000003,0,0
+869,30,4,102.459,21454,3,"7",7,1,2012,"German Grand Prix","N","hockenheimring",10,"Hockenheimring","Germany",49.3278,8.56583,"103","MSC","Michael","Schumacher","German",0,0,0
+869,20,2,101.026,21452,2,"5",5,1,2012,"German Grand Prix","N","hockenheimring",10,"Hockenheimring","Germany",49.3278,8.56583,"103","VET","Sebastian","Vettel","German",-1.43299999999999,0,0
+869,4,1,100.621,21448,1,"1",1,1,2012,"German Grand Prix","N","hockenheimring",10,"Hockenheimring","Germany",49.3278,8.56583,"103","ALO","Fernando","Alonso","Spanish",-1.83799999999999,1,0
+870,20,3,81.416,21475,3,"4",4,1,2012,"Hungarian Grand Prix","N","hungaroring",11,"Hungaroring","Hungary",47.5789,19.2486,"264","VET","Sebastian","Vettel","German",-0.167000000000002,0,0
+870,154,2,81.366,21474,2,"3",3,1,2012,"Hungarian Grand Prix","N","hungaroring",11,"Hungaroring","Hungary",47.5789,19.2486,"264","GRO","Romain","Grosjean","French",-0.216999999999999,0,0
+870,1,1,80.953,21472,1,"1",1,1,2012,"Hungarian Grand Prix","N","hungaroring",11,"Hungaroring","Hungary",47.5789,19.2486,"264","HAM","Lewis","Hamilton","British",-0.629999999999995,1,0
+871,8,4,108.205,21498,3,"3",3,1,2012,"Belgian Grand Prix","N","spa",13,"Circuit de Spa-Francorchamps","Belgium",50.4372,5.97139,"401","RAI","Kimi","Räikkönen","Finnish",0,0,0
+871,155,2,107.871,21508,2,"13",13,1,2012,"Belgian Grand Prix","N","spa",13,"Circuit de Spa-Francorchamps","Belgium",50.4372,5.97139,"401","KOB","Kamui","Kobayashi","Japanese",-0.334000000000003,0,0
+871,18,1,107.573,21496,1,"1",1,1,2012,"Belgian Grand Prix","N","spa",13,"Circuit de Spa-Francorchamps","Belgium",50.4372,5.97139,"401","BUT","Jenson","Button","British",-0.632000000000005,1,0
+872,13,3,84.247,21523,3,"4",4,1,2012,"Italian Grand Prix","N","monza",14,"Autodromo Nazionale di Monza","Italy",45.6156,9.28111,"162","MAS","Felipe","Massa","Brazilian",-0.0570000000000022,0,0
+872,1,1,84.01,21520,1,"1",1,1,2012,"Italian Grand Prix","N","monza",14,"Autodromo Nazionale di Monza","Italy",45.6156,9.28111,"162","HAM","Lewis","Hamilton","British",-0.293999999999997,1,0
+873,20,3,106.905,21544,3,"1",1,1,2012,"Singapore Grand Prix","N","marina_bay",15,"Marina Bay Street Circuit","Singapore",1.2914,103.864,"18","VET","Sebastian","Vettel","German",-0.0339999999999918,1,0
+874,155,4,91.7,21570,3,"3",3,1,2012,"Japanese Grand Prix","N","suzuka",22,"Suzuka Circuit","Japan",34.8431,136.541,"45","KOB","Kamui","Kobayashi","Japanese",0,0,0
+874,17,2,91.09,21576,2,"9",9,1,2012,"Japanese Grand Prix","N","suzuka",22,"Suzuka Circuit","Japan",34.8431,136.541,"45","WEB","Mark","Webber","Australian",-0.609999999999985,0,0
+874,20,1,90.839,21568,1,"1",1,1,2012,"Japanese Grand Prix","N","suzuka",22,"Suzuka Circuit","Japan",34.8431,136.541,"45","VET","Sebastian","Vettel","German",-0.86099999999999,1,0
+875,1,3,97.469,21601,3,"10",10,1,2012,"Korean Grand Prix","N","yeongam",35,"Korean International Circuit","Korea",34.7333,126.417,"0","HAM","Lewis","Hamilton","British",-0.0649999999999977,0,0
+875,20,2,97.316,21592,2,"1",1,1,2012,"Korean Grand Prix","N","yeongam",35,"Korean International Circuit","Korea",34.7333,126.417,"0","VET","Sebastian","Vettel","German",-0.217999999999989,1,0
+875,17,1,97.242,21593,1,"2",2,1,2012,"Korean Grand Prix","N","yeongam",35,"Korean International Circuit","Korea",34.7333,126.417,"0","WEB","Mark","Webber","Australian",-0.292000000000002,0,0
+876,1,3,85.544,21619,3,"4",4,1,2012,"Indian Grand Prix","N","buddh",68,"Buddh International Circuit","India",28.3487,77.5331,"194","HAM","Lewis","Hamilton","British",-0.115000000000009,0,0
+876,17,2,85.327,21618,2,"3",3,1,2012,"Indian Grand Prix","N","buddh",68,"Buddh International Circuit","India",28.3487,77.5331,"194","WEB","Mark","Webber","Australian",-0.332000000000008,0,0
+876,20,1,85.283,21616,1,"1",1,1,2012,"Indian Grand Prix","N","buddh",68,"Buddh International Circuit","India",28.3487,77.5331,"194","VET","Sebastian","Vettel","German",-0.376000000000005,1,0
+877,813,4,101.226,21644,3,"5",5,1,2012,"Abu Dhabi Grand Prix","N","yas_marina",24,"Yas Marina Circuit","UAE",24.4672,54.6031,"3","MAL","Pastor","Maldonado","Venezuelan",0,0,0
+879,17,3,72.581,21691,3,"4",4,1,2012,"Brazilian Grand Prix","Y","interlagos",18,"Autódromo José Carlos Pace","Brazil",-23.7036,-46.6997,"785","WEB","Mark","Webber","Australian",-0.179000000000002,0,0
+879,18,2,72.513,21688,2,"1",1,1,2012,"Brazilian Grand Prix","Y","interlagos",18,"Autódromo José Carlos Pace","Brazil",-23.7036,-46.6997,"785","BUT","Jenson","Button","British",-0.247,1,0
+880,1,3,88.087,21716,3,"5",5,1,2013,"Australian Grand Prix","N","albert_park",1,"Albert Park Grand Prix Circuit","Australia",-37.8497,144.968,"10","HAM","Lewis","Hamilton","British",-0.40300000000002,0,0
+880,17,2,87.827,21717,2,"6",6,1,2013,"Australian Grand Prix","N","albert_park",1,"Albert Park Grand Prix Circuit","Australia",-37.8497,144.968,"10","WEB","Mark","Webber","Australian",-0.663000000000011,0,0
+880,20,1,87.407,21714,1,"3",3,1,2013,"Australian Grand Prix","N","albert_park",1,"Albert Park Grand Prix Circuit","Australia",-37.8497,144.968,"10","VET","Sebastian","Vettel","German",-1.08300000000001,0,0
+882,4,3,94.788,21756,3,"1",1,1,2013,"Chinese Grand Prix","N","shanghai",17,"Shanghai International Circuit","China",31.3389,121.22,"5","ALO","Fernando","Alonso","Spanish",-0.0729999999999791,1,0
+882,8,2,94.761,21757,2,"2",2,1,2013,"Chinese Grand Prix","N","shanghai",17,"Shanghai International Circuit","China",31.3389,121.22,"5","RAI","Kimi","Räikkönen","Finnish",-0.0999999999999943,0,0
+882,1,1,94.484,21758,1,"3",3,1,2013,"Chinese Grand Prix","N","shanghai",17,"Shanghai International Circuit","China",31.3389,121.22,"5","HAM","Lewis","Hamilton","British",-0.376999999999981,0,0
+883,4,3,92.667,21785,3,"8",8,1,2013,"Bahrain Grand Prix","N","bahrain",3,"Bahrain International Circuit","Bahrain",26.0325,50.5106,"7","ALO","Fernando","Alonso","Spanish",-0.0949999999999989,0,0
+883,20,2,92.584,21778,2,"1",1,1,2013,"Bahrain Grand Prix","N","bahrain",3,"Bahrain International Circuit","Bahrain",26.0325,50.5106,"7","VET","Sebastian","Vettel","German",-0.177999999999997,1,0
+883,3,1,92.33,21786,1,"9",9,1,2013,"Bahrain Grand Prix","N","bahrain",3,"Bahrain International Circuit","Bahrain",26.0325,50.5106,"7","ROS","Nico","Rosberg","German",-0.431999999999988,0,0
+884,20,3,81.054,21803,3,"4",4,1,2013,"Spanish Grand Prix","N","catalunya",4,"Circuit de Barcelona-Catalunya","Spain",41.57,2.26111,"109","VET","Sebastian","Vettel","German",-0.123000000000005,0,0
+884,1,2,80.972,21811,2,"12",12,11,2013,"Spanish Grand Prix","N","catalunya",4,"Circuit de Barcelona-Catalunya","Spain",41.57,2.26111,"109","HAM","Lewis","Hamilton","British",-0.205000000000013,0,0
+884,3,1,80.718,21805,1,"6",6,1,2013,"Spanish Grand Prix","N","catalunya",4,"Circuit de Barcelona-Catalunya","Spain",41.57,2.26111,"109","ROS","Nico","Rosberg","German",-0.459000000000003,0,0
+885,20,3,73.98,21823,3,"2",2,1,2013,"Monaco Grand Prix","N","monaco",6,"Circuit de Monaco","Monaco",43.7347,7.42056,"7","VET","Sebastian","Vettel","German",-0.200999999999993,0,0
+885,1,2,73.967,21825,2,"4",4,1,2013,"Monaco Grand Prix","N","monaco",6,"Circuit de Monaco","Monaco",43.7347,7.42056,"7","HAM","Lewis","Hamilton","British",-0.213999999999999,0,0
+885,3,1,73.876,21822,1,"1",1,1,2013,"Monaco Grand Prix","N","monaco",6,"Circuit de Monaco","Monaco",43.7347,7.42056,"7","ROS","Nico","Rosberg","German",-0.304999999999993,1,0
+886,822,3,85.897,21857,3,"14",14,11,2013,"Canadian Grand Prix","N","villeneuve",7,"Circuit Gilles Villeneuve","Canada",45.5,-73.5228,"13","BOT","Valtteri","Bottas","Finnish",-0.11099999999999,0,0
+886,1,2,85.512,21846,2,"3",3,1,2013,"Canadian Grand Prix","N","villeneuve",7,"Circuit Gilles Villeneuve","Canada",45.5,-73.5228,"13","HAM","Lewis","Hamilton","British",-0.495999999999995,0,0
+886,20,1,85.425,21844,1,"1",1,1,2013,"Canadian Grand Prix","N","villeneuve",7,"Circuit Gilles Villeneuve","Canada",45.5,-73.5228,"13","VET","Sebastian","Vettel","German",-0.582999999999998,1,0
+887,3,2,90.059,21866,2,"1",1,1,2013,"British Grand Prix","N","silverstone",9,"Silverstone Circuit","UK",52.0786,-1.01694,"153","ROS","Nico","Rosberg","German",-0.161000000000001,1,0
+887,1,1,89.607,21869,1,"4",4,1,2013,"British Grand Prix","N","silverstone",9,"Silverstone Circuit","UK",52.0786,-1.01694,"153","HAM","Lewis","Hamilton","British",-0.613,0,0
+888,17,3,89.608,21894,3,"7",7,1,2013,"German Grand Prix","N","nurburgring",20,"Nürburgring","Germany",50.3356,6.9475,"578","WEB","Mark","Webber","Australian",-0.283999999999992,0,0
+888,20,2,89.501,21888,2,"1",1,1,2013,"German Grand Prix","N","nurburgring",20,"Nürburgring","Germany",50.3356,6.9475,"578","VET","Sebastian","Vettel","German",-0.390999999999991,1,0
+888,1,1,89.398,21892,1,"5",5,1,2013,"German Grand Prix","N","nurburgring",20,"Nürburgring","Germany",50.3356,6.9475,"578","HAM","Lewis","Hamilton","British",-0.494,0,0
+890,154,3,79.595,21915,3,"6",6,1,2013,"Hungarian Grand Prix","N","hungaroring",11,"Hungaroring","Hungary",47.5789,19.2486,"264","GRO","Romain","Grosjean","French",-0.125,0,0
+890,20,2,79.426,21912,2,"3",3,1,2013,"Hungarian Grand Prix","N","hungaroring",11,"Hungaroring","Hungary",47.5789,19.2486,"264","VET","Sebastian","Vettel","German",-0.293999999999997,0,0
+890,1,1,79.388,21910,1,"1",1,1,2013,"Hungarian Grand Prix","N","hungaroring",11,"Hungaroring","Hungary",47.5789,19.2486,"264","HAM","Lewis","Hamilton","British",-0.331999999999994,1,0
+891,17,3,121.325,21936,3,"5",5,1,2013,"Belgian Grand Prix","N","spa",13,"Circuit de Spa-Francorchamps","Belgium",50.4372,5.97139,"401","WEB","Mark","Webber","Australian",-0.926000000000016,0,0
+891,20,2,121.2,21932,2,"1",1,1,2013,"Belgian Grand Prix","N","spa",13,"Circuit de Spa-Francorchamps","Belgium",50.4372,5.97139,"401","VET","Sebastian","Vettel","German",-1.05100000000002,1,0
+891,1,1,121.012,21934,1,"3",3,1,2013,"Belgian Grand Prix","N","spa",13,"Circuit de Spa-Francorchamps","Belgium",50.4372,5.97139,"401","HAM","Lewis","Hamilton","British",-1.239,0,0
+892,807,3,84.065,21958,3,"5",5,1,2013,"Italian Grand Prix","N","monza",14,"Autodromo Nazionale di Monza","Italy",45.6156,9.28111,"162","HUL","Nico","Hülkenberg","German",-0.0670000000000073,0,0
+892,17,2,83.968,21956,2,"3",3,1,2013,"Italian Grand Prix","N","monza",14,"Autodromo Nazionale di Monza","Italy",45.6156,9.28111,"162","WEB","Mark","Webber","Australian",-0.164000000000001,0,0
+892,20,1,83.755,21954,1,"1",1,1,2013,"Italian Grand Prix","N","monza",14,"Autodromo Nazionale di Monza","Italy",45.6156,9.28111,"162","VET","Sebastian","Vettel","German",-0.37700000000001,1,0
+893,3,2,102.932,21979,2,"4",4,1,2013,"Singapore Grand Prix","N","marina_bay",15,"Marina Bay Street Circuit","Singapore",1.2914,103.864,"18","ROS","Nico","Rosberg","German",-0.219999999999999,0,0
+893,20,1,102.841,21976,1,"1",1,1,2013,"Singapore Grand Prix","N","marina_bay",15,"Marina Bay Street Circuit","Singapore",1.2914,103.864,"18","VET","Sebastian","Vettel","German",-0.310999999999979,1,0
+894,154,4,97.531,22000,3,"3",3,1,2013,"Korean Grand Prix","N","yeongam",35,"Korean International Circuit","Korea",34.7333,126.417,"0","GRO","Romain","Grosjean","French",0,0,0
+894,1,2,97.42,22002,2,"5",5,1,2013,"Korean Grand Prix","N","yeongam",35,"Korean International Circuit","Korea",34.7333,126.417,"0","HAM","Lewis","Hamilton","British",-0.111000000000018,0,0
+894,20,1,97.202,21998,1,"1",1,1,2013,"Korean Grand Prix","N","yeongam",35,"Korean International Circuit","Korea",34.7333,126.417,"0","VET","Sebastian","Vettel","German",-0.329000000000008,1,0
+895,20,2,91.089,22020,2,"1",1,1,2013,"Japanese Grand Prix","N","suzuka",22,"Suzuka Circuit","Japan",34.8431,136.541,"45","VET","Sebastian","Vettel","German",-0.27600000000001,1,0
+895,17,1,90.915,22021,1,"2",2,1,2013,"Japanese Grand Prix","N","suzuka",22,"Suzuka Circuit","Japan",34.8431,136.541,"45","WEB","Mark","Webber","Australian",-0.450000000000017,0,0
+896,1,3,84.941,22047,3,"6",6,1,2013,"Indian Grand Prix","N","buddh",68,"Buddh International Circuit","India",28.3487,77.5331,"194","HAM","Lewis","Hamilton","British",-0.105999999999995,0,0
+896,3,2,84.871,22043,2,"2",2,1,2013,"Indian Grand Prix","N","buddh",68,"Buddh International Circuit","India",28.3487,77.5331,"194","ROS","Nico","Rosberg","German",-0.176000000000002,0,0
+896,20,1,84.119,22042,1,"1",1,1,2013,"Indian Grand Prix","N","buddh",68,"Buddh International Circuit","India",28.3487,77.5331,"194","VET","Sebastian","Vettel","German",-0.927999999999997,1,0
+897,3,3,100.419,22066,3,"3",3,1,2013,"Abu Dhabi Grand Prix","N","yas_marina",24,"Yas Marina Circuit","UAE",24.4672,54.6031,"3","ROS","Nico","Rosberg","German",-0.0819999999999936,0,0
+897,20,2,100.075,22064,2,"1",1,1,2013,"Abu Dhabi Grand Prix","N","yas_marina",24,"Yas Marina Circuit","UAE",24.4672,54.6031,"3","VET","Sebastian","Vettel","German",-0.426000000000016,1,0
+897,17,1,99.957,22065,1,"2",2,1,2013,"Abu Dhabi Grand Prix","N","yas_marina",24,"Yas Marina Circuit","UAE",24.4672,54.6031,"3","WEB","Mark","Webber","Australian",-0.544000000000011,0,0
+898,154,3,97.155,22087,3,"2",2,1,2013,"United States Grand Prix","N","americas",69,"Circuit of the Americas","USA",30.1328,-97.6411,"161","GRO","Romain","Grosjean","French",-0.140999999999991,0,0
+898,17,2,96.441,22088,2,"3",3,1,2013,"United States Grand Prix","N","americas",69,"Circuit of the Americas","USA",30.1328,-97.6411,"161","WEB","Mark","Webber","Australian",-0.85499999999999,0,0
+898,20,1,96.338,22086,1,"1",1,1,2013,"United States Grand Prix","N","americas",69,"Circuit of the Americas","USA",30.1328,-97.6411,"161","VET","Sebastian","Vettel","German",-0.957999999999998,1,0
+899,4,3,87.539,22110,3,"3",3,1,2013,"Brazilian Grand Prix","N","interlagos",18,"Autódromo José Carlos Pace","Brazil",-23.7036,-46.6997,"785","ALO","Fernando","Alonso","Spanish",-0.0330000000000013,0,0
+899,3,2,87.102,22112,2,"5",5,1,2013,"Brazilian Grand Prix","N","interlagos",18,"Autódromo José Carlos Pace","Brazil",-23.7036,-46.6997,"785","ROS","Nico","Rosberg","German",-0.469999999999999,0,0
+899,20,1,86.479,22108,1,"1",1,1,2013,"Brazilian Grand Prix","N","interlagos",18,"Autódromo José Carlos Pace","Brazil",-23.7036,-46.6997,"785","VET","Sebastian","Vettel","German",-1.093,1,0
+900,3,3,104.595,22130,3,"1",1,1,2014,"Australian Grand Prix","N","albert_park",1,"Albert Park Grand Prix Circuit","Australia",-37.8497,144.968,"10","ROS","Nico","Rosberg","German",-1.15000000000001,1,0
+901,3,3,120.05,22153,3,"2",2,1,2014,"Malaysian Grand Prix","N","sepang",2,"Sepang International Circuit","Malaysia",2.76083,101.738,"18","ROS","Nico","Rosberg","German",-0.125,0,0
+901,20,2,119.486,22154,2,"3",3,1,2014,"Malaysian Grand Prix","N","sepang",2,"Sepang International Circuit","Malaysia",2.76083,101.738,"18","VET","Sebastian","Vettel","German",-0.689000000000021,0,0
+901,1,1,119.431,22152,1,"1",1,1,2014,"Malaysian Grand Prix","N","sepang",2,"Sepang International Circuit","Malaysia",2.76083,101.738,"18","HAM","Lewis","Hamilton","British",-0.744,1,0
+902,822,4,94.247,22181,3,"8",8,1,2014,"Bahrain Grand Prix","N","bahrain",3,"Bahrain International Circuit","Bahrain",26.0325,50.5106,"7","BOT","Valtteri","Bottas","Finnish",0,0,0
+902,1,2,93.464,22174,2,"1",1,1,2014,"Bahrain Grand Prix","N","bahrain",3,"Bahrain International Circuit","Bahrain",26.0325,50.5106,"7","HAM","Lewis","Hamilton","British",-0.783000000000015,1,0
+902,3,1,93.185,22175,1,"2",2,1,2014,"Bahrain Grand Prix","N","bahrain",3,"Bahrain International Circuit","Bahrain",26.0325,50.5106,"7","ROS","Nico","Rosberg","German",-1.06200000000001,0,0
+903,20,3,114.96,22200,3,"5",5,1,2014,"Chinese Grand Prix","N","shanghai",17,"Shanghai International Circuit","China",31.3389,121.22,"5","VET","Sebastian","Vettel","German",-0.182999999999993,0,0
+903,817,2,114.455,22199,2,"4",4,1,2014,"Chinese Grand Prix","N","shanghai",17,"Shanghai International Circuit","China",31.3389,121.22,"5","RIC","Daniel","Ricciardo","Australian",-0.687999999999988,0,0
+903,1,1,113.86,22196,1,"1",1,1,2014,"Chinese Grand Prix","N","shanghai",17,"Shanghai International Circuit","China",31.3389,121.22,"5","HAM","Lewis","Hamilton","British",-1.28299999999999,1,0
+904,817,3,86.285,22220,3,"3",3,1,2014,"Spanish Grand Prix","N","catalunya",4,"Circuit de Barcelona-Catalunya","Spain",41.57,2.26111,"109","RIC","Daniel","Ricciardo","Australian",-0.347000000000008,0,0
+904,3,2,85.4,22219,2,"2",2,1,2014,"Spanish Grand Prix","N","catalunya",4,"Circuit de Barcelona-Catalunya","Spain",41.57,2.26111,"109","ROS","Nico","Rosberg","German",-1.232,0,0
+904,1,1,85.232,22218,1,"1",1,1,2014,"Spanish Grand Prix","N","catalunya",4,"Circuit de Barcelona-Catalunya","Spain",41.57,2.26111,"109","HAM","Lewis","Hamilton","British",-1.40000000000001,1,0
+905,817,3,76.384,22242,3,"3",3,1,2014,"Monaco Grand Prix","N","monaco",6,"Circuit de Monaco","Monaco",43.7347,7.42056,"7","RIC","Daniel","Ricciardo","Australian",-0.162999999999997,0,0
+905,1,2,76.048,22241,2,"2",2,1,2014,"Monaco Grand Prix","N","monaco",6,"Circuit de Monaco","Monaco",43.7347,7.42056,"7","HAM","Lewis","Hamilton","British",-0.498999999999995,0,0
+905,3,1,75.989,22240,1,"1",1,1,2014,"Monaco Grand Prix","N","monaco",6,"Circuit de Monaco","Monaco",43.7347,7.42056,"7","ROS","Nico","Rosberg","German",-0.557999999999993,1,0
+906,20,3,75.548,22264,3,"3",3,1,2014,"Canadian Grand Prix","N","villeneuve",7,"Circuit Gilles Villeneuve","Canada",45.5,-73.5228,"13","VET","Sebastian","Vettel","German",-0.00199999999999534,0,0
+906,3,1,74.874,22263,1,"2",2,1,2014,"Canadian Grand Prix","N","villeneuve",7,"Circuit Gilles Villeneuve","Canada",45.5,-73.5228,"13","ROS","Nico","Rosberg","German",-0.676000000000002,0,0
+907,3,3,68.944,22284,3,"1",1,1,2014,"Austrian Grand Prix","N","red_bull_ring",70,"Red Bull Ring","Austria",47.2197,14.7647,"678","ROS","Nico","Rosberg","German",-0.340999999999994,1,0
+907,822,2,68.846,22286,2,"3",3,1,2014,"Austrian Grand Prix","N","red_bull_ring",70,"Red Bull Ring","Austria",47.2197,14.7647,"678","BOT","Valtteri","Bottas","Finnish",-0.438999999999993,0,0
+907,13,1,68.759,22287,1,"4",4,1,2014,"Austrian Grand Prix","N","red_bull_ring",70,"Red Bull Ring","Austria",47.2197,14.7647,"678","MAS","Felipe","Massa","Brazilian",-0.525999999999996,0,0
+908,18,3,98.2,22309,3,"4",4,1,2014,"British Grand Prix","N","silverstone",9,"Silverstone Circuit","UK",52.0786,-1.01694,"153","BUT","Jenson","Button","British",-0.129000000000019,0,0
+908,20,2,97.386,22310,2,"5",5,1,2014,"British Grand Prix","N","silverstone",9,"Silverstone Circuit","UK",52.0786,-1.01694,"153","VET","Sebastian","Vettel","German",-0.943000000000012,0,0
+909,822,2,76.759,22329,2,"2",2,1,2014,"German Grand Prix","N","hockenheimring",10,"Hockenheimring","Germany",49.3278,8.56583,"103","BOT","Valtteri","Bottas","Finnish",-0.454999999999998,0,0
+909,3,1,76.54,22328,1,"1",1,1,2014,"German Grand Prix","N","hockenheimring",10,"Hockenheimring","Germany",49.3278,8.56583,"103","ROS","Nico","Rosberg","German",-0.673999999999992,1,0
+910,822,3,83.354,22357,3,"8",8,1,2014,"Hungarian Grand Prix","Y","hungaroring",11,"Hungaroring","Hungary",47.5789,19.2486,"264","BOT","Valtteri","Bottas","Finnish",-0.0370000000000061,0,0
+910,20,2,83.201,22356,2,"7",7,1,2014,"Hungarian Grand Prix","Y","hungaroring",11,"Hungaroring","Hungary",47.5789,19.2486,"264","VET","Sebastian","Vettel","German",-0.190000000000012,0,0
+910,3,1,82.715,22353,1,"4",4,1,2014,"Hungarian Grand Prix","Y","hungaroring",11,"Hungaroring","Hungary",47.5789,19.2486,"264","ROS","Nico","Rosberg","German",-0.676000000000002,0,0
+911,20,3,127.717,22377,3,"5",5,1,2014,"Belgian Grand Prix","N","spa",13,"Circuit de Spa-Francorchamps","Belgium",50.4372,5.97139,"401","VET","Sebastian","Vettel","German",-0.0689999999999884,0,0
+911,3,1,125.591,22374,1,"2",2,1,2014,"Belgian Grand Prix","N","spa",13,"Circuit de Spa-Francorchamps","Belgium",50.4372,5.97139,"401","ROS","Nico","Rosberg","German",-2.19499999999999,0,0
+912,822,3,84.697,22398,3,"4",4,1,2014,"Italian Grand Prix","N","monza",14,"Autodromo Nazionale di Monza","Italy",45.6156,9.28111,"162","BOT","Valtteri","Bottas","Finnish",-0.167999999999992,0,0
+912,3,2,84.383,22396,2,"2",2,1,2014,"Italian Grand Prix","N","monza",14,"Autodromo Nazionale di Monza","Italy",45.6156,9.28111,"162","ROS","Nico","Rosberg","German",-0.481999999999999,0,0
+912,1,1,84.109,22395,1,"1",1,1,2014,"Italian Grand Prix","N","monza",14,"Autodromo Nazionale di Monza","Italy",45.6156,9.28111,"162","HAM","Lewis","Hamilton","British",-0.756,1,0
+913,817,3,105.854,22419,3,"3",3,1,2014,"Singapore Grand Prix","N","marina_bay",15,"Marina Bay Street Circuit","Singapore",1.2914,103.864,"18","RIC","Daniel","Ricciardo","Australian",-0.0479999999999734,0,0
+913,1,1,105.681,22417,1,"1",1,1,2014,"Singapore Grand Prix","N","marina_bay",15,"Marina Bay Street Circuit","Singapore",1.2914,103.864,"18","HAM","Lewis","Hamilton","British",-0.220999999999975,1,0
+916,822,3,96.906,22486,3,"5",5,1,2014,"United States Grand Prix","N","americas",69,"Circuit of the Americas","USA",30.1328,-97.6411,"161","BOT","Valtteri","Bottas","Finnish",-0.299000000000007,0,0
+916,1,2,96.443,22482,2,"1",1,1,2014,"United States Grand Prix","N","americas",69,"Circuit of the Americas","USA",30.1328,-97.6411,"161","HAM","Lewis","Hamilton","British",-0.762,1,0
+916,3,1,96.067,22483,1,"2",2,1,2014,"United States Grand Prix","N","americas",69,"Circuit of the Americas","USA",30.1328,-97.6411,"161","ROS","Nico","Rosberg","German",-1.13800000000001,0,0
+917,13,3,70.247,22502,3,"3",3,1,2014,"Brazilian Grand Prix","N","interlagos",18,"Autódromo José Carlos Pace","Brazil",-23.7036,-46.6997,"785","MAS","Felipe","Massa","Brazilian",-0.0580000000000069,0,0
+917,1,2,70.056,22501,2,"2",2,1,2014,"Brazilian Grand Prix","N","interlagos",18,"Autódromo José Carlos Pace","Brazil",-23.7036,-46.6997,"785","HAM","Lewis","Hamilton","British",-0.249000000000009,0,0
+917,3,1,70.023,22500,1,"1",1,1,2014,"Brazilian Grand Prix","N","interlagos",18,"Autódromo José Carlos Pace","Brazil",-23.7036,-46.6997,"785","ROS","Nico","Rosberg","German",-0.282000000000011,1,0
+918,822,3,101.025,22520,3,"3",3,1,2014,"Abu Dhabi Grand Prix","N","yas_marina",24,"Yas Marina Circuit","UAE",24.4672,54.6031,"3","BOT","Valtteri","Bottas","Finnish",-0.0939999999999941,0,0
+918,1,2,100.866,22518,2,"1",1,1,2014,"Abu Dhabi Grand Prix","N","yas_marina",24,"Yas Marina Circuit","UAE",24.4672,54.6031,"3","HAM","Lewis","Hamilton","British",-0.252999999999986,1,0
+918,3,1,100.48,22531,1,"14",14,11,2014,"Abu Dhabi Grand Prix","N","yas_marina",24,"Yas Marina Circuit","UAE",24.4672,54.6031,"3","ROS","Nico","Rosberg","German",-0.63900000000001,0,0
+926,13,3,87.718,22541,3,"4",4,1,2015,"Australian Grand Prix","N","albert_park",1,"Albert Park Grand Prix Circuit","Australia",-37.8497,144.968,"10","MAS","Felipe","Massa","Brazilian",-0.0390000000000015,0,0
+926,3,2,86.921,22539,2,"2",2,1,2015,"Australian Grand Prix","N","albert_park",1,"Albert Park Grand Prix Circuit","Australia",-37.8497,144.968,"10","ROS","Nico","Rosberg","German",-0.835999999999999,0,0
+926,1,1,86.327,22538,1,"1",1,1,2015,"Australian Grand Prix","N","albert_park",1,"Albert Park Grand Prix Circuit","Australia",-37.8497,144.968,"10","HAM","Lewis","Hamilton","British",-1.43000000000001,1,0
+927,3,3,110.299,22558,3,"3",3,1,2015,"Malaysian Grand Prix","N","sepang",2,"Sepang International Circuit","Malaysia",2.76083,101.738,"18","ROS","Nico","Rosberg","German",-1.24199999999999,0,0
+927,20,2,109.908,22556,2,"1",1,1,2015,"Malaysian Grand Prix","N","sepang",2,"Sepang International Circuit","Malaysia",2.76083,101.738,"18","VET","Sebastian","Vettel","German",-1.63300000000001,1,0
+927,1,1,109.834,22557,1,"2",2,1,2015,"Malaysian Grand Prix","N","sepang",2,"Sepang International Circuit","Malaysia",2.76083,101.738,"18","HAM","Lewis","Hamilton","British",-1.70699999999999,0,0
+928,20,3,96.687,22578,3,"3",3,1,2015,"Chinese Grand Prix","N","shanghai",17,"Shanghai International Circuit","China",31.3389,121.22,"5","VET","Sebastian","Vettel","German",-0.266999999999996,0,0
+928,3,2,95.828,22577,2,"2",2,1,2015,"Chinese Grand Prix","N","shanghai",17,"Shanghai International Circuit","China",31.3389,121.22,"5","ROS","Nico","Rosberg","German",-1.126,0,0
+928,1,1,95.782,22576,1,"1",1,1,2015,"Chinese Grand Prix","N","shanghai",17,"Shanghai International Circuit","China",31.3389,121.22,"5","HAM","Lewis","Hamilton","British",-1.172,1,0
+929,3,3,93.129,22598,3,"3",3,1,2015,"Bahrain Grand Prix","N","bahrain",3,"Bahrain International Circuit","Bahrain",26.0325,50.5106,"7","ROS","Nico","Rosberg","German",-0.0980000000000132,0,0
+929,20,2,92.982,22600,2,"5",5,1,2015,"Bahrain Grand Prix","N","bahrain",3,"Bahrain International Circuit","Bahrain",26.0325,50.5106,"7","VET","Sebastian","Vettel","German",-0.245000000000005,0,0
+929,1,1,92.571,22596,1,"1",1,1,2015,"Bahrain Grand Prix","N","bahrain",3,"Bahrain International Circuit","Bahrain",26.0325,50.5106,"7","HAM","Lewis","Hamilton","British",-0.656000000000006,1,0
+930,20,3,85.458,22618,3,"3",3,1,2015,"Spanish Grand Prix","N","catalunya",4,"Circuit de Barcelona-Catalunya","Spain",41.57,2.26111,"109","VET","Sebastian","Vettel","German",-0.236000000000004,0,0
+930,1,2,84.948,22617,2,"2",2,1,2015,"Spanish Grand Prix","N","catalunya",4,"Circuit de Barcelona-Catalunya","Spain",41.57,2.26111,"109","HAM","Lewis","Hamilton","British",-0.746000000000009,0,0
+930,3,1,84.681,22616,1,"1",1,1,2015,"Spanish Grand Prix","N","catalunya",4,"Circuit de Barcelona-Catalunya","Spain",41.57,2.26111,"109","ROS","Nico","Rosberg","German",-1.01300000000001,1,0
+931,20,3,75.849,22637,3,"2",2,1,2015,"Monaco Grand Prix","N","monaco",6,"Circuit de Monaco","Monaco",43.7347,7.42056,"7","VET","Sebastian","Vettel","German",-0.191999999999993,0,0
+931,3,2,75.44,22636,2,"1",1,1,2015,"Monaco Grand Prix","N","monaco",6,"Circuit de Monaco","Monaco",43.7347,7.42056,"7","ROS","Nico","Rosberg","German",-0.600999999999999,1,0
+931,1,1,75.098,22638,1,"3",3,1,2015,"Monaco Grand Prix","N","monaco",6,"Circuit de Monaco","Monaco",43.7347,7.42056,"7","HAM","Lewis","Hamilton","British",-0.942999999999998,0,0
+932,8,3,75.014,22659,3,"4",4,1,2015,"Canadian Grand Prix","N","villeneuve",7,"Circuit Gilles Villeneuve","Canada",45.5,-73.5228,"13","RAI","Kimi","Räikkönen","Finnish",-0.0880000000000081,0,0
+932,3,2,74.702,22657,2,"2",2,1,2015,"Canadian Grand Prix","N","villeneuve",7,"Circuit Gilles Villeneuve","Canada",45.5,-73.5228,"13","ROS","Nico","Rosberg","German",-0.400000000000006,0,0
+932,1,1,74.393,22656,1,"1",1,1,2015,"Canadian Grand Prix","N","villeneuve",7,"Circuit Gilles Villeneuve","Canada",45.5,-73.5228,"13","HAM","Lewis","Hamilton","British",-0.709000000000003,1,0
+933,20,3,68.81,22679,3,"4",4,1,2015,"Austrian Grand Prix","N","red_bull_ring",70,"Red Bull Ring","Austria",47.2197,14.7647,"678","VET","Sebastian","Vettel","German",-0.381999999999991,0,0
+933,3,2,68.655,22676,2,"1",1,1,2015,"Austrian Grand Prix","N","red_bull_ring",70,"Red Bull Ring","Austria",47.2197,14.7647,"678","ROS","Nico","Rosberg","German",-0.536999999999992,1,0
+933,1,1,68.455,22677,1,"2",2,1,2015,"Austrian Grand Prix","N","red_bull_ring",70,"Red Bull Ring","Austria",47.2197,14.7647,"678","HAM","Lewis","Hamilton","British",-0.736999999999995,0,0
+934,13,3,93.085,22699,3,"4",4,1,2015,"British Grand Prix","Y","silverstone",9,"Silverstone Circuit","UK",52.0786,-1.01694,"153","MAS","Felipe","Massa","Brazilian",-0.063999999999993,0,0
+934,3,2,92.361,22697,2,"2",2,1,2015,"British Grand Prix","Y","silverstone",9,"Silverstone Circuit","UK",52.0786,-1.01694,"153","ROS","Nico","Rosberg","German",-0.788000000000011,0,0
+934,1,1,92.248,22696,1,"1",1,1,2015,"British Grand Prix","Y","silverstone",9,"Silverstone Circuit","UK",52.0786,-1.01694,"153","HAM","Lewis","Hamilton","British",-0.90100000000001,1,0
+937,822,3,108.537,22744,3,"9",9,131,2015,"Belgian Grand Prix","N","spa",13,"Circuit de Spa-Francorchamps","Belgium",50.4372,5.97139,"401","BOT","Valtteri","Bottas","Finnish",-0.0240000000000009,0,0
+937,3,2,107.655,22737,2,"2",2,1,2015,"Belgian Grand Prix","N","spa",13,"Circuit de Spa-Francorchamps","Belgium",50.4372,5.97139,"401","ROS","Nico","Rosberg","German",-0.906000000000006,0,0
+937,1,1,107.197,22736,1,"1",1,1,2015,"Belgian Grand Prix","N","spa",13,"Circuit de Spa-Francorchamps","Belgium",50.4372,5.97139,"401","HAM","Lewis","Hamilton","British",-1.364,1,0
+938,20,3,83.685,22757,3,"2",2,1,2015,"Italian Grand Prix","N","monza",14,"Autodromo Nazionale di Monza","Italy",45.6156,9.28111,"162","VET","Sebastian","Vettel","German",-0.0180000000000007,0,0
+938,8,2,83.631,22760,2,"5",5,1,2015,"Italian Grand Prix","N","monza",14,"Autodromo Nazionale di Monza","Italy",45.6156,9.28111,"162","RAI","Kimi","Räikkönen","Finnish",-0.0720000000000027,0,0
+938,1,1,83.397,22756,1,"1",1,1,2015,"Italian Grand Prix","N","monza",14,"Autodromo Nazionale di Monza","Italy",45.6156,9.28111,"162","HAM","Lewis","Hamilton","British",-0.305999999999997,1,0
+939,8,3,104.667,22778,3,"3",3,1,2015,"Singapore Grand Prix","N","marina_bay",15,"Marina Bay Street Circuit","Singapore",1.2914,103.864,"18","RAI","Kimi","Räikkönen","Finnish",-0.078000000000003,0,0
+939,817,2,104.428,22777,2,"2",2,1,2015,"Singapore Grand Prix","N","marina_bay",15,"Marina Bay Street Circuit","Singapore",1.2914,103.864,"18","RIC","Daniel","Ricciardo","Australian",-0.317000000000007,0,0
+939,20,1,103.885,22776,1,"1",1,1,2015,"Singapore Grand Prix","N","marina_bay",15,"Marina Bay Street Circuit","Singapore",1.2914,103.864,"18","VET","Sebastian","Vettel","German",-0.860000000000014,1,0
+940,822,3,93.024,22800,3,"5",5,1,2015,"Japanese Grand Prix","N","suzuka",22,"Suzuka Circuit","Japan",34.8431,136.541,"45","BOT","Valtteri","Bottas","Finnish",-0.221000000000004,0,0
+940,1,2,92.66,22796,2,"1",1,1,2015,"Japanese Grand Prix","N","suzuka",22,"Suzuka Circuit","Japan",34.8431,136.541,"45","HAM","Lewis","Hamilton","British",-0.585000000000008,1,0
+940,3,1,92.584,22797,1,"2",2,1,2015,"Japanese Grand Prix","N","suzuka",22,"Suzuka Circuit","Japan",34.8431,136.541,"45","ROS","Nico","Rosberg","German",-0.661000000000001,0,0
+941,822,3,97.912,22827,3,"12",12,4,2015,"Russian Grand Prix","N","sochi",71,"Sochi Autodrom","Russia",43.4057,39.9578,"2","BOT","Valtteri","Bottas","Finnish",-0.0529999999999973,0,0
+941,1,2,97.433,22816,2,"1",1,1,2015,"Russian Grand Prix","N","sochi",71,"Sochi Autodrom","Russia",43.4057,39.9578,"2","HAM","Lewis","Hamilton","British",-0.532000000000011,1,0
+942,817,3,116.495,22846,3,"10",10,1,2015,"United States Grand Prix","N","americas",69,"Circuit of the Americas","USA",30.1328,-97.6411,"161","RIC","Daniel","Ricciardo","Australian",-1.14499999999998,0,0
+942,1,2,116.871,22837,2,"1",1,1,2015,"United States Grand Prix","N","americas",69,"Circuit of the Americas","USA",30.1328,-97.6411,"161","HAM","Lewis","Hamilton","British",-0.768999999999977,1,0
+942,3,1,116.671,22838,1,"2",2,1,2015,"United States Grand Prix","N","americas",69,"Circuit of the Americas","USA",30.1328,-97.6411,"161","ROS","Nico","Rosberg","German",-0.968999999999994,0,0
+943,1,2,79.668,22858,2,"2",2,1,2015,"Mexican Grand Prix","N","rodriguez",32,"Autódromo Hermanos Rodríguez","Mexico",19.4042,-99.0907,"2227","HAM","Lewis","Hamilton","British",-0.72999999999999,0,0
+943,3,1,79.48,22857,1,"1",1,1,2015,"Mexican Grand Prix","N","rodriguez",32,"Autódromo Hermanos Rodríguez","Mexico",19.4042,-99.0907,"2227","ROS","Nico","Rosberg","German",-0.917999999999992,1,0
+944,20,3,71.804,22879,3,"3",3,1,2015,"Brazilian Grand Prix","N","interlagos",18,"Autódromo José Carlos Pace","Brazil",-23.7036,-46.6997,"785","VET","Sebastian","Vettel","German",-0.280999999999992,0,0
+944,1,2,71.36,22878,2,"2",2,1,2015,"Brazilian Grand Prix","N","interlagos",18,"Autódromo José Carlos Pace","Brazil",-23.7036,-46.6997,"785","HAM","Lewis","Hamilton","British",-0.724999999999994,0,0
+944,3,1,71.282,22877,1,"1",1,1,2015,"Brazilian Grand Prix","N","interlagos",18,"Autódromo José Carlos Pace","Brazil",-23.7036,-46.6997,"785","ROS","Nico","Rosberg","German",-0.802999999999997,1,0
+945,8,3,101.051,22899,3,"3",3,1,2015,"Abu Dhabi Grand Prix","N","yas_marina",24,"Yas Marina Circuit","UAE",24.4672,54.6031,"3","RAI","Kimi","Räikkönen","Finnish",-0.13300000000001,0,0
+945,1,2,100.614,22898,2,"2",2,1,2015,"Abu Dhabi Grand Prix","N","yas_marina",24,"Yas Marina Circuit","UAE",24.4672,54.6031,"3","HAM","Lewis","Hamilton","British",-0.569999999999993,0,0
+945,3,1,100.237,22897,1,"1",1,1,2015,"Abu Dhabi Grand Prix","N","yas_marina",24,"Yas Marina Circuit","UAE",24.4672,54.6031,"3","ROS","Nico","Rosberg","German",-0.947000000000003,1,0
+948,20,3,84.675,22919,3,"3",3,1,2016,"Australian Grand Prix","N","albert_park",1,"Albert Park Grand Prix Circuit","Australia",-37.8497,144.968,"10","VET","Sebastian","Vettel","German",-0.358000000000004,0,0
+948,3,2,84.197,22917,2,"1",1,1,2016,"Australian Grand Prix","N","albert_park",1,"Albert Park Grand Prix Circuit","Australia",-37.8497,144.968,"10","ROS","Nico","Rosberg","German",-0.835999999999999,1,0
+948,1,1,83.837,22918,1,"2",2,1,2016,"Australian Grand Prix","N","albert_park",1,"Albert Park Grand Prix Circuit","Australia",-37.8497,144.968,"10","HAM","Lewis","Hamilton","British",-1.196,0,0
+949,3,2,89.57,22939,2,"1",1,1,2016,"Bahrain Grand Prix","N","bahrain",3,"Bahrain International Circuit","Bahrain",26.0325,50.5106,"7","ROS","Nico","Rosberg","German",-0.674000000000007,1,0
+949,1,1,89.493,22941,1,"3",3,1,2016,"Bahrain Grand Prix","N","bahrain",3,"Bahrain International Circuit","Bahrain",26.0325,50.5106,"7","HAM","Lewis","Hamilton","British",-0.751000000000005,0,0
+950,8,3,95.972,22965,3,"5",5,1,2016,"Chinese Grand Prix","N","shanghai",17,"Shanghai International Circuit","China",31.3389,121.22,"5","RAI","Kimi","Räikkönen","Finnish",-0.274000000000001,0,0
+950,817,2,95.917,22964,2,"4",4,1,2016,"Chinese Grand Prix","N","shanghai",17,"Shanghai International Circuit","China",31.3389,121.22,"5","RIC","Daniel","Ricciardo","Australian",-0.329000000000008,0,0
+950,3,1,95.402,22961,1,"1",1,1,2016,"Chinese Grand Prix","N","shanghai",17,"Shanghai International Circuit","China",31.3389,121.22,"5","ROS","Nico","Rosberg","German",-0.844000000000023,1,0
+951,8,4,96.663,22985,3,"3",3,1,2016,"Russian Grand Prix","N","sochi",71,"Sochi Autodrom","Russia",43.4057,39.9578,"2","RAI","Kimi","Räikkönen","Finnish",0,0,0
+951,822,3,96.536,22986,2,"4",4,1,2016,"Russian Grand Prix","N","sochi",71,"Sochi Autodrom","Russia",43.4057,39.9578,"2","BOT","Valtteri","Bottas","Finnish",-0.12700000000001,0,0
+951,3,1,95.417,22983,1,"1",1,1,2016,"Russian Grand Prix","N","sochi",71,"Sochi Autodrom","Russia",43.4057,39.9578,"2","ROS","Nico","Rosberg","German",-1.24600000000001,1,0
+952,817,3,82.68,23008,3,"4",4,1,2016,"Spanish Grand Prix","N","catalunya",4,"Circuit de Barcelona-Catalunya","Spain",41.57,2.26111,"109","RIC","Daniel","Ricciardo","Australian",-0.406999999999996,0,0
+953,1,3,73.942,23027,3,"1",1,1,2016,"Monaco Grand Prix","Y","monaco",6,"Circuit de Monaco","Monaco",43.7347,7.42056,"7","HAM","Lewis","Hamilton","British",-0.610000000000014,1,0
+953,3,2,73.791,23033,2,"7",7,1,2016,"Monaco Grand Prix","Y","monaco",6,"Circuit de Monaco","Monaco",43.7347,7.42056,"7","ROS","Nico","Rosberg","German",-0.76100000000001,0,0
+953,817,1,73.622,23028,1,"2",2,1,2016,"Monaco Grand Prix","Y","monaco",6,"Circuit de Monaco","Monaco",43.7347,7.42056,"7","RIC","Daniel","Ricciardo","Australian",-0.930000000000007,0,0
+954,20,3,72.99,23050,3,"2",2,1,2016,"Canadian Grand Prix","N","villeneuve",7,"Circuit Gilles Villeneuve","Canada",45.5,-73.5228,"13","VET","Sebastian","Vettel","German",-0.176000000000002,0,0
+954,3,2,72.874,23053,2,"5",5,1,2016,"Canadian Grand Prix","N","villeneuve",7,"Circuit Gilles Villeneuve","Canada",45.5,-73.5228,"13","ROS","Nico","Rosberg","German",-0.292000000000002,0,0
+954,1,1,72.812,23049,1,"1",1,1,2016,"Canadian Grand Prix","N","villeneuve",7,"Circuit Gilles Villeneuve","Canada",45.5,-73.5228,"13","HAM","Lewis","Hamilton","British",-0.353999999999999,1,0
+955,20,4,103.966,23072,3,"2",2,1,2016,"European Grand Prix","N","BAK",73,"Baku City Circuit","Azerbaijan",40.3725,49.8533,"-7","VET","Sebastian","Vettel","German",0,0,0
+955,817,3,103.966,23077,2,"7",7,1,2016,"European Grand Prix","N","BAK",73,"Baku City Circuit","Azerbaijan",40.3725,49.8533,"-7","RIC","Daniel","Ricciardo","Australian",0,0,0
+955,3,1,102.758,23071,1,"1",1,1,2016,"European Grand Prix","N","BAK",73,"Baku City Circuit","Azerbaijan",40.3725,49.8533,"-7","ROS","Nico","Rosberg","German",-1.208,1,0
+956,807,3,69.285,23111,2,"19",19,23,2016,"Austrian Grand Prix","N","red_bull_ring",70,"Red Bull Ring","Austria",47.2197,14.7647,"678","HUL","Nico","Hülkenberg","German",-0.496000000000009,0,0
+956,1,1,67.922,23093,1,"1",1,1,2016,"Austrian Grand Prix","N","red_bull_ring",70,"Red Bull Ring","Austria",47.2197,14.7647,"678","HAM","Lewis","Hamilton","British",-1.85900000000001,1,0
+957,830,3,90.313,23116,3,"2",2,1,2016,"British Grand Prix","Y","silverstone",9,"Silverstone Circuit","UK",52.0786,-1.01694,"153","VER","Max","Verstappen","Dutch",-0.305000000000007,0,0
+957,3,2,89.606,23117,2,"3",3,1,2016,"British Grand Prix","Y","silverstone",9,"Silverstone Circuit","UK",52.0786,-1.01694,"153","ROS","Nico","Rosberg","German",-1.012,0,0
+957,1,1,89.287,23115,1,"1",1,1,2016,"British Grand Prix","Y","silverstone",9,"Silverstone Circuit","UK",52.0786,-1.01694,"153","HAM","Lewis","Hamilton","British",-1.33099999999999,1,0
+958,817,3,80.28,23139,3,"3",3,1,2016,"Hungarian Grand Prix","N","hungaroring",11,"Hungaroring","Hungary",47.5789,19.2486,"264","RIC","Daniel","Ricciardo","Australian",-0.277000000000001,0,0
+958,1,2,80.108,23137,2,"1",1,1,2016,"Hungarian Grand Prix","N","hungaroring",11,"Hungaroring","Hungary",47.5789,19.2486,"264","HAM","Lewis","Hamilton","British",-0.448999999999998,1,0
+958,3,1,79.965,23138,1,"2",2,1,2016,"Hungarian Grand Prix","N","hungaroring",11,"Hungaroring","Hungary",47.5789,19.2486,"264","ROS","Nico","Rosberg","German",-0.591999999999999,0,0
+959,817,3,74.726,23160,3,"2",2,1,2016,"German Grand Prix","N","hockenheimring",10,"Hockenheimring","Germany",49.3278,8.56583,"103","RIC","Daniel","Ricciardo","Australian",-0.108000000000004,0,0
+959,1,2,74.47,23159,2,"1",1,1,2016,"German Grand Prix","N","hockenheimring",10,"Hockenheimring","Germany",49.3278,8.56583,"103","HAM","Lewis","Hamilton","British",-0.364000000000004,1,0
+959,3,1,74.363,23162,1,"4",4,1,2016,"German Grand Prix","N","hockenheimring",10,"Hockenheimring","Germany",49.3278,8.56583,"103","ROS","Nico","Rosberg","German",-0.471000000000004,0,0
+960,8,3,106.91,23189,3,"9",9,1,2016,"Belgian Grand Prix","N","spa",13,"Circuit de Spa-Francorchamps","Belgium",50.4372,5.97139,"401","RAI","Kimi","Räikkönen","Finnish",-0.198000000000008,0,0
+960,830,2,106.893,23191,2,"11",11,1,2016,"Belgian Grand Prix","N","spa",13,"Circuit de Spa-Francorchamps","Belgium",50.4372,5.97139,"401","VER","Max","Verstappen","Dutch",-0.215000000000003,0,0
+960,3,1,106.744,23181,1,"1",1,1,2016,"Belgian Grand Prix","N","spa",13,"Circuit de Spa-Francorchamps","Belgium",50.4372,5.97139,"401","ROS","Nico","Rosberg","German",-0.364000000000004,1,0
+962,1,3,103.288,23227,3,"3",3,1,2016,"Singapore Grand Prix","N","marina_bay",15,"Marina Bay Street Circuit","Singapore",1.2914,103.864,"18","HAM","Lewis","Hamilton","British",-0.039999999999992,0,0
+962,817,2,103.115,23226,2,"2",2,1,2016,"Singapore Grand Prix","N","marina_bay",15,"Marina Bay Street Circuit","Singapore",1.2914,103.864,"18","RIC","Daniel","Ricciardo","Australian",-0.212999999999994,0,0
+962,3,1,102.584,23225,1,"1",1,1,2016,"Singapore Grand Prix","N","marina_bay",15,"Marina Bay Street Circuit","Singapore",1.2914,103.864,"18","ROS","Nico","Rosberg","German",-0.744,1,0
+963,830,3,93.42,23248,3,"2",2,1,2016,"Malaysian Grand Prix","N","sepang",2,"Sepang International Circuit","Malaysia",2.76083,101.738,"18","VER","Max","Verstappen","Dutch",-0.0470000000000255,0,0
+963,3,2,93.264,23249,2,"3",3,1,2016,"Malaysian Grand Prix","N","sepang",2,"Sepang International Circuit","Malaysia",2.76083,101.738,"18","ROS","Nico","Rosberg","German",-0.203000000000003,0,0
+964,1,2,90.66,23271,2,"3",3,1,2016,"Japanese Grand Prix","N","suzuka",22,"Suzuka Circuit","Japan",34.8431,136.541,"45","HAM","Lewis","Hamilton","British",-0.367999999999995,0,0
+964,3,1,90.647,23269,1,"1",1,1,2016,"Japanese Grand Prix","N","suzuka",22,"Suzuka Circuit","Japan",34.8431,136.541,"45","ROS","Nico","Rosberg","German",-0.381,1,0
+965,817,3,95.509,23293,3,"3",3,1,2016,"United States Grand Prix","N","americas",69,"Circuit of the Americas","USA",30.1328,-97.6411,"161","RIC","Daniel","Ricciardo","Australian",-0.238000000000028,0,0
+965,3,2,95.215,23292,2,"2",2,1,2016,"United States Grand Prix","N","americas",69,"Circuit of the Americas","USA",30.1328,-97.6411,"161","ROS","Nico","Rosberg","German",-0.532000000000011,0,0
+965,1,1,94.999,23291,1,"1",1,1,2016,"United States Grand Prix","N","americas",69,"Circuit of the Americas","USA",30.1328,-97.6411,"161","HAM","Lewis","Hamilton","British",-0.748000000000019,1,0
+966,830,3,79.054,23316,3,"4",4,1,2016,"Mexican Grand Prix","N","rodriguez",32,"Autódromo Hermanos Rodríguez","Mexico",19.4042,-99.0907,"2227","VER","Max","Verstappen","Dutch",-0.0789999999999935,0,0
+966,3,2,78.958,23314,2,"2",2,1,2016,"Mexican Grand Prix","N","rodriguez",32,"Autódromo Hermanos Rodríguez","Mexico",19.4042,-99.0907,"2227","ROS","Nico","Rosberg","German",-0.174999999999997,0,0
+966,1,1,78.704,23313,1,"1",1,1,2016,"Mexican Grand Prix","N","rodriguez",32,"Autódromo Hermanos Rodríguez","Mexico",19.4042,-99.0907,"2227","HAM","Lewis","Hamilton","British",-0.429000000000002,1,0
+967,3,2,70.838,23336,2,"2",2,1,2016,"Brazilian Grand Prix","Y","interlagos",18,"Autódromo José Carlos Pace","Brazil",-23.7036,-46.6997,"785","ROS","Nico","Rosberg","German",-0.647000000000006,0,0
+967,1,1,70.736,23335,1,"1",1,1,2016,"Brazilian Grand Prix","Y","interlagos",18,"Autódromo José Carlos Pace","Brazil",-23.7036,-46.6997,"785","HAM","Lewis","Hamilton","British",-0.748999999999995,1,0
+968,817,3,99.589,23361,3,"5",5,1,2016,"Abu Dhabi Grand Prix","N","yas_marina",24,"Yas Marina Circuit","UAE",24.4672,54.6031,"3","RIC","Daniel","Ricciardo","Australian",-0.0150000000000148,0,0
+968,3,2,99.058,23358,2,"2",2,1,2016,"Abu Dhabi Grand Prix","N","yas_marina",24,"Yas Marina Circuit","UAE",24.4672,54.6031,"3","ROS","Nico","Rosberg","German",-0.546000000000021,0,0
+968,1,1,98.755,23357,1,"1",1,1,2016,"Abu Dhabi Grand Prix","N","yas_marina",24,"Yas Marina Circuit","UAE",24.4672,54.6031,"3","HAM","Lewis","Hamilton","British",-0.849000000000018,1,0
+969,822,3,82.481,23381,3,"3",3,1,2017,"Australian Grand Prix","N","albert_park",1,"Albert Park Grand Prix Circuit","Australia",-37.8497,144.968,"10","BOT","Valtteri","Bottas","Finnish",-0.552000000000007,0,0
+969,20,2,82.456,23379,2,"1",1,1,2017,"Australian Grand Prix","N","albert_park",1,"Albert Park Grand Prix Circuit","Australia",-37.8497,144.968,"10","VET","Sebastian","Vettel","German",-0.576999999999998,1,0
+969,1,1,82.188,23380,1,"2",2,1,2017,"Australian Grand Prix","N","albert_park",1,"Albert Park Grand Prix Circuit","Australia",-37.8497,144.968,"10","HAM","Lewis","Hamilton","British",-0.844999999999999,0,0
+970,822,3,91.865,23404,3,"6",6,1,2017,"Chinese Grand Prix","Y","shanghai",17,"Shanghai International Circuit","China",31.3389,121.22,"5","BOT","Valtteri","Bottas","Finnish",-0.274999999999977,0,0
+970,20,2,91.864,23400,2,"2",2,1,2017,"Chinese Grand Prix","Y","shanghai",17,"Shanghai International Circuit","China",31.3389,121.22,"5","VET","Sebastian","Vettel","German",-0.275999999999982,0,0
+970,1,1,91.678,23399,1,"1",1,1,2017,"Chinese Grand Prix","Y","shanghai",17,"Shanghai International Circuit","China",31.3389,121.22,"5","HAM","Lewis","Hamilton","British",-0.461999999999989,1,0
+971,20,3,89.247,23419,3,"1",1,1,2017,"Bahrain Grand Prix","N","bahrain",3,"Bahrain International Circuit","Bahrain",26.0325,50.5106,"7","VET","Sebastian","Vettel","German",-0.297999999999973,1,0
+971,1,2,88.792,23420,2,"2",2,1,2017,"Bahrain Grand Prix","N","bahrain",3,"Bahrain International Circuit","Bahrain",26.0325,50.5106,"7","HAM","Lewis","Hamilton","British",-0.752999999999986,0,0
+971,822,1,88.769,23421,1,"3",3,1,2017,"Bahrain Grand Prix","N","bahrain",3,"Bahrain International Circuit","Bahrain",26.0325,50.5106,"7","BOT","Valtteri","Bottas","Finnish",-0.775999999999982,0,0
+972,822,3,93.289,23439,3,"1",1,1,2017,"Russian Grand Prix","N","sochi",71,"Sochi Autodrom","Russia",43.4057,39.9578,"2","BOT","Valtteri","Bottas","Finnish",-0.478000000000009,1,0
+972,8,2,93.253,23441,2,"3",3,1,2017,"Russian Grand Prix","N","sochi",71,"Sochi Autodrom","Russia",43.4057,39.9578,"2","RAI","Kimi","Räikkönen","Finnish",-0.51400000000001,0,0
+972,20,1,93.194,23440,1,"2",2,1,2017,"Russian Grand Prix","N","sochi",71,"Sochi Autodrom","Russia",43.4057,39.9578,"2","VET","Sebastian","Vettel","German",-0.573000000000008,0,0
+973,20,2,79.2,23460,2,"2",2,1,2017,"Spanish Grand Prix","N","catalunya",4,"Circuit de Barcelona-Catalunya","Spain",41.57,2.26111,"109","VET","Sebastian","Vettel","German",-0.23899999999999,0,0
+973,1,1,79.149,23459,1,"1",1,1,2017,"Spanish Grand Prix","N","catalunya",4,"Circuit de Barcelona-Catalunya","Spain",41.57,2.26111,"109","HAM","Lewis","Hamilton","British",-0.289999999999992,1,0
+974,822,3,72.223,23482,3,"4",4,1,2017,"Monaco Grand Prix","N","monaco",6,"Circuit de Monaco","Monaco",43.7347,7.42056,"7","BOT","Valtteri","Bottas","Finnish",-0.272999999999996,0,0
+974,20,2,72.221,23479,2,"1",1,1,2017,"Monaco Grand Prix","N","monaco",6,"Circuit de Monaco","Monaco",43.7347,7.42056,"7","VET","Sebastian","Vettel","German",-0.274999999999991,1,0
+974,8,1,72.178,23480,1,"2",2,1,2017,"Monaco Grand Prix","N","monaco",6,"Circuit de Monaco","Monaco",43.7347,7.42056,"7","RAI","Kimi","Räikkönen","Finnish",-0.317999999999998,0,0
+975,822,3,72.177,23500,3,"2",2,1,2017,"Canadian Grand Prix","N","villeneuve",7,"Circuit Gilles Villeneuve","Canada",45.5,-73.5228,"13","BOT","Valtteri","Bottas","Finnish",-0.0749999999999886,0,0
+975,20,2,71.789,23502,2,"4",4,1,2017,"Canadian Grand Prix","N","villeneuve",7,"Circuit Gilles Villeneuve","Canada",45.5,-73.5228,"13","VET","Sebastian","Vettel","German",-0.462999999999994,0,0
+975,1,1,71.459,23499,1,"1",1,1,2017,"Canadian Grand Prix","N","villeneuve",7,"Circuit Gilles Villeneuve","Canada",45.5,-73.5228,"13","HAM","Lewis","Hamilton","British",-0.792999999999992,1,0
+976,8,3,101.693,23532,3,"14",14,34,2017,"Azerbaijan Grand Prix","N","BAK",73,"Baku City Circuit","Azerbaijan",40.3725,49.8533,"-7","RAI","Kimi","Räikkönen","Finnish",-0.147999999999996,0,0
+976,822,2,101.027,23520,2,"2",2,1,2017,"Azerbaijan Grand Prix","N","BAK",73,"Baku City Circuit","Azerbaijan",40.3725,49.8533,"-7","BOT","Valtteri","Bottas","Finnish",-0.814000000000021,0,0
+976,1,1,100.593,23523,1,"5",5,1,2017,"Azerbaijan Grand Prix","N","BAK",73,"Baku City Circuit","Azerbaijan",40.3725,49.8533,"-7","HAM","Lewis","Hamilton","British",-1.24800000000002,0,0
+977,8,4,64.779,23546,3,"5",5,1,2017,"Austrian Grand Prix","N","red_bull_ring",70,"Red Bull Ring","Austria",47.2197,14.7647,"678","RAI","Kimi","Räikkönen","Finnish",0,0,0
+977,20,2,64.293,23543,2,"2",2,1,2017,"Austrian Grand Prix","N","red_bull_ring",70,"Red Bull Ring","Austria",47.2197,14.7647,"678","VET","Sebastian","Vettel","German",-0.48599999999999,0,0
+977,822,1,64.251,23542,1,"1",1,1,2017,"Austrian Grand Prix","N","red_bull_ring",70,"Red Bull Ring","Austria",47.2197,14.7647,"678","BOT","Valtteri","Bottas","Finnish",-0.527999999999992,1,0
+978,20,3,87.356,23568,3,"7",7,1,2017,"British Grand Prix","N","silverstone",9,"Silverstone Circuit","UK",52.0786,-1.01694,"153","VET","Sebastian","Vettel","German",-0.0200000000000102,0,0
+978,8,2,87.147,23564,2,"3",3,1,2017,"British Grand Prix","N","silverstone",9,"Silverstone Circuit","UK",52.0786,-1.01694,"153","RAI","Kimi","Räikkönen","Finnish",-0.228999999999999,0,0
+978,1,1,86.6,23562,1,"1",1,1,2017,"British Grand Prix","N","silverstone",9,"Silverstone Circuit","UK",52.0786,-1.01694,"153","HAM","Lewis","Hamilton","British",-0.77600000000001,1,0
+979,822,3,76.53,23584,3,"3",3,1,2017,"Hungarian Grand Prix","N","hungaroring",11,"Hungaroring","Hungary",47.5789,19.2486,"264","BOT","Valtteri","Bottas","Finnish",-0.176999999999992,0,0
+979,8,2,76.444,23583,2,"2",2,1,2017,"Hungarian Grand Prix","N","hungaroring",11,"Hungaroring","Hungary",47.5789,19.2486,"264","RAI","Kimi","Räikkönen","Finnish",-0.262999999999991,0,0
+979,20,1,76.276,23582,1,"1",1,1,2017,"Hungarian Grand Prix","N","hungaroring",11,"Hungaroring","Hungary",47.5789,19.2486,"264","VET","Sebastian","Vettel","German",-0.430999999999997,1,0
+980,822,3,103.094,23606,3,"5",5,1,2017,"Belgian Grand Prix","N","spa",13,"Circuit de Spa-Francorchamps","Belgium",50.4372,5.97139,"401","BOT","Valtteri","Bottas","Finnish",-0.176000000000016,0,0
+980,20,2,102.795,23603,2,"2",2,1,2017,"Belgian Grand Prix","N","spa",13,"Circuit de Spa-Francorchamps","Belgium",50.4372,5.97139,"401","VET","Sebastian","Vettel","German",-0.475000000000023,0,0
+980,1,1,102.553,23602,1,"1",1,1,2017,"Belgian Grand Prix","N","spa",13,"Circuit de Spa-Francorchamps","Belgium",50.4372,5.97139,"401","HAM","Lewis","Hamilton","British",-0.717000000000013,1,0
+981,840,4,97.032,23628,2,"7",7,1,2017,"Italian Grand Prix","N","monza",14,"Autodromo Nazionale di Monza","Italy",45.6156,9.28111,"162","STR","Lance","Stroll","Canadian",0,0,0
+981,1,1,95.554,23622,1,"1",1,1,2017,"Italian Grand Prix","N","monza",14,"Autodromo Nazionale di Monza","Italy",45.6156,9.28111,"162","HAM","Lewis","Hamilton","British",-1.47800000000001,1,0
+982,817,3,99.84,23643,3,"2",2,1,2017,"Singapore Grand Prix","Y","marina_bay",15,"Marina Bay Street Circuit","Singapore",1.2914,103.864,"18","RIC","Daniel","Ricciardo","Australian",-0.228999999999985,0,0
+984,817,4,88.306,23684,3,"3",3,1,2017,"Japanese Grand Prix","N","suzuka",22,"Suzuka Circuit","Japan",34.8431,136.541,"45","RIC","Daniel","Ricciardo","Australian",0,0,0
+984,1,1,87.319,23682,1,"1",1,1,2017,"Japanese Grand Prix","N","suzuka",22,"Suzuka Circuit","Japan",34.8431,136.541,"45","HAM","Lewis","Hamilton","British",-0.987000000000009,1,0
+985,822,3,93.568,23706,3,"5",5,1,2017,"United States Grand Prix","N","americas",69,"Circuit of the Americas","USA",30.1328,-97.6411,"161","BOT","Valtteri","Bottas","Finnish",-0.00899999999998613,0,0
+985,20,2,93.347,23703,2,"2",2,1,2017,"United States Grand Prix","N","americas",69,"Circuit of the Americas","USA",30.1328,-97.6411,"161","VET","Sebastian","Vettel","German",-0.22999999999999,0,0
+985,1,1,93.108,23702,1,"1",1,1,2017,"United States Grand Prix","N","americas",69,"Circuit of the Americas","USA",30.1328,-97.6411,"161","HAM","Lewis","Hamilton","British",-0.468999999999994,1,0
+986,1,3,76.934,23730,3,"9",9,11,2017,"Mexican Grand Prix","N","rodriguez",32,"Autódromo Hermanos Rodríguez","Mexico",19.4042,-99.0907,"2227","HAM","Lewis","Hamilton","British",-0.0240000000000009,0,0
+986,830,2,76.574,23722,2,"1",1,1,2017,"Mexican Grand Prix","N","rodriguez",32,"Autódromo Hermanos Rodríguez","Mexico",19.4042,-99.0907,"2227","VER","Max","Verstappen","Dutch",-0.384,1,0
+986,20,1,76.488,23725,1,"4",4,1,2017,"Mexican Grand Prix","N","rodriguez",32,"Autódromo Hermanos Rodríguez","Mexico",19.4042,-99.0907,"2227","VET","Sebastian","Vettel","German",-0.469999999999999,0,0
+987,8,3,68.538,23744,3,"3",3,1,2017,"Brazilian Grand Prix","N","interlagos",18,"Autódromo José Carlos Pace","Brazil",-23.7036,-46.6997,"785","RAI","Kimi","Räikkönen","Finnish",-0.387,0,0
+987,20,2,68.36,23742,2,"1",1,1,2017,"Brazilian Grand Prix","N","interlagos",18,"Autódromo José Carlos Pace","Brazil",-23.7036,-46.6997,"785","VET","Sebastian","Vettel","German",-0.564999999999998,1,0
+987,822,1,68.322,23743,1,"2",2,1,2017,"Brazilian Grand Prix","N","interlagos",18,"Autódromo José Carlos Pace","Brazil",-23.7036,-46.6997,"785","BOT","Valtteri","Bottas","Finnish",-0.602999999999994,0,0
+988,20,3,96.777,23764,3,"3",3,1,2017,"Abu Dhabi Grand Prix","N","yas_marina",24,"Yas Marina Circuit","UAE",24.4672,54.6031,"3","VET","Sebastian","Vettel","German",-0.182000000000016,0,0
+988,1,2,96.403,23763,2,"2",2,1,2017,"Abu Dhabi Grand Prix","N","yas_marina",24,"Yas Marina Circuit","UAE",24.4672,54.6031,"3","HAM","Lewis","Hamilton","British",-0.556000000000012,0,0
+988,822,1,96.231,23762,1,"1",1,1,2017,"Abu Dhabi Grand Prix","N","yas_marina",24,"Yas Marina Circuit","UAE",24.4672,54.6031,"3","BOT","Valtteri","Bottas","Finnish",-0.728000000000009,1,0
+989,20,3,81.838,23782,3,"1",1,1,2018,"Australian Grand Prix","N","albert_park",1,"Albert Park Grand Prix Circuit","Australia",-37.8497,144.968,"10","VET","Sebastian","Vettel","German",-0.041000000000011,1,0
+989,8,2,81.828,23784,2,"3",3,1,2018,"Australian Grand Prix","N","albert_park",1,"Albert Park Grand Prix Circuit","Australia",-37.8497,144.968,"10","RAI","Kimi","Räikkönen","Finnish",-0.0510000000000019,0,0
+989,1,1,81.164,23783,1,"2",2,1,2018,"Australian Grand Prix","N","albert_park",1,"Albert Park Grand Prix Circuit","Australia",-37.8497,144.968,"10","HAM","Lewis","Hamilton","British",-0.715000000000003,0,0
+990,822,3,88.124,23803,3,"2",2,1,2018,"Bahrain Grand Prix","N","bahrain",3,"Bahrain International Circuit","Bahrain",26.0325,50.5106,"7","BOT","Valtteri","Bottas","Finnish",-0.0960000000000036,0,0
+990,20,1,87.958,23802,1,"1",1,1,2018,"Bahrain Grand Prix","N","bahrain",3,"Bahrain International Circuit","Bahrain",26.0325,50.5106,"7","VET","Sebastian","Vettel","German",-0.262,1,0
+992,1,2,101.677,23842,2,"1",1,1,2018,"Azerbaijan Grand Prix","N","BAK",73,"Baku City Circuit","Azerbaijan",40.3725,49.8533,"-7","HAM","Lewis","Hamilton","British",-0.234000000000009,1,0
+992,20,1,101.498,23845,1,"4",4,1,2018,"Azerbaijan Grand Prix","N","BAK",73,"Baku City Circuit","Azerbaijan",40.3725,49.8533,"-7","VET","Sebastian","Vettel","German",-0.413000000000011,0,0
+993,20,3,76.305,23865,3,"4",4,1,2018,"Spanish Grand Prix","N","catalunya",4,"Circuit de Barcelona-Catalunya","Spain",41.57,2.26111,"109","VET","Sebastian","Vettel","German",-0.306999999999988,0,0
+993,822,2,76.213,23863,2,"2",2,1,2018,"Spanish Grand Prix","N","catalunya",4,"Circuit de Barcelona-Catalunya","Spain",41.57,2.26111,"109","BOT","Valtteri","Bottas","Finnish",-0.399000000000001,0,0
+993,1,1,76.173,23862,1,"1",1,1,2018,"Spanish Grand Prix","N","catalunya",4,"Circuit de Barcelona-Catalunya","Spain",41.57,2.26111,"109","HAM","Lewis","Hamilton","British",-0.438999999999993,1,0
+994,1,3,71.232,23884,3,"3",3,1,2018,"Monaco Grand Prix","N","monaco",6,"Circuit de Monaco","Monaco",43.7347,7.42056,"7","HAM","Lewis","Hamilton","British",-0.034000000000006,0,0
+994,20,2,71.039,23883,2,"2",2,1,2018,"Monaco Grand Prix","N","monaco",6,"Circuit de Monaco","Monaco",43.7347,7.42056,"7","VET","Sebastian","Vettel","German",-0.227000000000004,0,0
+994,817,1,70.81,23882,1,"1",1,1,2018,"Monaco Grand Prix","N","monaco",6,"Circuit de Monaco","Monaco",43.7347,7.42056,"7","RIC","Daniel","Ricciardo","Australian",-0.456000000000003,1,0
+995,830,3,70.937,23904,3,"3",3,1,2018,"Canadian Grand Prix","N","villeneuve",7,"Circuit Gilles Villeneuve","Canada",45.5,-73.5228,"13","VER","Max","Verstappen","Dutch",-0.0589999999999975,0,0
+995,822,2,70.857,23903,2,"2",2,1,2018,"Canadian Grand Prix","N","villeneuve",7,"Circuit Gilles Villeneuve","Canada",45.5,-73.5228,"13","BOT","Valtteri","Bottas","Finnish",-0.138999999999996,0,0
+995,20,1,70.764,23902,1,"1",1,1,2018,"Canadian Grand Prix","N","villeneuve",7,"Circuit Gilles Villeneuve","Canada",45.5,-73.5228,"13","VET","Sebastian","Vettel","German",-0.231999999999999,1,0
+996,20,3,90.4,23926,3,"5",5,1,2018,"French Grand Prix","N","ricard",34,"Circuit Paul Ricard","France",43.2506,5.79167,"432","VET","Sebastian","Vettel","German",-0.305000000000007,0,0
+996,822,2,90.147,23928,2,"7",7,1,2018,"French Grand Prix","N","ricard",34,"Circuit Paul Ricard","France",43.2506,5.79167,"432","BOT","Valtteri","Bottas","Finnish",-0.558000000000021,0,0
+996,1,1,90.029,23922,1,"1",1,1,2018,"French Grand Prix","N","ricard",34,"Circuit Paul Ricard","France",43.2506,5.79167,"432","HAM","Lewis","Hamilton","British",-0.676000000000016,1,0
+997,8,4,63.66,23943,3,"2",2,1,2018,"Austrian Grand Prix","N","red_bull_ring",70,"Red Bull Ring","Austria",47.2197,14.7647,"678","RAI","Kimi","Räikkönen","Finnish",0,0,0
+998,8,3,85.99,23964,3,"3",3,1,2018,"British Grand Prix","N","silverstone",9,"Silverstone Circuit","UK",52.0786,-1.01694,"153","RAI","Kimi","Räikkönen","Finnish",-0.227000000000004,0,0
+998,20,2,85.936,23962,2,"1",1,1,2018,"British Grand Prix","N","silverstone",9,"Silverstone Circuit","UK",52.0786,-1.01694,"153","VET","Sebastian","Vettel","German",-0.280999999999992,1,0
+998,1,1,85.892,23963,1,"2",2,1,2018,"British Grand Prix","N","silverstone",9,"Silverstone Circuit","UK",52.0786,-1.01694,"153","HAM","Lewis","Hamilton","British",-0.325000000000003,0,0
+999,8,3,71.547,23985,3,"3",3,1,2018,"German Grand Prix","Y","hockenheimring",10,"Hockenheimring","Germany",49.3278,8.56583,"103","RAI","Kimi","Räikkönen","Finnish",-0.275000000000006,0,0
+999,822,2,71.416,23984,2,"2",2,1,2018,"German Grand Prix","Y","hockenheimring",10,"Hockenheimring","Germany",49.3278,8.56583,"103","BOT","Valtteri","Bottas","Finnish",-0.406000000000006,0,0
+1000,8,3,96.186,24005,3,"3",3,1,2018,"Hungarian Grand Prix","N","hungaroring",11,"Hungaroring","Hungary",47.5789,19.2486,"264","RAI","Kimi","Räikkönen","Finnish",-0.0240000000000009,0,0
+1000,822,2,95.918,24007,2,"5",5,1,2018,"Hungarian Grand Prix","N","hungaroring",11,"Hungaroring","Hungary",47.5789,19.2486,"264","BOT","Valtteri","Bottas","Finnish",-0.292000000000002,0,0
+1000,1,1,95.658,24003,1,"1",1,1,2018,"Hungarian Grand Prix","N","hungaroring",11,"Hungaroring","Hungary",47.5789,19.2486,"264","HAM","Lewis","Hamilton","British",-0.552000000000021,1,0
+1001,839,3,121.851,24028,3,"6",6,1,2018,"Belgian Grand Prix","N","spa",13,"Circuit de Spa-Francorchamps","Belgium",50.4372,5.97139,"401","OCO","Esteban","Ocon","French",-0.0430000000000064,0,0
+1001,20,2,118.905,24023,2,"1",1,1,2018,"Belgian Grand Prix","N","spa",13,"Circuit de Spa-Francorchamps","Belgium",50.4372,5.97139,"401","VET","Sebastian","Vettel","German",-2.989,1,0
+1001,1,1,118.179,24024,1,"2",2,1,2018,"Belgian Grand Prix","N","spa",13,"Circuit de Spa-Francorchamps","Belgium",50.4372,5.97139,"401","HAM","Lewis","Hamilton","British",-3.715,0,0
+1002,1,3,79.294,24043,3,"1",1,1,2018,"Italian Grand Prix","N","monza",14,"Autodromo Nazionale di Monza","Italy",45.6156,9.28111,"162","HAM","Lewis","Hamilton","British",-0.362000000000009,1,0
+1002,20,2,79.28,24046,2,"4",4,1,2018,"Italian Grand Prix","N","monza",14,"Autodromo Nazionale di Monza","Italy",45.6156,9.28111,"162","VET","Sebastian","Vettel","German",-0.376000000000005,0,0
+1002,8,1,79.119,24044,1,"2",2,1,2018,"Italian Grand Prix","N","monza",14,"Autodromo Nazionale di Monza","Italy",45.6156,9.28111,"162","RAI","Kimi","Räikkönen","Finnish",-0.537000000000006,0,0
+1003,20,3,96.628,24065,3,"3",3,1,2018,"Singapore Grand Prix","N","marina_bay",15,"Marina Bay Street Circuit","Singapore",1.2914,103.864,"18","VET","Sebastian","Vettel","German",-0.0740000000000123,0,0
+1003,830,2,96.334,24064,2,"2",2,1,2018,"Singapore Grand Prix","N","marina_bay",15,"Marina Bay Street Circuit","Singapore",1.2914,103.864,"18","VER","Max","Verstappen","Dutch",-0.367999999999995,0,0
+1003,1,1,96.015,24063,1,"1",1,1,2018,"Singapore Grand Prix","N","marina_bay",15,"Marina Bay Street Circuit","Singapore",1.2914,103.864,"18","HAM","Lewis","Hamilton","British",-0.687000000000012,1,0
+1004,20,3,91.943,24085,3,"3",3,1,2018,"Russian Grand Prix","N","sochi",71,"Sochi Autodrom","Russia",43.4057,39.9578,"2","VET","Sebastian","Vettel","German",-0.293999999999983,0,0
+1004,1,2,91.532,24083,2,"1",1,1,2018,"Russian Grand Prix","N","sochi",71,"Sochi Autodrom","Russia",43.4057,39.9578,"2","HAM","Lewis","Hamilton","British",-0.704999999999984,1,0
+1004,822,1,91.387,24084,1,"2",2,1,2018,"Russian Grand Prix","N","sochi",71,"Sochi Autodrom","Russia",43.4057,39.9578,"2","BOT","Valtteri","Bottas","Finnish",-0.849999999999994,0,0
+1005,830,3,89.057,24105,3,"3",3,1,2018,"Japanese Grand Prix","N","suzuka",22,"Suzuka Circuit","Japan",34.8431,136.541,"45","VER","Max","Verstappen","Dutch",-0.463999999999999,0,0
+1005,822,2,88.059,24104,2,"2",2,1,2018,"Japanese Grand Prix","N","suzuka",22,"Suzuka Circuit","Japan",34.8431,136.541,"45","BOT","Valtteri","Bottas","Finnish",-1.46199999999999,0,0
+1005,1,1,87.76,24103,1,"1",1,1,2018,"Japanese Grand Prix","N","suzuka",22,"Suzuka Circuit","Japan",34.8431,136.541,"45","HAM","Lewis","Hamilton","British",-1.76099999999998,1,0
+1006,822,4,92.616,24127,3,"5",5,1,2018,"United States Grand Prix","N","americas",69,"Circuit of the Americas","USA",30.1328,-97.6411,"161","BOT","Valtteri","Bottas","Finnish",0,0,0
+1006,8,3,92.307,24123,2,"1",1,1,2018,"United States Grand Prix","N","americas",69,"Circuit of the Americas","USA",30.1328,-97.6411,"161","RAI","Kimi","Räikkönen","Finnish",-0.309000000000026,1,0
+1006,1,1,92.237,24125,1,"3",3,1,2018,"United States Grand Prix","N","americas",69,"Circuit of the Americas","USA",30.1328,-97.6411,"161","HAM","Lewis","Hamilton","British",-0.379000000000019,0,0
+1007,1,3,74.894,24146,3,"4",4,1,2018,"Mexican Grand Prix","N","rodriguez",32,"Autódromo Hermanos Rodríguez","Mexico",19.4042,-99.0907,"2227","HAM","Lewis","Hamilton","British",-0.0759999999999934,0,0
+1007,830,2,74.785,24143,2,"1",1,1,2018,"Mexican Grand Prix","N","rodriguez",32,"Autódromo Hermanos Rodríguez","Mexico",19.4042,-99.0907,"2227","VER","Max","Verstappen","Dutch",-0.185000000000002,1,0
+1009,20,3,95.125,24184,3,"2",2,1,2018,"Abu Dhabi Grand Prix","N","yas_marina",24,"Yas Marina Circuit","UAE",24.4672,54.6031,"3","VET","Sebastian","Vettel","German",-0.240000000000009,0,0
+1009,822,2,94.956,24187,2,"5",5,1,2018,"Abu Dhabi Grand Prix","N","yas_marina",24,"Yas Marina Circuit","UAE",24.4672,54.6031,"3","BOT","Valtteri","Bottas","Finnish",-0.40900000000002,0,0
+1009,1,1,94.794,24183,1,"1",1,1,2018,"Abu Dhabi Grand Prix","N","yas_marina",24,"Yas Marina Circuit","UAE",24.4672,54.6031,"3","HAM","Lewis","Hamilton","British",-0.570999999999998,1,0
+1010,20,3,81.19,24206,3,"4",4,1,2019,"Australian Grand Prix","N","albert_park",1,"Albert Park Grand Prix Circuit","Australia",-37.8497,144.968,"10","VET","Sebastian","Vettel","German",-0.129999999999995,0,0
+1010,822,2,80.598,24203,2,"1",1,1,2019,"Australian Grand Prix","N","albert_park",1,"Albert Park Grand Prix Circuit","Australia",-37.8497,144.968,"10","BOT","Valtteri","Bottas","Finnish",-0.721999999999994,1,0
+1010,1,1,80.486,24204,1,"2",2,1,2019,"Australian Grand Prix","N","albert_park",1,"Albert Park Grand Prix Circuit","Australia",-37.8497,144.968,"10","HAM","Lewis","Hamilton","British",-0.833999999999989,0,0
+1011,1,3,88.19,24223,3,"1",1,1,2019,"Bahrain Grand Prix","N","bahrain",3,"Bahrain International Circuit","Bahrain",26.0325,50.5106,"7","HAM","Lewis","Hamilton","British",-0.0660000000000025,1,0
+1011,20,2,88.16,24227,2,"5",5,1,2019,"Bahrain Grand Prix","N","bahrain",3,"Bahrain International Circuit","Bahrain",26.0325,50.5106,"7","VET","Sebastian","Vettel","German",-0.0960000000000036,0,0
+1011,844,1,87.866,24225,1,"3",3,1,2019,"Bahrain Grand Prix","N","bahrain",3,"Bahrain International Circuit","Bahrain",26.0325,50.5106,"7","LEC","Charles","Leclerc","Monegasque",-0.390000000000001,0,0
+1012,20,3,91.848,24245,3,"3",3,1,2019,"Chinese Grand Prix","N","shanghai",17,"Shanghai International Circuit","China",31.3389,121.22,"5","VET","Sebastian","Vettel","German",-0.0169999999999959,0,0
+1012,1,2,91.57,24243,2,"1",1,1,2019,"Chinese Grand Prix","N","shanghai",17,"Shanghai International Circuit","China",31.3389,121.22,"5","HAM","Lewis","Hamilton","British",-0.295000000000016,1,0
+1012,822,1,91.547,24244,1,"2",2,1,2019,"Chinese Grand Prix","N","shanghai",17,"Shanghai International Circuit","China",31.3389,121.22,"5","BOT","Valtteri","Bottas","Finnish",-0.318000000000012,0,0
+1013,20,3,100.797,24265,3,"3",3,1,2019,"Azerbaijan Grand Prix","N","BAK",73,"Baku City Circuit","Azerbaijan",40.3725,49.8533,"-7","VET","Sebastian","Vettel","German",-0.271999999999991,0,0
+1013,1,2,100.554,24264,2,"2",2,1,2019,"Azerbaijan Grand Prix","N","BAK",73,"Baku City Circuit","Azerbaijan",40.3725,49.8533,"-7","HAM","Lewis","Hamilton","British",-0.514999999999986,0,0
+1013,822,1,100.495,24263,1,"1",1,1,2019,"Azerbaijan Grand Prix","N","BAK",73,"Baku City Circuit","Azerbaijan",40.3725,49.8533,"-7","BOT","Valtteri","Bottas","Finnish",-0.573999999999984,1,0
+1014,20,3,76.272,24286,3,"4",4,1,2019,"Spanish Grand Prix","N","catalunya",4,"Circuit de Barcelona-Catalunya","Spain",41.57,2.26111,"109","VET","Sebastian","Vettel","German",-0.0849999999999937,0,0
+1014,1,2,76.04,24283,2,"1",1,1,2019,"Spanish Grand Prix","N","catalunya",4,"Circuit de Barcelona-Catalunya","Spain",41.57,2.26111,"109","HAM","Lewis","Hamilton","British",-0.316999999999993,1,0
+1014,822,1,75.406,24284,1,"2",2,1,2019,"Spanish Grand Prix","N","catalunya",4,"Circuit de Barcelona-Catalunya","Spain",41.57,2.26111,"109","BOT","Valtteri","Bottas","Finnish",-0.950999999999993,0,0
+1015,830,3,70.641,24309,3,"4",4,1,2019,"Monaco Grand Prix","N","monaco",6,"Circuit de Monaco","Monaco",43.7347,7.42056,"7","VER","Max","Verstappen","Dutch",-0.305999999999997,0,0
+1015,822,2,70.252,24308,2,"3",3,1,2019,"Monaco Grand Prix","N","monaco",6,"Circuit de Monaco","Monaco",43.7347,7.42056,"7","BOT","Valtteri","Bottas","Finnish",-0.695000000000007,0,0
+1015,1,1,70.166,24306,1,"1",1,1,2019,"Monaco Grand Prix","N","monaco",6,"Circuit de Monaco","Monaco",43.7347,7.42056,"7","HAM","Lewis","Hamilton","British",-0.781000000000006,1,0
+1016,844,3,70.92,24328,3,"3",3,1,2019,"Canadian Grand Prix","N","villeneuve",7,"Circuit Gilles Villeneuve","Canada",45.5,-73.5228,"13","LEC","Charles","Leclerc","Monegasque",-0.150999999999996,0,0
+1016,1,2,70.446,24326,2,"1",1,1,2019,"Canadian Grand Prix","N","villeneuve",7,"Circuit Gilles Villeneuve","Canada",45.5,-73.5228,"13","HAM","Lewis","Hamilton","British",-0.625,1,0
+1016,20,1,70.24,24327,1,"2",2,1,2019,"Canadian Grand Prix","N","villeneuve",7,"Circuit Gilles Villeneuve","Canada",45.5,-73.5228,"13","VET","Sebastian","Vettel","German",-0.831000000000003,0,0
+1020,830,2,72.113,24406,2,"1",1,1,2019,"German Grand Prix","Y","hockenheimring",10,"Hockenheimring","Germany",49.3278,8.56583,"103","VER","Max","Verstappen","Dutch",-0.409000000000006,1,0
+1020,1,1,71.767,24414,1,"9",9,1,2019,"German Grand Prix","Y","hockenheimring",10,"Hockenheimring","Germany",49.3278,8.56583,"103","HAM","Lewis","Hamilton","British",-0.75500000000001,0,0
+1022,1,3,103.282,24447,3,"2",2,1,2019,"Belgian Grand Prix","N","spa",13,"Circuit de Spa-Francorchamps","Belgium",50.4372,5.97139,"401","HAM","Lewis","Hamilton","British",-0.132999999999981,0,0
+1022,20,2,103.267,24449,2,"4",4,1,2019,"Belgian Grand Prix","N","spa",13,"Circuit de Spa-Francorchamps","Belgium",50.4372,5.97139,"401","VET","Sebastian","Vettel","German",-0.147999999999996,0,0
+1022,844,1,102.519,24446,1,"1",1,1,2019,"Belgian Grand Prix","N","spa",13,"Circuit de Spa-Francorchamps","Belgium",50.4372,5.97139,"401","LEC","Charles","Leclerc","Monegasque",-0.895999999999987,1,0
+1023,822,3,79.354,24467,3,"2",2,1,2019,"Italian Grand Prix","N","monza",14,"Autodromo Nazionale di Monza","Italy",45.6156,9.28111,"162","BOT","Valtteri","Bottas","Finnish",-0.102999999999994,0,0
+1023,1,2,79.346,24468,2,"3",3,1,2019,"Italian Grand Prix","N","monza",14,"Autodromo Nazionale di Monza","Italy",45.6156,9.28111,"162","HAM","Lewis","Hamilton","British",-0.11099999999999,0,0
+1023,844,1,79.307,24466,1,"1",1,1,2019,"Italian Grand Prix","N","monza",14,"Autodromo Nazionale di Monza","Italy",45.6156,9.28111,"162","LEC","Charles","Leclerc","Monegasque",-0.149999999999991,1,0
+1024,20,3,96.437,24486,3,"1",1,1,2019,"Singapore Grand Prix","N","marina_bay",15,"Marina Bay Street Circuit","Singapore",1.2914,103.864,"18","VET","Sebastian","Vettel","German",-0.375999999999976,1,0
+1024,1,2,96.408,24489,2,"4",4,1,2019,"Singapore Grand Prix","N","marina_bay",15,"Marina Bay Street Circuit","Singapore",1.2914,103.864,"18","HAM","Lewis","Hamilton","British",-0.405000000000001,0,0
+1024,844,1,96.217,24487,1,"2",2,1,2019,"Singapore Grand Prix","N","marina_bay",15,"Marina Bay Street Circuit","Singapore",1.2914,103.864,"18","LEC","Charles","Leclerc","Monegasque",-0.595999999999975,0,0
+1025,1,2,92.03,24506,2,"1",1,1,2019,"Russian Grand Prix","N","sochi",71,"Sochi Autodrom","Russia",43.4057,39.9578,"2","HAM","Lewis","Hamilton","British",-0.280000000000001,1,0
+1025,844,1,91.628,24508,1,"3",3,1,2019,"Russian Grand Prix","N","sochi",71,"Sochi Autodrom","Russia",43.4057,39.9578,"2","LEC","Charles","Leclerc","Monegasque",-0.682000000000016,0,0
+1026,822,3,87.293,24526,3,"1",1,1,2019,"Japanese Grand Prix","N","suzuka",22,"Suzuka Circuit","Japan",34.8431,136.541,"45","BOT","Valtteri","Bottas","Finnish",-0.00900000000000034,1,0
+1026,844,2,87.253,24531,2,"6",6,11,2019,"Japanese Grand Prix","N","suzuka",22,"Suzuka Circuit","Japan",34.8431,136.541,"45","LEC","Charles","Leclerc","Monegasque",-0.0490000000000066,0,0
+1026,20,1,87.064,24527,1,"2",2,1,2019,"Japanese Grand Prix","N","suzuka",22,"Suzuka Circuit","Japan",34.8431,136.541,"45","VET","Sebastian","Vettel","German",-0.238000000000014,0,0
+1027,1,4,75.262,24546,3,"1",1,1,2019,"Mexican Grand Prix","N","rodriguez",32,"Autódromo Hermanos Rodríguez","Mexico",19.4042,-99.0907,"2227","HAM","Lewis","Hamilton","British",0,1,0
+1027,20,3,75.17,24547,2,"2",2,1,2019,"Mexican Grand Prix","N","rodriguez",32,"Autódromo Hermanos Rodríguez","Mexico",19.4042,-99.0907,"2227","VET","Sebastian","Vettel","German",-0.0919999999999987,0,0
+1027,844,2,75.024,24549,1,"4",4,1,2019,"Mexican Grand Prix","N","rodriguez",32,"Autódromo Hermanos Rodríguez","Mexico",19.4042,-99.0907,"2227","LEC","Charles","Leclerc","Monegasque",-0.238,0,0
+1028,830,3,92.096,24568,3,"3",3,1,2019,"United States Grand Prix","N","americas",69,"Circuit of the Americas","USA",30.1328,-97.6411,"161","VER","Max","Verstappen","Dutch",-0.0409999999999968,0,0
+1028,822,1,92.029,24566,1,"1",1,1,2019,"United States Grand Prix","N","americas",69,"Circuit of the Americas","USA",30.1328,-97.6411,"161","BOT","Valtteri","Bottas","Finnish",-0.108000000000004,1,0
+1029,1,3,67.699,24592,3,"7",7,1,2019,"Brazilian Grand Prix","N","interlagos",18,"Autódromo José Carlos Pace","Brazil",-23.7036,-46.6997,"785","HAM","Lewis","Hamilton","British",-0.0289999999999964,0,0
+1029,20,2,67.631,24602,2,"17",17,4,2019,"Brazilian Grand Prix","N","interlagos",18,"Autódromo José Carlos Pace","Brazil",-23.7036,-46.6997,"785","VET","Sebastian","Vettel","German",-0.0969999999999942,0,0
+1029,830,1,67.508,24586,1,"1",1,1,2019,"Brazilian Grand Prix","N","interlagos",18,"Autódromo José Carlos Pace","Brazil",-23.7036,-46.6997,"785","VER","Max","Verstappen","Dutch",-0.219999999999999,1,0
+1030,844,4,95.219,24608,3,"3",3,1,2019,"Abu Dhabi Grand Prix","N","yas_marina",24,"Yas Marina Circuit","UAE",24.4672,54.6031,"3","LEC","Charles","Leclerc","Monegasque",0,0,0
+1030,830,3,95.139,24607,2,"2",2,1,2019,"Abu Dhabi Grand Prix","N","yas_marina",24,"Yas Marina Circuit","UAE",24.4672,54.6031,"3","VER","Max","Verstappen","Dutch",-0.0799999999999841,0,0
+1030,1,1,94.779,24606,1,"1",1,1,2019,"Abu Dhabi Grand Prix","N","yas_marina",24,"Yas Marina Circuit","UAE",24.4672,54.6031,"3","HAM","Lewis","Hamilton","British",-0.439999999999998,1,0
+1031,846,4,63.626,24628,3,"3",3,1,2020,"Austrian Grand Prix","N","red_bull_ring",70,"Red Bull Ring","Austria",47.2197,14.7647,"678","NOR","Lando","Norris","British",0,0,0
+1031,822,1,62.939,24626,1,"1",1,1,2020,"Austrian Grand Prix","N","red_bull_ring",70,"Red Bull Ring","Austria",47.2197,14.7647,"678","BOT","Valtteri","Bottas","Finnish",-0.687000000000012,1,0
+1032,832,3,80.671,24654,3,"9",9,11,2020,"Styrian Grand Prix","N","red_bull_ring",70,"Red Bull Ring","Austria",47.2197,14.7647,"678","SAI","Carlos","Sainz","Spanish",-0.0299999999999869,0,0
+1032,830,2,80.489,24648,2,"3",3,1,2020,"Styrian Grand Prix","N","red_bull_ring",70,"Red Bull Ring","Austria",47.2197,14.7647,"678","VER","Max","Verstappen","Dutch",-0.211999999999989,0,0
+1032,1,1,79.273,24646,1,"1",1,1,2020,"Styrian Grand Prix","N","red_bull_ring",70,"Red Bull Ring","Austria",47.2197,14.7647,"678","HAM","Lewis","Hamilton","British",-1.428,1,0
+1033,840,3,74.377,24669,3,"4",4,1,2020,"Hungarian Grand Prix","Y","hungaroring",11,"Hungaroring","Hungary",47.5789,19.2486,"264","STR","Lance","Stroll","Canadian",-0.168000000000006,0,0
+1033,822,2,73.554,24668,2,"3",3,1,2020,"Hungarian Grand Prix","Y","hungaroring",11,"Hungaroring","Hungary",47.5789,19.2486,"264","BOT","Valtteri","Bottas","Finnish",-0.991,0,0
+1033,1,1,73.447,24666,1,"1",1,1,2020,"Hungarian Grand Prix","Y","hungaroring",11,"Hungaroring","Hungary",47.5789,19.2486,"264","HAM","Lewis","Hamilton","British",-1.098,1,0
+1034,830,3,85.325,24687,3,"2",2,1,2020,"British Grand Prix","N","silverstone",9,"Silverstone Circuit","UK",52.0786,-1.01694,"153","VER","Max","Verstappen","Dutch",-0.102000000000004,0,0
+1034,822,2,84.616,24696,2,"11",11,1,2020,"British Grand Prix","N","silverstone",9,"Silverstone Circuit","UK",52.0786,-1.01694,"153","BOT","Valtteri","Bottas","Finnish",-0.811000000000007,0,0
+1034,1,1,84.303,24686,1,"1",1,1,2020,"British Grand Prix","N","silverstone",9,"Silverstone Circuit","UK",52.0786,-1.01694,"153","HAM","Lewis","Hamilton","British",-1.12400000000001,1,0
+1035,807,3,86.082,24712,3,"7",7,1,2020,"70th Anniversary Grand Prix","N","silverstone",9,"Silverstone Circuit","UK",52.0786,-1.01694,"153","HUL","Nico","Hülkenberg","German",-0.0940000000000083,0,0
+1035,1,2,85.217,24707,2,"2",2,1,2020,"70th Anniversary Grand Prix","N","silverstone",9,"Silverstone Circuit","UK",52.0786,-1.01694,"153","HAM","Lewis","Hamilton","British",-0.959000000000003,0,0
+1035,822,1,85.154,24708,1,"3",3,1,2020,"70th Anniversary Grand Prix","N","silverstone",9,"Silverstone Circuit","UK",52.0786,-1.01694,"153","BOT","Valtteri","Bottas","Finnish",-1.02200000000001,0,0
+1036,830,3,76.292,24727,3,"2",2,1,2020,"Spanish Grand Prix","N","catalunya",4,"Circuit de Barcelona-Catalunya","Spain",41.57,2.26111,"109","VER","Max","Verstappen","Dutch",-0.189999999999998,0,0
+1036,822,2,75.643,24728,2,"3",3,1,2020,"Spanish Grand Prix","N","catalunya",4,"Circuit de Barcelona-Catalunya","Spain",41.57,2.26111,"109","BOT","Valtteri","Bottas","Finnish",-0.838999999999999,0,0
+1036,1,1,75.584,24726,1,"1",1,1,2020,"Spanish Grand Prix","N","catalunya",4,"Circuit de Barcelona-Catalunya","Spain",41.57,2.26111,"109","HAM","Lewis","Hamilton","British",-0.897999999999996,1,0
+1037,830,3,101.778,24748,3,"3",3,1,2020,"Belgian Grand Prix","N","spa",13,"Circuit de Spa-Francorchamps","Belgium",50.4372,5.97139,"401","VER","Max","Verstappen","Dutch",-0.283000000000015,0,0
+1037,822,2,101.763,24747,2,"2",2,1,2020,"Belgian Grand Prix","N","spa",13,"Circuit de Spa-Francorchamps","Belgium",50.4372,5.97139,"401","BOT","Valtteri","Bottas","Finnish",-0.298000000000002,0,0
+1037,1,1,101.252,24746,1,"1",1,1,2020,"Belgian Grand Prix","N","spa",13,"Circuit de Spa-Francorchamps","Belgium",50.4372,5.97139,"401","HAM","Lewis","Hamilton","British",-0.808999999999997,1,0
+1038,832,3,79.695,24767,3,"2",2,1,2020,"Italian Grand Prix","N","monza",14,"Autodromo Nazionale di Monza","Italy",45.6156,9.28111,"162","SAI","Carlos","Sainz","Spanish",-0.0250000000000057,0,0
+1038,822,2,78.956,24770,2,"5",5,1,2020,"Italian Grand Prix","N","monza",14,"Autodromo Nazionale di Monza","Italy",45.6156,9.28111,"162","BOT","Valtteri","Bottas","Finnish",-0.763999999999996,0,0
+1038,1,1,78.887,24772,1,"7",7,1,2020,"Italian Grand Prix","N","monza",14,"Autodromo Nazionale di Monza","Italy",45.6156,9.28111,"162","HAM","Lewis","Hamilton","British",-0.832999999999998,0,0
+1039,822,2,75.203,24787,2,"2",2,1,2020,"Tuscan Grand Prix","N","mugello",76,"Autodromo Internazionale del Mugello","Italy",43.9975,11.3719,"255","BOT","Valtteri","Bottas","Finnish",-0.750999999999991,0,0
+1039,1,1,75.144,24786,1,"1",1,1,2020,"Tuscan Grand Prix","N","mugello",76,"Autodromo Internazionale del Mugello","Italy",43.9975,11.3719,"255","HAM","Lewis","Hamilton","British",-0.809999999999988,1,0
+1040,822,3,91.956,24806,3,"1",1,1,2020,"Russian Grand Prix","N","sochi",71,"Sochi Autodrom","Russia",43.4057,39.9578,"2","BOT","Valtteri","Bottas","Finnish",-0.361000000000018,1,0
+1040,830,2,91.867,24807,2,"2",2,1,2020,"Russian Grand Prix","N","sochi",71,"Sochi Autodrom","Russia",43.4057,39.9578,"2","VER","Max","Verstappen","Dutch",-0.450000000000017,0,0
+1040,1,1,91.304,24808,1,"3",3,1,2020,"Russian Grand Prix","N","sochi",71,"Sochi Autodrom","Russia",43.4057,39.9578,"2","HAM","Lewis","Hamilton","British",-1.01300000000001,0,0
+1041,830,3,85.562,24827,3,"2",2,1,2020,"Eifel Grand Prix","N","nurburgring",20,"Nürburgring","Germany",50.3356,6.9475,"578","VER","Max","Verstappen","Dutch",-0.472999999999999,0,0
+1041,1,2,85.525,24826,2,"1",1,1,2020,"Eifel Grand Prix","N","nurburgring",20,"Nürburgring","Germany",50.3356,6.9475,"578","HAM","Lewis","Hamilton","British",-0.509999999999991,1,0
+1042,830,3,76.904,24848,3,"3",3,1,2020,"Portuguese Grand Prix","N","portimao",75,"Autódromo Internacional do Algarve","Portugal",37.227,-8.6267,"108","VER","Max","Verstappen","Dutch",-0.186000000000007,0,0
+1042,822,2,76.754,24847,2,"2",2,1,2020,"Portuguese Grand Prix","N","portimao",75,"Autódromo Internacional do Algarve","Portugal",37.227,-8.6267,"108","BOT","Valtteri","Bottas","Finnish",-0.335999999999999,0,0
+1042,1,1,76.652,24846,1,"1",1,1,2020,"Portuguese Grand Prix","N","portimao",75,"Autódromo Internacional do Algarve","Portugal",37.227,-8.6267,"108","HAM","Lewis","Hamilton","British",-0.438000000000002,1,0
+1043,1,2,73.706,24866,2,"1",1,1,2020,"Emilia Romagna Grand Prix","N","imola",21,"Autodromo Enzo e Dino Ferrari","Italy",44.3439,11.7167,"37","HAM","Lewis","Hamilton","British",-0.795999999999992,1,0
+1043,822,1,73.609,24867,1,"2",2,1,2020,"Emilia Romagna Grand Prix","N","imola",21,"Autodromo Enzo e Dino Ferrari","Italy",44.3439,11.7167,"37","BOT","Valtteri","Bottas","Finnish",-0.893000000000001,0,0
+1044,815,3,109.321,24887,3,"2",2,1,2020,"Turkish Grand Prix","Y","istanbul",5,"Istanbul Park","Turkey",40.9517,29.405,"130","PER","Sergio","Pérez","Mexican",-1.12700000000001,0,0
+1044,830,2,108.055,24891,2,"6",6,1,2020,"Turkish Grand Prix","Y","istanbul",5,"Istanbul Park","Turkey",40.9517,29.405,"130","VER","Max","Verstappen","Dutch",-2.393,0,0
+1044,840,1,107.765,24894,1,"9",9,1,2020,"Turkish Grand Prix","Y","istanbul",5,"Istanbul Park","Turkey",40.9517,29.405,"130","STR","Lance","Stroll","Canadian",-2.68300000000002,0,0
+1045,830,3,87.678,24907,3,"2",2,1,2020,"Bahrain Grand Prix","N","bahrain",3,"Bahrain International Circuit","Bahrain",26.0325,50.5106,"7","VER","Max","Verstappen","Dutch",-0.596000000000004,0,0
+1045,822,2,87.553,24913,2,"8",8,1,2020,"Bahrain Grand Prix","N","bahrain",3,"Bahrain International Circuit","Bahrain",26.0325,50.5106,"7","BOT","Valtteri","Bottas","Finnish",-0.721000000000004,0,0
+1045,1,1,87.264,24906,1,"1",1,1,2020,"Bahrain Grand Prix","N","bahrain",3,"Bahrain International Circuit","Bahrain",26.0325,50.5106,"7","HAM","Lewis","Hamilton","British",-1.01000000000001,1,0
+1046,847,2,53.403,24934,2,"9",9,1,2020,"Sakhir Grand Prix","N","bahrain",3,"Bahrain International Circuit","Bahrain",26.0325,50.5106,"7","RUS","George","Russell","British",-0.210000000000001,0,0
+1046,822,1,53.377,24933,1,"8",8,1,2020,"Sakhir Grand Prix","N","bahrain",3,"Bahrain International Circuit","Bahrain",26.0325,50.5106,"7","BOT","Valtteri","Bottas","Finnish",-0.235999999999997,0,0
+1047,1,3,95.332,24948,3,"3",3,1,2020,"Abu Dhabi Grand Prix","N","yas_marina",24,"Yas Marina Circuit","UAE",24.4672,54.6031,"3","HAM","Lewis","Hamilton","British",-0.16500000000002,0,0
+1047,822,2,95.271,24947,2,"2",2,1,2020,"Abu Dhabi Grand Prix","N","yas_marina",24,"Yas Marina Circuit","UAE",24.4672,54.6031,"3","BOT","Valtteri","Bottas","Finnish",-0.226000000000028,0,0
+1047,830,1,95.246,24946,1,"1",1,1,2020,"Abu Dhabi Grand Prix","N","yas_marina",24,"Yas Marina Circuit","UAE",24.4672,54.6031,"3","VER","Max","Verstappen","Dutch",-0.251000000000005,1,0
+1051,842,4,81.64,25356,2,"11",11,11,2021,"Qatar Grand Prix","N","losail",78,"Losail International Circuit","Qatar",25.49,51.4542,"\N","GAS","Pierre","Gasly","French",0,0,0
+1051,1,1,80.827,25346,1,"1",1,1,2021,"Qatar Grand Prix","N","losail",78,"Losail International Circuit","Qatar",25.49,51.4542,"\N","HAM","Lewis","Hamilton","British",-0.813000000000002,1,0
+1052,822,3,89.586,24968,3,"3",3,1,2021,"Bahrain Grand Prix","N","bahrain",3,"Bahrain International Circuit","Bahrain",26.0325,50.5106,"7","BOT","Valtteri","Bottas","Finnish",-0.0919999999999845,0,0
+1052,1,2,89.385,24966,2,"1",1,1,2021,"Bahrain Grand Prix","N","bahrain",3,"Bahrain International Circuit","Bahrain",26.0325,50.5106,"7","HAM","Lewis","Hamilton","British",-0.293000000000006,1,0
+1052,830,1,88.997,24967,1,"2",2,1,2021,"Bahrain Grand Prix","N","bahrain",3,"Bahrain International Circuit","Bahrain",26.0325,50.5106,"7","VER","Max","Verstappen","Dutch",-0.680999999999983,0,0
+1053,830,3,74.498,24986,3,"1",1,1,2021,"Emilia Romagna Grand Prix","Y","imola",21,"Autodromo Enzo e Dino Ferrari","Italy",44.3439,11.7167,"37","VER","Max","Verstappen","Dutch",-0.24199999999999,1,0
+1053,815,2,74.446,24996,2,"11",11,1,2021,"Emilia Romagna Grand Prix","Y","imola",21,"Autodromo Enzo e Dino Ferrari","Italy",44.3439,11.7167,"37","PER","Sergio","Pérez","Mexican",-0.293999999999997,0,0
+1053,1,1,74.411,24987,1,"2",2,1,2021,"Emilia Romagna Grand Prix","Y","imola",21,"Autodromo Enzo e Dino Ferrari","Italy",44.3439,11.7167,"37","HAM","Lewis","Hamilton","British",-0.328999999999994,0,0
+1054,830,3,78.746,25007,3,"2",2,1,2021,"Portuguese Grand Prix","N","portimao",75,"Autódromo Internacional do Algarve","Portugal",37.227,-8.6267,"108","VER","Max","Verstappen","Dutch",-0.144000000000005,0,0
+1054,1,2,78.355,25006,2,"1",1,1,2021,"Portuguese Grand Prix","N","portimao",75,"Autódromo Internacional do Algarve","Portugal",37.227,-8.6267,"108","HAM","Lewis","Hamilton","British",-0.534999999999997,1,0
+1054,822,1,78.348,25008,1,"3",3,1,2021,"Portuguese Grand Prix","N","portimao",75,"Autódromo Internacional do Algarve","Portugal",37.227,-8.6267,"108","BOT","Valtteri","Bottas","Finnish",-0.542000000000002,0,0
+1055,822,3,76.873,25028,3,"3",3,1,2021,"Spanish Grand Prix","N","catalunya",4,"Circuit de Barcelona-Catalunya","Spain",41.57,2.26111,"109","BOT","Valtteri","Bottas","Finnish",-0.637,0,0
+1055,830,2,76.777,25027,2,"2",2,1,2021,"Spanish Grand Prix","N","catalunya",4,"Circuit de Barcelona-Catalunya","Spain",41.57,2.26111,"109","VER","Max","Verstappen","Dutch",-0.733000000000004,0,0
+1055,1,1,76.741,25026,1,"1",1,1,2021,"Spanish Grand Prix","N","catalunya",4,"Circuit de Barcelona-Catalunya","Spain",41.57,2.26111,"109","HAM","Lewis","Hamilton","British",-0.769000000000005,1,0
+1056,830,2,70.576,25046,2,"1",1,1,2021,"Monaco Grand Prix","N","monaco",6,"Circuit de Monaco","Monaco",43.7347,7.42056,"7","VER","Max","Verstappen","Dutch",-0.0350000000000108,1,0
+1057,1,2,101.45,25080,2,"15",15,1,2021,"Azerbaijan Grand Prix","N","BAK",73,"Baku City Circuit","Azerbaijan",40.3725,49.8533,"-7","HAM","Lewis","Hamilton","British",-0.115000000000009,0,0
+1057,844,1,101.218,25069,1,"4",4,1,2021,"Azerbaijan Grand Prix","N","BAK",73,"Baku City Circuit","Azerbaijan",40.3725,49.8533,"-7","LEC","Charles","Leclerc","Monegasque",-0.347000000000008,0,0
+1058,846,4,64.12,25110,3,"5",5,11,2021,"Styrian Grand Prix","N","red_bull_ring",70,"Red Bull Ring","Austria",47.2197,14.7647,"678","NOR","Lando","Norris","British",0,0,0
+1058,1,3,64.067,25107,2,"2",2,1,2021,"Styrian Grand Prix","N","red_bull_ring",70,"Red Bull Ring","Austria",47.2197,14.7647,"678","HAM","Lewis","Hamilton","British",-0.0530000000000115,0,0
+1058,830,1,63.841,25106,1,"1",1,1,2021,"Styrian Grand Prix","N","red_bull_ring",70,"Red Bull Ring","Austria",47.2197,14.7647,"678","VER","Max","Verstappen","Dutch",-0.279000000000011,1,0
+1059,822,3,90.376,25089,3,"4",4,1,2021,"French Grand Prix","N","ricard",34,"Circuit Paul Ricard","France",43.2506,5.79167,"432","BOT","Valtteri","Bottas","Finnish",-0.0689999999999884,0,0
+1059,1,2,90.248,25087,2,"2",2,1,2021,"French Grand Prix","N","ricard",34,"Circuit Paul Ricard","France",43.2506,5.79167,"432","HAM","Lewis","Hamilton","British",-0.197000000000003,0,0
+1059,830,1,89.99,25086,1,"1",1,1,2021,"French Grand Prix","N","ricard",34,"Circuit Paul Ricard","France",43.2506,5.79167,"432","VER","Max","Verstappen","Dutch",-0.454999999999984,1,0
+1060,815,3,63.99,25131,3,"6",6,1,2021,"Austrian Grand Prix","N","red_bull_ring",70,"Red Bull Ring","Austria",47.2197,14.7647,"678","PER","Sergio","Pérez","Mexican",-0.0240000000000009,0,0
+1060,846,2,63.768,25128,2,"3",3,1,2021,"Austrian Grand Prix","N","red_bull_ring",70,"Red Bull Ring","Austria",47.2197,14.7647,"678","NOR","Lando","Norris","British",-0.245999999999995,0,0
+1060,830,1,63.72,25126,1,"1",1,1,2021,"Austrian Grand Prix","N","red_bull_ring",70,"Red Bull Ring","Austria",47.2197,14.7647,"678","VER","Max","Verstappen","Dutch",-0.293999999999997,1,0
+1061,822,3,86.328,25148,3,"3",3,1,2021,"British Grand Prix","N","silverstone",9,"Silverstone Circuit","UK",52.0786,-1.01694,"153","BOT","Valtteri","Bottas","Finnish",-0.5,0,0
+1061,1,1,86.134,25146,2,"1",1,1,2021,"British Grand Prix","N","silverstone",9,"Silverstone Circuit","UK",52.0786,-1.01694,"153","HAM","Lewis","Hamilton","British",-0.694000000000003,1,0
+1062,830,3,75.84,25174,3,"9",9,1,2021,"Hungarian Grand Prix","Y","hungaroring",11,"Hungaroring","Hungary",47.5789,19.2486,"264","VER","Max","Verstappen","Dutch",-0.581000000000003,0,0
+1062,1,1,75.419,25167,1,"2",2,1,2021,"Hungarian Grand Prix","Y","hungaroring",11,"Hungaroring","Hungary",47.5789,19.2486,"264","HAM","Lewis","Hamilton","British",-1.00200000000001,0,0
+1063,1,3,120.099,25188,3,"3",3,1,2021,"Belgian Grand Prix","Y","spa",13,"Circuit de Spa-Francorchamps","Belgium",50.4372,5.97139,"401","HAM","Lewis","Hamilton","British",-0.765000000000015,0,0
+1063,847,2,120.086,25187,2,"2",2,1,2021,"Belgian Grand Prix","Y","spa",13,"Circuit de Spa-Francorchamps","Belgium",50.4372,5.97139,"401","RUS","George","Russell","British",-0.777999999999992,0,0
+1063,830,1,119.765,25186,1,"1",1,1,2021,"Belgian Grand Prix","Y","spa",13,"Circuit de Spa-Francorchamps","Belgium",50.4372,5.97139,"401","VER","Max","Verstappen","Dutch",-1.09900000000002,1,0
+1064,822,3,69.222,25208,3,"3",3,1,2021,"Dutch Grand Prix","N","zandvoort",39,"Circuit Park Zandvoort","Netherlands",52.3888,4.54092,"6","BOT","Valtteri","Bottas","Finnish",-0.256,0,0
+1064,1,2,68.923,25207,2,"2",2,1,2021,"Dutch Grand Prix","N","zandvoort",39,"Circuit Park Zandvoort","Netherlands",52.3888,4.54092,"6","HAM","Lewis","Hamilton","British",-0.554999999999993,0,0
+1064,830,1,68.885,25206,1,"1",1,1,2021,"Dutch Grand Prix","N","zandvoort",39,"Circuit Park Zandvoort","Netherlands",52.3888,4.54092,"6","VER","Max","Verstappen","Dutch",-0.592999999999989,1,0
+1065,846,4,79.989,25227,3,"2",2,1,2021,"Italian Grand Prix","N","monza",14,"Autodromo Nazionale di Monza","Italy",45.6156,9.28111,"162","NOR","Lando","Norris","British",0,0,0
+1066,847,3,102.983,25255,3,"10",10,1,2021,"Russian Grand Prix","Y","sochi",71,"Sochi Autodrom","Russia",43.4057,39.9578,"2","RUS","George","Russell","British",-1.06700000000001,0,0
+1066,832,2,102.51,25248,2,"3",3,1,2021,"Russian Grand Prix","Y","sochi",71,"Sochi Autodrom","Russia",43.4057,39.9578,"2","SAI","Carlos","Sainz","Spanish",-1.54000000000002,0,0
+1066,846,1,101.993,25252,1,"7",7,1,2021,"Russian Grand Prix","Y","sochi",71,"Sochi Autodrom","Russia",43.4057,39.9578,"2","NOR","Lando","Norris","British",-2.05700000000002,0,0
+1067,844,4,83.265,25269,3,"4",4,1,2021,"Turkish Grand Prix","Y","istanbul",5,"Istanbul Park","Turkey",40.9517,29.405,"130","LEC","Charles","Leclerc","Monegasque",0,0,0
+1067,830,3,83.196,25267,2,"2",2,1,2021,"Turkish Grand Prix","Y","istanbul",5,"Istanbul Park","Turkey",40.9517,29.405,"130","VER","Max","Verstappen","Dutch",-0.0690000000000026,0,0
+1067,822,2,82.998,25266,1,"1",1,1,2021,"Turkish Grand Prix","Y","istanbul",5,"Istanbul Park","Turkey",40.9517,29.405,"130","BOT","Valtteri","Bottas","Finnish",-0.266999999999996,1,0
+1069,815,3,93.134,25288,3,"3",3,1,2021,"United States Grand Prix","N","americas",69,"Circuit of the Americas","USA",30.1328,-97.6411,"161","PER","Sergio","Pérez","Mexican",-0.341000000000008,0,0
+1069,1,2,93.119,25287,2,"2",2,1,2021,"United States Grand Prix","N","americas",69,"Circuit of the Americas","USA",30.1328,-97.6411,"161","HAM","Lewis","Hamilton","British",-0.355999999999995,0,0
+1069,830,1,92.91,25286,1,"1",1,1,2021,"United States Grand Prix","N","americas",69,"Circuit of the Americas","USA",30.1328,-97.6411,"161","VER","Max","Verstappen","Dutch",-0.564999999999998,1,0
+1070,830,3,76.225,25306,3,"1",1,1,2021,"Mexican Grand Prix","N","rodriguez",32,"Autódromo Hermanos Rodríguez","Mexico",19.4042,-99.0907,"2227","VER","Max","Verstappen","Dutch",-0.117000000000004,1,0
+1070,1,2,76.02,25307,2,"2",2,1,2021,"Mexican Grand Prix","N","rodriguez",32,"Autódromo Hermanos Rodríguez","Mexico",19.4042,-99.0907,"2227","HAM","Lewis","Hamilton","British",-0.322000000000003,0,0
+1070,822,1,75.875,25320,1,"15",15,12,2021,"Mexican Grand Prix","N","rodriguez",32,"Autódromo Hermanos Rodríguez","Mexico",19.4042,-99.0907,"2227","BOT","Valtteri","Bottas","Finnish",-0.466999999999999,0,0
+1071,822,3,68.469,25328,1,"3",3,1,2021,"Brazilian Grand Prix","N","interlagos",18,"Autódromo José Carlos Pace","Brazil",-23.7036,-46.6997,"785","BOT","Valtteri","Bottas","Finnish",-0.01400000000001,0,0
+1071,830,2,68.372,25327,2,"2",2,1,2021,"Brazilian Grand Prix","N","interlagos",18,"Autódromo José Carlos Pace","Brazil",-23.7036,-46.6997,"785","VER","Max","Verstappen","Dutch",-0.111000000000004,0,0
+1072,830,3,87.653,25367,3,"2",2,1,2021,"Saudi Arabian Grand Prix","N","jeddah",77,"Jeddah Street Circuit","Saudi Arabia",21.5433,39.1728,"15","VER","Max","Verstappen","Dutch",-0.400999999999996,0,0
+1072,822,2,87.622,25368,2,"3",3,1,2021,"Saudi Arabian Grand Prix","N","jeddah",77,"Jeddah Street Circuit","Saudi Arabia",21.5433,39.1728,"15","BOT","Valtteri","Bottas","Finnish",-0.432000000000002,0,0
+1072,1,1,87.511,25366,1,"1",1,1,2021,"Saudi Arabian Grand Prix","N","jeddah",77,"Jeddah Street Circuit","Saudi Arabia",21.5433,39.1728,"15","HAM","Lewis","Hamilton","British",-0.543000000000006,1,0
+1073,846,3,82.931,25392,3,"7",7,1,2021,"Abu Dhabi Grand Prix","N","yas_marina",24,"Yas Marina Circuit","UAE",24.4672,54.6031,"3","NOR","Lando","Norris","British",-0.0160000000000053,0,0
+1073,1,2,82.48,25387,2,"2",2,1,2021,"Abu Dhabi Grand Prix","N","yas_marina",24,"Yas Marina Circuit","UAE",24.4672,54.6031,"3","HAM","Lewis","Hamilton","British",-0.466999999999999,0,0
+1073,830,1,82.109,25386,1,"1",1,1,2021,"Abu Dhabi Grand Prix","N","yas_marina",24,"Yas Marina Circuit","UAE",24.4672,54.6031,"3","VER","Max","Verstappen","Dutch",-0.838000000000008,1,1
