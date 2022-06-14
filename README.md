@@ -48,7 +48,7 @@ $$\\begin{align} Entropy = \\sum\_{i=1}^C -p_i \* log_2(p_i) \\end{align}$$
 
 ## Bagging
 
-![Three steps to bagging:](Photos/440px-Ensemble_Bagging.svg.png)
+<img src="Photos/Ensemble_Bagging.svg.png" alt="Three steps to bagging:" width="645"/>
 
 Three steps to bagging:
 
