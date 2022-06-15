@@ -46,7 +46,7 @@ $$\\begin{align} Gini = 1 - \\sum\_{i=1}^N (p_i)^2 \\end{align}$$
 
 $$\\begin{align} Entropy = \\sum\_{i=1}^C -p_i \* log_2(p_i) \\end{align}$$
 
-## Bagging
+## Bagging Algorithms
 
 <img src="Photos/Ensemble_Bagging.svg.png" alt="Three steps to bagging:" width="645"/>
 
@@ -57,6 +57,20 @@ Three steps to bagging:
 2.  **Parallel training:** These bootstrap samples are then trained independently and in parallel with each other using weak or base learners.
 
 3.  **Aggregation:** Finally, depending on the task (i.e. regression or classification), an average or a majority of the predictions are taken to compute a more accurate estimate. In the case of regression, an average is taken of all the outputs predicted by the individual classifiers; this is known as soft voting. For classification problems, the class with the highest majority of votes is accepted; this is known as hard voting or majority voting.
+
+## Boosting Algorithms
+
+![](Photos/Ensemble_Boosting.svg.png)
+
+**End goal of Boosting**: to convert a weak learning algorithm into a stronger algorithm for better predictions. General steps of a boosting algorithm:
+
+1.  The base learner takes all the distributions and assign equal weight or attention to each observation.
+
+2.  If there is any prediction error caused by first base learning algorithm, then we pay higher attention to observations having prediction error.
+
+    1.  Then, apply the next base algorithm.
+
+3.  We repeat (2) until a desired accuracy is achieved.
 
 # Machine Learning Overview
 
