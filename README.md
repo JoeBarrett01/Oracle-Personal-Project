@@ -99,3 +99,7 @@ The general process for developing a machine learning algorithm is:
 5.  **Tuning**: Fine tune the model to maximise it’s performance.
 
 # Machine Learning with Oracle (OML)
+
+1. RSA key can be generated and loaded into user profile. 
+
+2. Access to the code is granted via OCI OML (or directly via ssh in git).
